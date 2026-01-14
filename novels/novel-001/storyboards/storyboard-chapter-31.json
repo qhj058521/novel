@@ -40,7 +40,9 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "轻松融合",
-      "sound_effects": ["城市融合环境音"],
+      "sound_effects": [
+        "城市融合环境音"
+      ],
       "volume_level": "对话突出"
     },
     "editing": {
@@ -95,7 +97,10 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "紧张协商",
-      "sound_effects": ["争论声", "翻译声"],
+      "sound_effects": [
+        "争论声",
+        "翻译声"
+      ],
       "volume_level": "对话突出"
     },
     "editing": {
@@ -150,7 +155,9 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "欢乐混乱",
-      "sound_effects": ["各种异常声"],
+      "sound_effects": [
+        "各种异常声"
+      ],
       "volume_level": "对话突出"
     },
     "editing": {
@@ -212,7 +219,11 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "史诗战斗",
-      "sound_effects": ["龙吼", "导弹声", "规则建立声"],
+      "sound_effects": [
+        "龙吼",
+        "导弹声",
+        "规则建立声"
+      ],
       "volume_level": "音效突出"
     },
     "editing": {
@@ -267,7 +278,9 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "庄重带希望",
-      "sound_effects": ["会议声"],
+      "sound_effects": [
+        "会议声"
+      ],
       "volume_level": "对话突出"
     },
     "editing": {
@@ -315,7 +328,9 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "温馨带新冒险",
-      "sound_effects": ["警报声"],
+      "sound_effects": [
+        "警报声"
+      ],
       "volume_level": "对话突出"
     },
     "editing": {
@@ -325,6 +340,339 @@
     },
     "notes": {
       "production_note": "宏大场景",
+      "reference_style": "史诗温馨",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP31-S007",
+    "chapter_number": 31,
+    "scene_number": 7,
+    "duration": 9,
+    "shot_type": "全景蒙太奇",
+    "location": "地球-各国首都",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "全球多地点",
+      "camera_movement": "快速切换",
+      "framing": "政治蒙太奇",
+      "focus_type": "会议清晰"
+    },
+    "characters": [
+      {
+        "name": "各国领导人",
+        "position": "各会议室",
+        "action": "紧急会议",
+        "expression": "凝重",
+        "costume": "正装"
+      },
+      {
+        "name": "各文明代表",
+        "position": "参与会议",
+        "action": "表达诉求",
+        "expression": "认真",
+        "costume": "各异"
+      }
+    ],
+    "visual_effects": {
+      "environment": "各国会议室",
+      "lighting": "会议灯光",
+      "color_palette": "政治色调",
+      "special_effects": "全息投影会议,各国紧急应对现实融合现象"
+    },
+    "audio": {
+      "dialogue": "我们必须制定统一政策!不能让混乱继续!魔法协会建议建立超自然管理局!AI要求获得公民权利!蘑菇人要合法种植权!这些诉求...我们必须认真考虑!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "紧张政治",
+      "sound_effects": [
+        "会议声",
+        "翻译声"
+      ],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "快速",
+      "purpose": "政治应对蒙太奇"
+    },
+    "notes": {
+      "production_note": "多场景拍摄",
+      "reference_style": "政治剧情",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP31-S008",
+    "chapter_number": 31,
+    "scene_number": 8,
+    "duration": 10,
+    "shot_type": "特效全景",
+    "location": "地球-上空",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "高空俯拍",
+      "camera_movement": "环绕拍摄",
+      "framing": "壮观构图",
+      "focus_type": "现象清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "空中",
+        "action": "观察现象",
+        "expression": "震撼",
+        "costume": "管理者长袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "地球天空",
+      "lighting": "现象光芒",
+      "color_palette": "奇幻色调",
+      "special_effects": "天空出现多个次元裂隙,不同世界的景象投射到天空,形成壮观的天幕"
+    },
+    "audio": {
+      "dialogue": "这规模...比预想的还要大。系统,评估当前情况。现实融合度:百分之37,预计72小时后达到50%临界点。必须在此之前稳定局面!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "震撼壮观",
+      "sound_effects": [
+        "系统提示",
+        "能量波动"
+      ],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "规模展示"
+    },
+    "notes": {
+      "production_note": "需要大量CG特效",
+      "reference_style": "壮观场景",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP31-S009",
+    "chapter_number": 31,
+    "scene_number": 9,
+    "duration": 11,
+    "shot_type": "全景",
+    "location": "联合国-特别会议",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "会场广角",
+      "camera_movement": "多角度拍摄",
+      "framing": "历史性会议构图",
+      "focus_type": "会议清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "主席台",
+        "action": "发表重要讲话",
+        "expression": "庄重",
+        "costume": "管理者长袍"
+      },
+      {
+        "name": "各文明代表",
+        "position": "会场各处",
+        "action": "参与投票",
+        "expression": "庄重",
+        "costume": "各异"
+      },
+      {
+        "name": "人类代表",
+        "position": "会场",
+        "action": "投票表决",
+        "expression": "历史性",
+        "costume": "正装"
+      }
+    ],
+    "visual_effects": {
+      "environment": "联合国大会厅",
+      "lighting": "历史性光芒",
+      "color_palette": "庄严色调",
+      "special_effects": "全息投票系统,实时显示投票结果,历史性时刻被记录"
+    },
+    "audio": {
+      "dialogue": "今天,我们投票决定现实世界融合法案。赞成者请...赞成票:192,反对:3,弃权:7!法案通过!从此,现实世界将正式承认所有投影存在的合法权益,建立多元共存的新秩序!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "历史性时刻",
+      "sound_effects": [
+        "投票声",
+        "掌声雷动"
+      ],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "掌声转场",
+      "pacing": "宏大",
+      "purpose": "历史性时刻"
+    },
+    "notes": {
+      "production_note": "重要场景",
+      "reference_style": "历史性时刻",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP31-S010",
+    "chapter_number": 31,
+    "scene_number": 10,
+    "duration": 10,
+    "shot_type": "全景蒙太奇",
+    "location": "地球-各地",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "全球多地点",
+      "camera_movement": "流畅过渡",
+      "framing": "融合共存构图",
+      "focus_type": "共存场景清晰"
+    },
+    "characters": [
+      {
+        "name": "各文明",
+        "position": "各处",
+        "action": "和谐共存",
+        "expression": "快乐",
+        "costume": "各异"
+      }
+    ],
+    "visual_effects": {
+      "environment": "融合的世界",
+      "lighting": "和谐光芒",
+      "color_palette": "温暖色调",
+      "special_effects": "精灵在公园教孩子魔法,AI帮助老人过马路,蘑菇人合法种植蘑菇店开业,不同种族一起工作生活"
+    },
+    "audio": {
+      "dialogue": "妈妈,那个姐姐有翅膀!她是天使吗?不,她是精灵阿姨哦!哇!精灵阿姨真好看!这是新时代,孩子们要学会和不同的朋友相处",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "温馨融合",
+      "sound_effects": [
+        "笑声",
+        "友好交流"
+      ],
+      "volume_level": "环境音突出"
+    },
+    "editing": {
+      "transition_to_next": "流畅切",
+      "pacing": "舒缓",
+      "purpose": "融合共存展示"
+    },
+    "notes": {
+      "production_note": "温馨场景",
+      "reference_style": "温馨融合",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP31-S011",
+    "chapter_number": 31,
+    "scene_number": 11,
+    "duration": 9,
+    "shot_type": "中景",
+    "location": "地球-临州市大学城",
+    "time_of_day": "傍晚",
+    "composition": {
+      "camera_position": "街道角度",
+      "camera_movement": "跟随拍摄",
+      "framing": "生活构图",
+      "focus_type": "生活场景清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "街上行走",
+        "action": "体验新世界",
+        "expression": "欣慰",
+        "costume": "现代服装"
+      },
+      {
+        "name": "各文明居民",
+        "position": "各处",
+        "action": "正常生活",
+        "expression": "快乐",
+        "costume": "各异"
+      }
+    ],
+    "visual_effects": {
+      "environment": "融合的大学城",
+      "lighting": "夕阳余晖",
+      "color_palette": "生活色调",
+      "special_effects": "大学生和精灵一起上课,机器人做兼职,蘑菇人开奶茶店,和谐的生活场景"
+    },
+    "audio": {
+      "dialogue": "老板,一杯珍珠奶茶!好嘞!你要什么口味的?试试我们新推出的灵果汁!保证喝了心情好!哈哈哈!老板你这营销可以啊!",
+      "narration": "",
+      "internal_monologue": "虽然还有很多问题要解决,但至少...这是一个开始",
+      "background_music": "轻松生活",
+      "sound_effects": [
+        "街市声",
+        "笑声"
+      ],
+      "volume_level": "环境音突出"
+    },
+    "editing": {
+      "transition_to_next": "流畅切",
+      "pacing": "舒缓",
+      "purpose": "生活化展示"
+    },
+    "notes": {
+      "production_note": "生活场景",
+      "reference_style": "轻松生活",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP31-S012",
+    "chapter_number": 31,
+    "scene_number": 12,
+    "duration": 10,
+    "shot_type": "远景",
+    "location": "地球-太空视角",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "太空俯瞰",
+      "camera_movement": "缓慢环绕",
+      "framing": "诗意构图",
+      "focus_type": "地球清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "太空",
+        "action": "俯瞰地球",
+        "expression": "平静,希望",
+        "costume": "管理者长袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "太空俯瞰地球",
+      "lighting": "地球光芒",
+      "color_palette": "宇宙色调",
+      "special_effects": "地球焕发新的光芒,可以看到不同文明的能量交织在一起,形成美丽的网络"
+    },
+    "audio": {
+      "dialogue": "这就是新世界的开始。虽然不完美,虽然还有很多挑战。但至少,我们学会了共存。这就是文明的意义吧...不断学习,不断成长。新的冒险在等待。但现在,让我好好欣赏这个瞬间",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "史诗又温馨",
+      "sound_effects": [
+        "宇宙声"
+      ],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "舒缓",
+      "purpose": "本章收尾,新世界开始"
+    },
+    "notes": {
+      "production_note": "史诗场景",
       "reference_style": "史诗温馨",
       "difficulty_level": "中等"
     }

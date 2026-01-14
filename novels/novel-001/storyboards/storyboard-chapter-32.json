@@ -40,7 +40,9 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "轻松崩溃",
-      "sound_effects": ["表格翻页声"],
+      "sound_effects": [
+        "表格翻页声"
+      ],
       "volume_level": "对话突出"
     },
     "editing": {
@@ -102,7 +104,10 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "轻松尴尬",
-      "sound_effects": ["评估声", "触手声"],
+      "sound_effects": [
+        "评估声",
+        "触手声"
+      ],
       "volume_level": "对话突出"
     },
     "editing": {
@@ -157,7 +162,10 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "欢乐混乱",
-      "sound_effects": ["各种混乱声", "抗议电话"],
+      "sound_effects": [
+        "各种混乱声",
+        "抗议电话"
+      ],
       "volume_level": "对话突出"
     },
     "editing": {
@@ -219,7 +227,10 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "震撼转折",
-      "sound_effects": ["金光爆发声", "战士声"],
+      "sound_effects": [
+        "金光爆发声",
+        "战士声"
+      ],
       "volume_level": "对话突出"
     },
     "editing": {
@@ -281,7 +292,9 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "胜利转向严肃",
-      "sound_effects": ["协议签署声"],
+      "sound_effects": [
+        "协议签署声"
+      ],
       "volume_level": "对话突出"
     },
     "editing": {
@@ -336,7 +349,395 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "温馨冒险",
-      "sound_effects": ["警报声"],
+      "sound_effects": [
+        "警报声"
+      ],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "舒缓",
+      "purpose": "温馨结尾+新冒险"
+    },
+    "notes": {
+      "production_note": "多场景拍摄",
+      "reference_style": "温馨冒险",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP32-S007",
+    "chapter_number": 32,
+    "scene_number": 7,
+    "duration": 10,
+    "shot_type": "全景蒙太奇",
+    "location": "地球-各处",
+    "time_of_day": "多时段",
+    "composition": {
+      "camera_position": "全球多地点",
+      "camera_movement": "快速切换",
+      "framing": "混乱蒙太奇",
+      "focus_type": "混乱清晰"
+    },
+    "characters": [
+      {
+        "name": "指导小组",
+        "position": "各处",
+        "action": "强行优化",
+        "expression": "自信→慌乱",
+        "costume": "各异形态"
+      },
+      {
+        "name": "地球人类",
+        "position": "各处",
+        "action": "投诉,抗议",
+        "expression": "崩溃",
+        "costume": "现代服装"
+      }
+    ],
+    "visual_effects": {
+      "environment": "全球混乱升级",
+      "lighting": "混乱光芒",
+      "color_palette": "高对比度",
+      "special_effects": "数学公式把魔法咒语变方程导致魔法失控,晶体调整能量导致全球停电,雾气把海洋变成果冻导致航运瘫痪,自由女神像解微积分卡住"
+    },
+    "audio": {
+      "dialogue": "投诉热线被打爆了!太平洋真的在抖动!特斯拉们集体罢工跳天鹅湖!这就是你们的优化?!这简直是灾难!必须立即停止!根据联盟条例,我们有义务继续指导",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "欢乐混乱",
+      "sound_effects": [
+        "投诉电话铃声",
+        "混乱声"
+      ],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "极快",
+      "purpose": "混乱升级蒙太奇"
+    },
+    "notes": {
+      "production_note": "大量特效",
+      "reference_style": "欢乐混乱",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP32-S008",
+    "chapter_number": 32,
+    "scene_number": 8,
+    "duration": 9,
+    "shot_type": "中景",
+    "location": "维度办公室",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "办公室内部",
+      "camera_movement": "激烈对话",
+      "framing": "对抗构图",
+      "focus_type": "冲突清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "办公桌前",
+        "action": "拍桌子,愤怒",
+        "expression": "愤怒",
+        "costume": "管理者长袍"
+      },
+      {
+        "name": "塔克",
+        "position": "对面",
+        "action": "坚持指导",
+        "expression": "固执",
+        "costume": "章鱼形态"
+      },
+      {
+        "name": "零",
+        "position": "旁边",
+        "action": "劝架",
+        "expression": "为难",
+        "costume": "虚拟形象"
+      }
+    ],
+    "visual_effects": {
+      "environment": "办公室",
+      "lighting": "紧张氛围",
+      "color_palette": "冲突色调",
+      "special_effects": "投诉记录堆积如山,天魔剑投影出混乱指数飙升"
+    },
+    "audio": {
+      "dialogue": "够了!看看你们造成了什么混乱!这根本不是指导,是破坏!根据联盟标准,这是必要的优化过程!优化个屁!自由女神像卡在微积分第三步了!总统让我们解释为什么!这...这是正常的学习过程!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "紧张冲突",
+      "sound_effects": [
+        "拍桌子",
+        "投影声"
+      ],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "冲突升级"
+    },
+    "notes": {
+      "production_note": "冲突场景",
+      "reference_style": "紧张冲突",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP32-S009",
+    "chapter_number": 32,
+    "scene_number": 9,
+    "duration": 10,
+    "shot_type": "中景",
+    "location": "地球-小浩家",
+    "time_of_day": "晚上",
+    "composition": {
+      "camera_position": "家庭角度",
+      "camera_movement": "跟随冲突",
+      "framing": "家庭对抗构图",
+      "focus_type": "冲突清晰"
+    },
+    "characters": [
+      {
+        "name": "小浩",
+        "position": "家中",
+        "action": "死死抱住游戏机",
+        "expression": "倔强哭泣",
+        "costume": "家居服"
+      },
+      {
+        "name": "塔克",
+        "position": "面前",
+        "action": "试图拿走游戏机",
+        "expression": "为难但坚持",
+        "costume": "章鱼形态"
+      },
+      {
+        "name": "顾玄",
+        "position": "冲进来",
+        "action": "护住弟弟",
+        "expression": "愤怒爆发",
+        "costume": "管理者长袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "普通家庭客厅",
+      "lighting": "温馨家庭灯光",
+      "color_palette": "暖色调",
+      "special_effects": "游戏机突然爆发出耀眼光芒,塔克被震飞,金甲战士虚影浮现"
+    },
+    "audio": {
+      "dialogue": "这是我哥送我的!你们不能拿走!这是联盟财产,必须登记!我不管什么联盟!这是我哥哥留给我的唯一纪念!放开他!!",
+      "narration": "",
+      "internal_monologue": "那是上一个顾玄留下的...",
+      "background_music": "情感爆发",
+      "sound_effects": [
+        "游戏机光芒声",
+        "塔克惊呼"
+      ],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "光芒转场",
+      "pacing": "激烈",
+      "purpose": "情感爆发+转折"
+    },
+    "notes": {
+      "production_note": "情感场景",
+      "reference_style": "情感爆发",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP32-S010",
+    "chapter_number": 32,
+    "scene_number": 10,
+    "duration": 11,
+    "shot_type": "特效全景",
+    "location": "地球-小浩家",
+    "time_of_day": "晚上",
+    "composition": {
+      "camera_position": "环绕拍摄",
+      "camera_movement": "快速环绕",
+      "framing": "震撼构图",
+      "focus_type": "认证清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "光芒中",
+        "action": "被认证",
+        "expression": "震惊",
+        "costume": "管理者长袍"
+      },
+      {
+        "name": "金甲战士",
+        "position": "虚影",
+        "action": "认证通过",
+        "expression": "庄严",
+        "costume": "金甲形态"
+      },
+      {
+        "name": "塔克",
+        "position": "震惊",
+        "action": "跪伏",
+        "expression": "震撼",
+        "costume": "章鱼形态"
+      },
+      {
+        "name": "小浩",
+        "position": "一旁",
+        "action": "惊讶观看",
+        "expression": "惊讶",
+        "costume": "家居服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "普通客厅",
+      "lighting": "认证金光",
+      "color_palette": "神圣色调",
+      "special_effects": "游戏机爆发出金光,金甲战士虚影浮现,联盟创始者印记显现,塔克被震撼跪伏,整个房间被神圣光芒笼罩"
+    },
+    "audio": {
+      "dialogue": "检测到联盟创始者印记...身份确认:顾玄,权限等级:创始成员。特权:一票否决权,最高决策权,解散联盟权...什么?!创始成员?!不可能!创始者已经失踪亿万年了!身份确认无误。欢迎回家,阁下",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "震撼转折",
+      "sound_effects": [
+        "认证声",
+        "塔克震惊"
+      ],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "光芒转场",
+      "pacing": "宏大",
+      "purpose": "身份认证高潮"
+    },
+    "notes": {
+      "production_note": "需要大量CG特效",
+      "reference_style": "震撼转折",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP32-S011",
+    "chapter_number": 32,
+    "scene_number": 11,
+    "duration": 10,
+    "shot_type": "中景",
+    "location": "维度办公室",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "谈判角度",
+      "camera_movement": "缓慢推近",
+      "framing": "谈判构图",
+      "focus_type": "谈判清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "办公桌后",
+        "action": "冷笑谈判",
+        "expression": "自信",
+        "costume": "管理者长袍"
+      },
+      {
+        "name": "塔克",
+        "position": "卑微位置",
+        "action": "点头哈腰",
+        "expression": "惶恐",
+        "costume": "章鱼形态"
+      },
+      {
+        "name": "金甲战士",
+        "position": "一旁",
+        "action": "展示权限",
+        "expression": "庄严",
+        "costume": "金甲形态"
+      }
+    ],
+    "visual_effects": {
+      "environment": "恢复正常的办公室",
+      "lighting": "谈判氛围",
+      "color_palette": "谈判色调",
+      "special_effects": "金甲战士展示加密数据,塔克态度大变,指导小组取消行动"
+    },
+    "audio": {
+      "dialogue": "现在想起来了?但事情还没完。第一,恢复地球原状。第二,正式道歉。第三,作为惩罚,塔克你留下来当驻地球大使。第四,提供技术支持和赔偿。明白吗?!明明白白!当然!完全理解!您真是太宽容了!",
+      "narration": "",
+      "internal_monologue": "终于能松口气了...",
+      "background_music": "胜利转严肃",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "谈判胜利"
+    },
+    "notes": {
+      "production_note": "谈判场景",
+      "reference_style": "胜利谈判",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP32-S012",
+    "chapter_number": 32,
+    "scene_number": 12,
+    "duration": 9,
+    "shot_type": "远景",
+    "location": "地球-各地",
+    "time_of_day": "多时段",
+    "composition": {
+      "camera_position": "多地切换",
+      "camera_movement": "流畅过渡",
+      "framing": "和谐共存构图",
+      "focus_type": "和谐场景清晰"
+    },
+    "characters": [
+      {
+        "name": "各文明",
+        "position": "各处",
+        "action": "和谐共存",
+        "expression": "快乐",
+        "costume": "各异"
+      },
+      {
+        "name": "塔克",
+        "position": "帮忙",
+        "action": "融入生活",
+        "expression": "快乐",
+        "costume": "章鱼形态"
+      },
+      {
+        "name": "顾玄",
+        "position": "巡视",
+        "action": "观察,欣慰",
+        "expression": "欣慰",
+        "costume": "现代服装"
+      }
+    ],
+    "visual_effects": {
+      "environment": "和谐融合的地球",
+      "lighting": "和谐光芒",
+      "color_palette": "暖色调",
+      "special_effects": "精灵教大学生魔法,AI帮老太太修电脑,蘑菇人合法种蘑菇,塔克用触手帮小朋友捡风筝,各文明真正和谐共存"
+    },
+    "audio": {
+      "dialogue": "塔克,你适应得不错啊!哈哈!地球太有趣了!我喜欢这里!尤其是那些奶茶!还有小朋友们都喜欢我!顾玄,谢谢你让我们留下来。这才是文明该有的样子。警报!检测到新的创始者遗物信号!在某个未探索的维度!看来...该出趟远门了",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "温馨冒险",
+      "sound_effects": [
+        "警报声"
+      ],
       "volume_level": "对话突出"
     },
     "editing": {

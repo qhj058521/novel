@@ -47,7 +47,9 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "神秘探险",
-      "sound_effects": ["星图声"],
+      "sound_effects": [
+        "星图声"
+      ],
       "volume_level": "对话突出"
     },
     "editing": {
@@ -95,7 +97,10 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "诡异紧张",
-      "sound_effects": ["混乱声", "时空扭曲声"],
+      "sound_effects": [
+        "混乱声",
+        "时空扭曲声"
+      ],
       "volume_level": "音效突出"
     },
     "editing": {
@@ -143,7 +148,10 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "智慧幽默",
-      "sound_effects": ["谜题声", "门哭了"],
+      "sound_effects": [
+        "谜题声",
+        "门哭了"
+      ],
       "volume_level": "对话突出"
     },
     "editing": {
@@ -198,7 +206,10 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "神圣史诗",
-      "sound_effects": ["遗物声", "城堡震动"],
+      "sound_effects": [
+        "遗物声",
+        "城堡震动"
+      ],
       "volume_level": "音效突出"
     },
     "editing": {
@@ -253,7 +264,10 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "心灵史诗",
-      "sound_effects": ["思维声", "共鸣声"],
+      "sound_effects": [
+        "思维声",
+        "共鸣声"
+      ],
       "volume_level": "音效突出"
     },
     "editing": {
@@ -308,13 +322,363 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "希望史诗",
-      "sound_effects": ["欢呼"],
+      "sound_effects": [
+        "欢呼"
+      ],
       "volume_level": "对话突出"
     },
     "editing": {
       "transition_to_next": "淡出",
       "pacing": "舒缓",
       "purpose": "希望延续"
+    },
+    "notes": {
+      "production_note": "宏大场景",
+      "reference_style": "希望史诗",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP33-S007",
+    "chapter_number": 33,
+    "scene_number": 7,
+    "duration": 11,
+    "shot_type": "中景",
+    "location": "Ξ-12遗忘维度-探索路上",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "跟随探险队",
+      "camera_movement": "探索推进",
+      "framing": "探索构图",
+      "focus_type": "探索清晰"
+    },
+    "characters": [
+      {
+        "name": "探险队",
+        "position": "前进中",
+        "action": "对抗混乱,前进",
+        "expression": "吃力,坚定",
+        "costume": "各异"
+      },
+      {
+        "name": "时空守卫",
+        "position": "阻拦",
+        "action": "攻击",
+        "expression": "机械执行",
+        "costume": "古老铠甲"
+      }
+    ],
+    "visual_effects": {
+      "environment": "更加混乱的空间",
+      "lighting": "混乱光芒",
+      "color_palette": "高对比度",
+      "special_effects": "探险队使用各种方法对抗时空混乱,塔克用触手稳定空间,蘑菇人用孢子连接现实,顾玄用天魔剑系统分析规则"
+    },
+    "audio": {
+      "dialogue": "这规则太混乱了!1加1等于蘑菇,重力倒着来,时间在打结!别抱怨了!继续前进!根据系统分析,核心就在前面!但是守卫越来越多!物理攻击有效!用物理手段突破!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "紧张探索",
+      "sound_effects": [
+        "能量对抗",
+        "时空扭曲"
+      ],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "探索推进"
+    },
+    "notes": {
+      "production_note": "需要大量CG特效",
+      "reference_style": "紧张探索",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP33-S008",
+    "chapter_number": 33,
+    "scene_number": 8,
+    "duration": 10,
+    "shot_type": "全景",
+    "location": "Ξ-12-谜题城堡入口",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "城堡仰视",
+      "camera_movement": "缓慢上升",
+      "framing": "神秘构图",
+      "focus_type": "城堡清晰"
+    },
+    "characters": [
+      {
+        "name": "探险队",
+        "position": "城堡前",
+        "action": "仰望城堡",
+        "expression": "震撼",
+        "costume": "各异"
+      }
+    ],
+    "visual_effects": {
+      "environment": "谜题城堡",
+      "lighting": "城堡变换光芒",
+      "color_palette": "神秘色调",
+      "special_effects": "巨大城堡不断变换形态,入口有无数门,门上有各种谜题,城堡周围时空扭曲"
+    },
+    "audio": {
+      "dialogue": "这就是核心...谜题城堡?看起来...有很多门。哪扇门是正确的?每一扇门都是考验。必须通过所有房间才能到达核心。九九八十一难?好吧,来吧!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "神秘探索",
+      "sound_effects": [
+        "城堡变换声"
+      ],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "到达核心入口"
+    },
+    "notes": {
+      "production_note": "需要CG制作城堡",
+      "reference_style": "神秘场景",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP33-S009",
+    "chapter_number": 33,
+    "scene_number": 9,
+    "duration": 10,
+    "shot_type": "中景蒙太奇",
+    "location": "Ξ-12-谜题房间",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "多房间切换",
+      "camera_movement": "快速切换",
+      "framing": "智力挑战构图",
+      "focus_type": "谜题清晰"
+    },
+    "characters": [
+      {
+        "name": "探险队",
+        "position": "各房间",
+        "action": "解答谜题",
+        "expression": "思考,崩溃",
+        "costume": "各异"
+      }
+    ],
+    "visual_effects": {
+      "environment": "各种谜题房间",
+      "lighting": "智慧光芒",
+      "color_palette": "神秘色调",
+      "special_effects": "各种脑洞大开的谜题:哲学房间需要证明自己存在,物理房间需要创造新定律,逻辑房间需要讲笑话,情感房间需要展现真心"
+    },
+    "audio": {
+      "dialogue": "第一个房间:时间!答对了!第二个:知识!正确!咕噜(蘑菇)!这个房间需要证明自己存在!我思故我在!太哲学了!这个房间需要讲笑话!为什么程序员不洗澡?因为他们会死机!哈哈哈哈!通过!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "智慧幽默",
+      "sound_effects": [
+        "谜题声",
+        "门开了"
+      ],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "中等",
+      "purpose": "智力考验蒙太奇"
+    },
+    "notes": {
+      "production_note": "创意场景",
+      "reference_style": "智慧幽默",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP33-S010",
+    "chapter_number": 33,
+    "scene_number": 10,
+    "duration": 11,
+    "shot_type": "特效全景",
+    "location": "Ξ-12-核心房间",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "环绕核心",
+      "camera_movement": "缓慢旋转",
+      "framing": "神圣构图",
+      "focus_type": "遗物清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "核心前",
+        "action": "触碰遗物,接受测试",
+        "expression": "专注,明悟",
+        "costume": "管理者长袍"
+      },
+      {
+        "name": "几何体遗物",
+        "position": "中央",
+        "action": "展示宇宙,测试智慧",
+        "expression": "无",
+        "costume": "变化几何"
+      },
+      {
+        "name": "探险队",
+        "position": "周围",
+        "action": "见证",
+        "expression": "震撼",
+        "costume": "各异"
+      }
+    ],
+    "visual_effects": {
+      "environment": "核心房间",
+      "lighting": "金色光芒",
+      "color_palette": "神圣色调",
+      "special_effects": "变化几何体展示从宇宙诞生到终结,顾玄指出理论错误并修正,遗物认可,三件遗物共鸣,城堡开始崩塌"
+    },
+    "audio": {
+      "dialogue": "这里错了。热寂不是终点,而是新起点。正确。智慧测试通过。接下来是心性...继承者,证明你的担当。没有完美选择,唯有承担责任。心性测试通过。三件遗物齐聚!三重稳定协议启动!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "神圣史诗",
+      "sound_effects": [
+        "遗物声",
+        "共鸣声",
+        "城堡震动"
+      ],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "光芒转场",
+      "pacing": "宏大",
+      "purpose": "获得遗物+协议启动"
+    },
+    "notes": {
+      "production_note": "需要大量CG特效",
+      "reference_style": "神圣史诗",
+      "difficulty_level": "非常复杂"
+    }
+  },
+  {
+    "shot_id": "EP33-S011",
+    "chapter_number": 33,
+    "scene_number": 11,
+    "duration": 10,
+    "shot_type": "特效全景",
+    "location": "意识之海",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "主观视角",
+      "camera_movement": "思维流动",
+      "framing": "抽象构图",
+      "focus_type": "思维清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "意识之海",
+        "action": "面对终极试炼",
+        "expression": "痛苦→释然",
+        "costume": "意识形态"
+      },
+      {
+        "name": "光团(第三遗物)",
+        "position": "海中央",
+        "action": "测试,共鸣",
+        "expression": "智慧",
+        "costume": "变化光团"
+      }
+    ],
+    "visual_effects": {
+      "environment": "无穷思维波浪",
+      "lighting": "思维光芒",
+      "color_palette": "意识色彩",
+      "special_effects": "顾玄看到不同世界线的可能性,面对选择的后果,看到众生恐惧希望创造毁灭,最终明悟承担责任,三件遗物共鸣融合"
+    },
+    "audio": {
+      "dialogue": "继承者,证明你的心性。你看到了什么?不同的可能性...不同的选择...不同的后果...你害怕吗?害怕。但我会承担。因为这就是责任。心性通过。三件遗物正式认可!协议启动!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "心灵史诗",
+      "sound_effects": [
+        "思维声",
+        "共鸣声"
+      ],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "光芒转场",
+      "pacing": "宏大",
+      "purpose": "终极试炼"
+    },
+    "notes": {
+      "production_note": "抽象意识场景",
+      "reference_style": "心灵史诗",
+      "difficulty_level": "非常复杂"
+    }
+  },
+  {
+    "shot_id": "EP33-S012",
+    "chapter_number": 33,
+    "scene_number": 12,
+    "duration": 9,
+    "shot_type": "远景",
+    "location": "主宇宙-各地",
+    "time_of_day": "恢复",
+    "composition": {
+      "camera_position": "宇宙视角",
+      "camera_movement": "缓慢拉远",
+      "framing": "希望构图",
+      "focus_type": "恢复清晰"
+    },
+    "characters": [
+      {
+        "name": "各文明",
+        "position": "各世界",
+        "action": "庆祝,欢呼",
+        "expression": "喜悦",
+        "costume": "各异"
+      },
+      {
+        "name": "顾玄",
+        "position": "维度间隙",
+        "action": "观察复苏宇宙",
+        "expression": "欣慰,警觉",
+        "costume": "管理者长袍"
+      },
+      {
+        "name": "三件遗物",
+        "position": "环绕",
+        "action": "稳定宇宙",
+        "expression": "稳定光芒",
+        "costume": "三件遗物形态"
+      }
+    ],
+    "visual_effects": {
+      "environment": "复苏的宇宙",
+      "lighting": "希望光芒",
+      "color_palette": "暖色调",
+      "special_effects": "宇宙震荡完全平息,各世界欢呼庆祝,三件遗物环绕顾玄形成稳定力场,星图显示过滤器最终阶段即将到来"
+    },
+    "audio": {
+      "dialogue": "成功了!三件遗物齐聚!宇宙稳定了!我们做到了!但我知道,这只是暂时的稳定。星图显示,大过滤器的最终阶段即将到来—那时需要整个宇宙同心协力才能突破。任务还很漫长,但至少...有了希望。而且,我不再是孤军奋战了",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "希望史诗",
+      "sound_effects": [
+        "欢呼",
+        "遗物共鸣"
+      ],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "舒缓",
+      "purpose": "第三卷收尾,希望延续"
     },
     "notes": {
       "production_note": "宏大场景",
