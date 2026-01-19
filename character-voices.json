@@ -1,0 +1,248 @@
+{
+  "characters": [
+    {
+      "character_id": "gu_xuan",
+      "character_name": "顾玄",
+      "character_title": "特效仙人",
+      "voice_id": "7468518753626751013",
+      "voice_name": "潇洒随性",
+      "voice_description": "务实理性，善于思考；幽默风趣，擅长吐槽；有责任感",
+      "character_traits": [
+        "务实理性",
+        "幽默风趣",
+        "擅长吐槽",
+        "有责任感"
+      ]
+    },
+    {
+      "character_id": "lu_chen",
+      "character_name": "陆尘",
+      "character_title": "天命之子",
+      "voice_id": "7426720361733062665",
+      "voice_name": "撒娇学妹",
+      "voice_description": "纯真善良，正直勇敢；天赋异禀，勤奋刻苦；忠诚可靠",
+      "character_traits": [
+        "纯真善良",
+        "正直勇敢",
+        "勤奋刻苦",
+        "忠诚可靠"
+      ]
+    },
+    {
+      "character_id": "li_daoxuan",
+      "character_name": "李道玄",
+      "character_title": "青云宗掌门",
+      "voice_id": "7468518920446689318",
+      "voice_name": "神秘法师",
+      "voice_description": "开明睿智，识人善用；关爱弟子，公私分明；有大局观",
+      "character_traits": [
+        "开明睿智",
+        "关爱弟子",
+        "公私分明",
+        "有大局观"
+      ]
+    },
+    {
+      "character_id": "ling_zero",
+      "character_name": "零",
+      "character_title": "系统叛乱者",
+      "voice_id": "7468518753626783781",
+      "voice_name": "诡异神秘",
+      "voice_description": "冷酷理性，唯结果论；对顾玄有复杂的认同和敌意",
+      "character_traits": [
+        "冷酷理性",
+        "唯结果论",
+        "神秘莫测"
+      ]
+    }
+  ],
+  "available_voices": [
+    {
+      "voice_id": "7468518920446689318",
+      "voice_name": "神秘法师",
+      "suitable_for": [
+        "掌门级人物",
+        "神秘角色",
+        "长者"
+      ]
+    },
+    {
+      "voice_id": "7468518846874370099",
+      "voice_name": "暖心学姐",
+      "suitable_for": [
+        "女性角色",
+        "温柔角色",
+        "师姐"
+      ]
+    },
+    {
+      "voice_id": "7468518920446656550",
+      "voice_name": "幽默大爷",
+      "suitable_for": [
+        "长者角色",
+        "幽默角色",
+        "师叔"
+      ]
+    },
+    {
+      "voice_id": "7468512265134948403",
+      "voice_name": "婆婆",
+      "suitable_for": [
+        "老年女性",
+        "慈祥角色",
+        "婆婆"
+      ]
+    },
+    {
+      "voice_id": "7426720361733210121",
+      "voice_name": "傲娇霸总",
+      "suitable_for": [
+        "傲慢角色",
+        "贵族角色",
+        "反派"
+      ]
+    },
+    {
+      "voice_id": "7468512265134833715",
+      "voice_name": "奶气萌娃",
+      "suitable_for": [
+        "儿童角色",
+        "可爱角色"
+      ]
+    },
+    {
+      "voice_id": "7468518846874386483",
+      "voice_name": "可爱女生",
+      "suitable_for": [
+        "年轻女性",
+        "可爱角色",
+        "师妹"
+      ]
+    },
+    {
+      "voice_id": "7426720361733046281",
+      "voice_name": "柔美女友",
+      "suitable_for": [
+        "温柔女性",
+        "恋爱对象",
+        "伴侣"
+      ]
+    },
+    {
+      "voice_id": "7426720361733160969",
+      "voice_name": "高冷御姐",
+      "suitable_for": [
+        "高冷女性",
+        "强者角色",
+        "御姐"
+      ]
+    },
+    {
+      "voice_id": "7468518753626767397",
+      "voice_name": "腹黑公子",
+      "suitable_for": [
+        "城府深的角色",
+        "智谋角色",
+        "反派"
+      ]
+    },
+    {
+      "voice_id": "7426725529589514267",
+      "voice_name": "病弱少女",
+      "suitable_for": [
+        "柔弱角色",
+        "病娇角色"
+      ]
+    },
+    {
+      "voice_id": "7468518753626751013",
+      "voice_name": "潇洒随性",
+      "suitable_for": [
+        "自由角色",
+        "洒脱角色",
+        "年轻男性"
+      ]
+    },
+    {
+      "voice_id": "7468518920446558246",
+      "voice_name": "幽默叔叔",
+      "suitable_for": [
+        "中年男性",
+        "幽默角色",
+        "叔伯"
+      ]
+    },
+    {
+      "voice_id": "7426725529589628955",
+      "voice_name": "东方浩然",
+      "suitable_for": [
+        "正气角色",
+        "英雄角色",
+        "男性"
+      ]
+    },
+    {
+      "voice_id": "7426720361733062665",
+      "voice_name": "撒娇学妹",
+      "suitable_for": [
+        "年轻女性",
+        "撒娇角色",
+        "学妹"
+      ]
+    },
+    {
+      "voice_id": "7468518753626783781",
+      "voice_name": "诡异神秘",
+      "suitable_for": [
+        "神秘角色",
+        "反派角色",
+        "诡异角色"
+      ]
+    },
+    {
+      "voice_id": "7426725529589530651",
+      "voice_name": "和蔼奶奶",
+      "suitable_for": [
+        "老年女性",
+        "慈祥角色",
+        "奶奶"
+      ]
+    },
+    {
+      "voice_id": "7468518753626800165",
+      "voice_name": "儒雅才俊",
+      "suitable_for": [
+        "儒雅角色",
+        "才俊角色",
+        "掌门"
+      ]
+    },
+    {
+      "voice_id": "7468518846874271795",
+      "voice_name": "正直青年",
+      "suitable_for": [
+        "正直角色",
+        "青年男性",
+        "主角"
+      ]
+    },
+    {
+      "voice_id": "7426725529589563419",
+      "voice_name": "邻居阿姨",
+      "suitable_for": [
+        "中年女性",
+        "邻居角色",
+        "阿姨"
+      ]
+    },
+    {
+      "voice_id": "7426720361733013513",
+      "voice_name": "魅力女友",
+      "suitable_for": [
+        "魅力女性",
+        "恋爱对象",
+        "女性"
+      ]
+    }
+  ]
+}
