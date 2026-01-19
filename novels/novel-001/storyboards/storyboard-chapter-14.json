@@ -43,14 +43,6 @@
           {
             "speaker": "天衍宗主",
             "text": "此秘境乃我宗偶然发现，内有上古遗迹，疑似某大能洞府。为表诚意，特邀青云宗共同探索，所得五五分成。"
-          },
-          {
-            "speaker": "李道玄",
-            "text": "（激动得胡子发抖）"
-          },
-          {
-            "speaker": "旁白",
-            "text": "顾玄(内心): 秘境探索？那不是小说里死人最多的地方吗？我这水货进去不是送菜？"
           }
         ],
         "background_music": "轻松转紧张",
@@ -61,6 +53,86 @@
         "pacing": "moderate"
       },
       "notes": "开篇展示地位反转后的好处，埋下危险伏笔"
+    },
+    {
+      "shot_id": "EP14-S001-2",
+      "chapter_number": 14,
+      "scene_number": 1,
+      "duration": 3,
+      "shot_type": "中景",
+      "location": "青云宗正殿",
+      "time_of_day": "日",
+      "composition": "李道玄激动反应",
+      "characters": [
+        {
+          "name": "李道玄",
+          "action": "激动得胡子发抖",
+          "expression": "激动兴奋",
+          "costume": "掌门道袍"
+        },
+        {
+          "name": "顾玄",
+          "action": "看着，内心打鼓",
+          "expression": "表面淡定，内心忐忑",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "李道玄激动表情特写",
+        "color_grading": "金光闪闪"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "李道玄",
+            "text": "（激动得胡子发抖）"
+          }
+        ],
+        "background_music": "轻松转紧张",
+        "sound_effects": ""
+      },
+      "editing": {
+        "transition": "切",
+        "pacing": "moderate"
+      },
+      "notes": "李道玄激动的反应"
+    },
+    {
+      "shot_id": "EP14-S001-3",
+      "chapter_number": 14,
+      "scene_number": 1,
+      "duration": 5,
+      "shot_type": "特写",
+      "location": "青云宗正殿",
+      "time_of_day": "日",
+      "composition": "顾玄内心独白",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "听着，内心打鼓",
+          "expression": "表面淡定，内心忐忑",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "内心独白特效",
+        "color_grading": "金光闪闪"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "旁白",
+            "text": "顾玄(内心): 秘境探索？那不是小说里死人最多的地方吗？我这水货进去不是送菜？"
+          }
+        ],
+        "background_music": "轻松转紧张",
+        "sound_effects": ""
+      },
+      "editing": {
+        "transition": "切",
+        "pacing": "moderate"
+      },
+      "notes": "顾玄内心独白"
     },
     {
       "shot_id": "EP14-S002",
@@ -112,22 +184,6 @@
           {
             "speaker": "天衍长老",
             "text": "秘境入口有禁制，需集众人之力方能开启。请..."
-          },
-          {
-            "speaker": "旁白",
-            "text": "（禁制自动打开）"
-          },
-          {
-            "speaker": "天衍长老",
-            "text": "这...这就开了？顾前辈果然神通广大！"
-          },
-          {
-            "speaker": "顾玄",
-            "text": "区区禁制，何足挂齿。走吧。"
-          },
-          {
-            "speaker": "旁白",
-            "text": "顾玄(内心): 我不是，我没有，它自己开的啊！"
           }
         ],
         "background_music": "神秘紧张",
@@ -138,6 +194,172 @@
         "pacing": "moderate"
       },
       "notes": "第一个爽点：意外自动开门"
+    },
+    {
+      "shot_id": "EP14-S002-2",
+      "chapter_number": 14,
+      "scene_number": 2,
+      "duration": 3,
+      "shot_type": "特效全景",
+      "location": "秘境入口处",
+      "time_of_day": "日",
+      "composition": "禁制自动打开",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "天魔之力自动涌出",
+          "expression": "惊讶",
+          "costume": "青色道袍"
+        },
+        {
+          "name": "众人",
+          "action": "目瞪口呆",
+          "expression": "震惊",
+          "costume": "各色法袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "禁制自动打开、稳定光门形成",
+        "color_grading": "神秘紫色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "旁白",
+            "text": "（禁制自动打开）"
+          }
+        ],
+        "background_music": "神秘紧张",
+        "sound_effects": "禁制开启声"
+      },
+      "editing": {
+        "transition": "慢动作部分",
+        "pacing": "moderate"
+      },
+      "notes": "禁制自动打开"
+    },
+    {
+      "shot_id": "EP14-S002-3",
+      "chapter_number": 14,
+      "scene_number": 2,
+      "duration": 5,
+      "shot_type": "中景",
+      "location": "秘境入口处",
+      "time_of_day": "日",
+      "composition": "天衍长老震惊反应",
+      "characters": [
+        {
+          "name": "天衍长老",
+          "action": "震惊，结结巴巴",
+          "expression": "敬畏",
+          "costume": "长老法袍"
+        },
+        {
+          "name": "顾玄",
+          "action": "强作镇定",
+          "expression": "表面淡定",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "众人目瞪口呆表情特效",
+        "color_grading": "神秘紫色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "天衍长老",
+            "text": "这...这就开了？顾前辈果然神通广大！"
+          }
+        ],
+        "background_music": "神秘紧张",
+        "sound_effects": "人群惊呼"
+      },
+      "editing": {
+        "transition": "慢动作部分",
+        "pacing": "moderate"
+      },
+      "notes": "天衍长老震惊"
+    },
+    {
+      "shot_id": "EP14-S002-4",
+      "chapter_number": 14,
+      "scene_number": 2,
+      "duration": 5,
+      "shot_type": "中景",
+      "location": "秘境入口处",
+      "time_of_day": "日",
+      "composition": "顾玄回应",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "淡然回应",
+          "expression": "表面淡定，内心懵逼",
+          "costume": "青色道袍"
+        },
+        {
+          "name": "众人",
+          "action": "敬畏地看着",
+          "expression": "崇拜",
+          "costume": "各色法袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "众人敬畏表情",
+        "color_grading": "神秘紫色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "顾玄",
+            "text": "区区禁制，何足挂齿。走吧。"
+          }
+        ],
+        "background_music": "神秘紧张",
+        "sound_effects": ""
+      },
+      "editing": {
+        "transition": "慢动作部分",
+        "pacing": "moderate"
+      },
+      "notes": "顾玄淡然回应"
+    },
+    {
+      "shot_id": "EP14-S002-5",
+      "chapter_number": 14,
+      "scene_number": 2,
+      "duration": 5,
+      "shot_type": "特写",
+      "location": "秘境入口处",
+      "time_of_day": "日",
+      "composition": "顾玄内心独白",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "内心呐喊",
+          "expression": "表面淡定，内心懵逼",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "内心独白特效",
+        "color_grading": "神秘紫色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "旁白",
+            "text": "顾玄(内心): 我不是，我没有，它自己开的啊！"
+          }
+        ],
+        "background_music": "神秘紧张",
+        "sound_effects": ""
+      },
+      "editing": {
+        "transition": "慢动作部分",
+        "pacing": "moderate"
+      },
+      "notes": "顾玄内心独白"
     },
     {
       "shot_id": "EP14-S003",
@@ -177,18 +399,6 @@
           {
             "speaker": "天衍长老",
             "text": "大家小心，此地有上古凶兽，务必..."
-          },
-          {
-            "speaker": "旁白",
-            "text": "（巨兔冲出）"
-          },
-          {
-            "speaker": "天衍长老",
-            "text": "这、这是...上古凶兽'裂天兎'？记载中能吞日月的凶物？怎么长得...这么可爱？"
-          },
-          {
-            "speaker": "巨兔",
-            "text": "阿嚏！（气浪席卷）"
           }
         ],
         "background_music": "紧张转搞笑",
@@ -199,6 +409,135 @@
         "pacing": "moderate"
       },
       "notes": "第二个爽点：萌兔养成，反差萌"
+    },
+    {
+      "shot_id": "EP14-S003-2",
+      "chapter_number": 14,
+      "scene_number": 3,
+      "duration": 5,
+      "shot_type": "特效全景",
+      "location": "秘境内荒古丛林",
+      "time_of_day": "昏暗",
+      "composition": "巨兔冲出",
+      "characters": [
+        {
+          "name": "巨兔",
+          "action": "冲出丛林，蹦蹦跳跳",
+          "expression": "歪头眨眼",
+          "costume": "毛茸茸外表，体型如小山"
+        },
+        {
+          "name": "众人",
+          "action": "结阵如临大敌",
+          "expression": "紧张",
+          "costume": "各色法袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "地面震动特效、树木倒伏",
+        "color_grading": "昏暗丛林色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "旁白",
+            "text": "（巨兔冲出）"
+          }
+        ],
+        "background_music": "紧张转搞笑",
+        "sound_effects": "兽吼、地面震动"
+      },
+      "editing": {
+        "transition": "紧张到搞笑的快速转换",
+        "pacing": "moderate"
+      },
+      "notes": "巨兔冲出"
+    },
+    {
+      "shot_id": "EP14-S003-3",
+      "chapter_number": 14,
+      "scene_number": 3,
+      "duration": 8,
+      "shot_type": "中景",
+      "location": "秘境内荒古丛林",
+      "time_of_day": "昏暗",
+      "composition": "天衍长老震惊反应",
+      "characters": [
+        {
+          "name": "天衍长老",
+          "action": "震惊，结结巴巴",
+          "expression": "目瞪口呆",
+          "costume": "长老法袍"
+        },
+        {
+          "name": "巨兔",
+          "action": "歪头眨眼，打喷嚏",
+          "expression": "可爱",
+          "costume": "毛茸茸外表，体型如小山"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "巨兔打喷嚏气浪席卷",
+        "color_grading": "昏暗丛林色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "天衍长老",
+            "text": "这、这是...上古凶兽'裂天兎'？记载中能吞日月的凶物？怎么长得...这么可爱？"
+          }
+        ],
+        "background_music": "紧张转搞笑",
+        "sound_effects": "喷嚏声"
+      },
+      "editing": {
+        "transition": "紧张到搞笑的快速转换",
+        "pacing": "moderate"
+      },
+      "notes": "天衍长老震惊"
+    },
+    {
+      "shot_id": "EP14-S003-4",
+      "chapter_number": 14,
+      "scene_number": 3,
+      "duration": 5,
+      "shot_type": "特效全景",
+      "location": "秘境内荒古丛林",
+      "time_of_day": "昏暗",
+      "composition": "巨兔打喷嚏",
+      "characters": [
+        {
+          "name": "巨兔",
+          "action": "打喷嚏，气浪席卷",
+          "expression": "可爱",
+          "costume": "毛茸茸外表，体型如小山"
+        },
+        {
+          "name": "众人",
+          "action": "被气浪吹得东倒西歪",
+          "expression": "懵逼",
+          "costume": "各色法袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "巨兔打喷嚏气浪席卷",
+        "color_grading": "昏暗丛林色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "巨兔",
+            "text": "阿嚏！（气浪席卷）"
+          }
+        ],
+        "background_music": "紧张转搞笑",
+        "sound_effects": "喷嚏声、气浪声"
+      },
+      "editing": {
+        "transition": "紧张到搞笑的快速转换",
+        "pacing": "moderate"
+      },
+      "notes": "巨兔打喷嚏"
     },
     {
       "shot_id": "EP14-S004",
@@ -238,22 +577,6 @@
           {
             "speaker": "顾玄",
             "text": "？？？这兔子...在撒娇？"
-          },
-          {
-            "speaker": "众人",
-            "text": "！！！上古凶兽在撒娇？！"
-          },
-          {
-            "speaker": "天衍长老",
-            "text": "裂天兎乃上古凶兽，性情暴戾，见人就吞...怎么会..."
-          },
-          {
-            "speaker": "顾玄",
-            "text": "万物有灵，以诚相待即可。"
-          },
-          {
-            "speaker": "旁白",
-            "text": "顾玄(内心): 这兔子该不会也是天魔养的吧？！"
           }
         ],
         "background_music": "搞笑轻松",
@@ -264,6 +587,178 @@
         "pacing": "moderate"
       },
       "notes": "展示主角与上古凶兽的意外互动"
+    },
+    {
+      "shot_id": "EP14-S004-2",
+      "chapter_number": 14,
+      "scene_number": 4,
+      "duration": 5,
+      "shot_type": "全景",
+      "location": "秘境丛林",
+      "time_of_day": "昏暗",
+      "composition": "众人震惊反应",
+      "characters": [
+        {
+          "name": "众人",
+          "action": "目瞪口呆",
+          "expression": "震惊",
+          "costume": "各色法袍"
+        },
+        {
+          "name": "巨兔",
+          "action": "蹭顾玄，撒娇",
+          "expression": "撒娇卖萌",
+          "costume": "毛茸茸外表"
+        },
+        {
+          "name": "顾玄",
+          "action": "摸兔头",
+          "expression": "懵逼",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "众人震惊表情",
+        "color_grading": "温馨可爱色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "众人",
+            "text": "！！！上古凶兽在撒娇？！"
+          }
+        ],
+        "background_music": "搞笑轻松",
+        "sound_effects": "人群低语"
+      },
+      "editing": {
+        "transition": "切",
+        "pacing": "moderate"
+      },
+      "notes": "众人震惊"
+    },
+    {
+      "shot_id": "EP14-S004-3",
+      "chapter_number": 14,
+      "scene_number": 4,
+      "duration": 5,
+      "shot_type": "中景",
+      "location": "秘境丛林",
+      "time_of_day": "昏暗",
+      "composition": "天衍长老解释",
+      "characters": [
+        {
+          "name": "天衍长老",
+          "action": "震惊，结结巴巴",
+          "expression": "目瞪口呆",
+          "costume": "长老法袍"
+        },
+        {
+          "name": "巨兔",
+          "action": "蹭顾玄，撒娇",
+          "expression": "撒娇卖萌",
+          "costume": "毛茸茸外表"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "巨兔撒娇特效",
+        "color_grading": "温馨可爱色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "天衍长老",
+            "text": "裂天兎乃上古凶兽，性情暴戾，见人就吞...怎么会..."
+          }
+        ],
+        "background_music": "搞笑轻松",
+        "sound_effects": ""
+      },
+      "editing": {
+        "transition": "切",
+        "pacing": "moderate"
+      },
+      "notes": "天衍长老解释"
+    },
+    {
+      "shot_id": "EP14-S004-4",
+      "chapter_number": 14,
+      "scene_number": 4,
+      "duration": 5,
+      "shot_type": "中景",
+      "location": "秘境丛林",
+      "time_of_day": "昏暗",
+      "composition": "顾玄淡定回应",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "摸兔头，强作镇定",
+          "expression": "表面淡定，内心懵逼",
+          "costume": "青色道袍"
+        },
+        {
+          "name": "巨兔",
+          "action": "蹭顾玄，撒娇",
+          "expression": "撒娇卖萌",
+          "costume": "毛茸茸外表"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "巨兔撒娇特效",
+        "color_grading": "温馨可爱色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "顾玄",
+            "text": "万物有灵，以诚相待即可。"
+          }
+        ],
+        "background_music": "搞笑轻松",
+        "sound_effects": "撒娇声"
+      },
+      "editing": {
+        "transition": "切",
+        "pacing": "moderate"
+      },
+      "notes": "顾玄淡定回应"
+    },
+    {
+      "shot_id": "EP14-S004-5",
+      "chapter_number": 14,
+      "scene_number": 4,
+      "duration": 5,
+      "shot_type": "特写",
+      "location": "秘境丛林",
+      "time_of_day": "昏暗",
+      "composition": "顾玄内心独白",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "内心吐槽",
+          "expression": "表面淡定，内心懵逼",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "内心独白特效",
+        "color_grading": "温馨可爱色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "旁白",
+            "text": "顾玄(内心): 这兔子该不会也是天魔养的吧？！"
+          }
+        ],
+        "background_music": "搞笑轻松",
+        "sound_effects": ""
+      },
+      "editing": {
+        "transition": "切",
+        "pacing": "moderate"
+      },
+      "notes": "顾玄内心独白"
     },
     {
       "shot_id": "EP14-S005",
@@ -297,18 +792,6 @@
           {
             "speaker": "天衍长老",
             "text": "看来是藏宝洞！但洞口有禁制...咦？禁制呢？"
-          },
-          {
-            "speaker": "旁白",
-            "text": "（进洞看到宝物）"
-          },
-          {
-            "speaker": "各宗弟子",
-            "text": "发财了！"
-          },
-          {
-            "speaker": "巨兔",
-            "text": "吼！（恐怖威压，示意顾玄先拿）"
           }
         ],
         "background_music": "兴奋激昂",
@@ -319,6 +802,135 @@
         "pacing": "fast"
       },
       "notes": "第三个爽点：排队领宝"
+    },
+    {
+      "shot_id": "EP14-S005-2",
+      "chapter_number": 14,
+      "scene_number": 5,
+      "duration": 5,
+      "shot_type": "特效全景",
+      "location": "秘境悬崖洞穴",
+      "time_of_day": "昏暗",
+      "composition": "进洞看到宝物",
+      "characters": [
+        {
+          "name": "众人",
+          "action": "震惊，眼睛发红",
+          "expression": "兴奋",
+          "costume": "各色法袍"
+        },
+        {
+          "name": "巨兔",
+          "action": "蹦蹦跳跳",
+          "expression": "得意",
+          "costume": "毛茸茸外表"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "满地天材地宝、灵石小山、法器散落",
+        "color_grading": "金光闪闪"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "旁白",
+            "text": "（进洞看到宝物）"
+          }
+        ],
+        "background_music": "兴奋激昂",
+        "sound_effects": "人群惊呼"
+      },
+      "editing": {
+        "transition": "切",
+        "pacing": "fast"
+      },
+      "notes": "进洞看到宝物"
+    },
+    {
+      "shot_id": "EP14-S005-3",
+      "chapter_number": 14,
+      "scene_number": 5,
+      "duration": 5,
+      "shot_type": "全景",
+      "location": "藏宝洞穴",
+      "time_of_day": "昏暗",
+      "composition": "各宗弟子兴奋反应",
+      "characters": [
+        {
+          "name": "各宗弟子",
+          "action": "眼睛发红，冲上前",
+          "expression": "兴奋",
+          "costume": "各色法袍"
+        },
+        {
+          "name": "巨兔",
+          "action": "低吼警告",
+          "expression": "严肃",
+          "costume": "毛茸茸外表"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "满地天材地宝",
+        "color_grading": "金光闪闪"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "各宗弟子",
+            "text": "发财了！"
+          }
+        ],
+        "background_music": "兴奋激昂",
+        "sound_effects": "人群惊呼"
+      },
+      "editing": {
+        "transition": "切",
+        "pacing": "fast"
+      },
+      "notes": "各宗弟子兴奋"
+    },
+    {
+      "shot_id": "EP14-S005-4",
+      "chapter_number": 14,
+      "scene_number": 5,
+      "duration": 5,
+      "shot_type": "中景",
+      "location": "藏宝洞穴",
+      "time_of_day": "昏暗",
+      "composition": "巨兔警告，示意顾玄先拿",
+      "characters": [
+        {
+          "name": "巨兔",
+          "action": "低吼警告，拱顾玄",
+          "expression": "严肃",
+          "costume": "毛茸茸外表"
+        },
+        {
+          "name": "众人",
+          "action": "不敢动弹",
+          "expression": "惊恐",
+          "costume": "各色法袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "巨兔低吼威压",
+        "color_grading": "金光闪闪"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "巨兔",
+            "text": "吼！（恐怖威压，示意顾玄先拿）"
+          }
+        ],
+        "background_music": "兴奋激昂",
+        "sound_effects": "巨兔低吼"
+      },
+      "editing": {
+        "transition": "切",
+        "pacing": "fast"
+      },
+      "notes": "巨兔警告"
     },
     {
       "shot_id": "EP14-S006",
@@ -364,22 +976,6 @@
           {
             "speaker": "旁白",
             "text": "顾玄随手捡起锈剑。"
-          },
-          {
-            "speaker": "天衍长老",
-            "text": "顾前辈果然眼光独到！此剑看似平凡，定非凡品！"
-          },
-          {
-            "speaker": "顾玄",
-            "text": "......"
-          },
-          {
-            "speaker": "旁白",
-            "text": "顾玄(内心): 我就是随便拿的啊！"
-          },
-          {
-            "speaker": "旁白",
-            "text": "（巨兔低吼警告，众人排队领宝）"
           }
         ],
         "background_music": "轻松诙谐",
@@ -390,6 +986,166 @@
         "pacing": "moderate"
       },
       "notes": "展示荒诞的排队领宝场景"
+    },
+    {
+      "shot_id": "EP14-S006-2",
+      "chapter_number": 14,
+      "scene_number": 6,
+      "duration": 5,
+      "shot_type": "中景",
+      "location": "藏宝洞穴",
+      "time_of_day": "昏暗",
+      "composition": "天衍长老奉承",
+      "characters": [
+        {
+          "name": "天衍长老",
+          "action": "立即奉承",
+          "expression": "崇拜",
+          "costume": "长老法袍"
+        },
+        {
+          "name": "顾玄",
+          "action": "拿着锈剑，尴尬",
+          "expression": "尴尬",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "锈剑特写",
+        "color_grading": "温馨搞笑色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "天衍长老",
+            "text": "顾前辈果然眼光独到！此剑看似平凡，定非凡品！"
+          }
+        ],
+        "background_music": "轻松诙谐",
+        "sound_effects": "人群低语"
+      },
+      "editing": {
+        "transition": "切",
+        "pacing": "moderate"
+      },
+      "notes": "天衍长老奉承"
+    },
+    {
+      "shot_id": "EP14-S006-3",
+      "chapter_number": 14,
+      "scene_number": 6,
+      "duration": 3,
+      "shot_type": "特写",
+      "location": "藏宝洞穴",
+      "time_of_day": "昏暗",
+      "composition": "顾玄无语",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "拿着锈剑，无语",
+          "expression": "尴尬",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "顾玄尴尬表情特写",
+        "color_grading": "温馨搞笑色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "顾玄",
+            "text": "......"
+          }
+        ],
+        "background_music": "轻松诙谐",
+        "sound_effects": ""
+      },
+      "editing": {
+        "transition": "切",
+        "pacing": "moderate"
+      },
+      "notes": "顾玄无语"
+    },
+    {
+      "shot_id": "EP14-S006-4",
+      "chapter_number": 14,
+      "scene_number": 6,
+      "duration": 5,
+      "shot_type": "特写",
+      "location": "藏宝洞穴",
+      "time_of_day": "昏暗",
+      "composition": "顾玄内心独白",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "内心吐槽",
+          "expression": "表面尴尬，内心懵逼",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "内心独白特效",
+        "color_grading": "温馨搞笑色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "旁白",
+            "text": "顾玄(内心): 我就是随便拿的啊！"
+          }
+        ],
+        "background_music": "轻松诙谐",
+        "sound_effects": ""
+      },
+      "editing": {
+        "transition": "切",
+        "pacing": "moderate"
+      },
+      "notes": "顾玄内心独白"
+    },
+    {
+      "shot_id": "EP14-S006-5",
+      "chapter_number": 14,
+      "scene_number": 6,
+      "duration": 8,
+      "shot_type": "全景",
+      "location": "藏宝洞穴",
+      "time_of_day": "昏暗",
+      "composition": "巨兔监督，众人排队领宝",
+      "characters": [
+        {
+          "name": "巨兔",
+          "action": "当保安，低吼警告",
+          "expression": "严肃",
+          "costume": "毛茸茸外表"
+        },
+        {
+          "name": "各宗弟子",
+          "action": "排队挑选宝物",
+          "expression": "兴奋",
+          "costume": "各色法袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "众人排队特效、巨兔低吼威压",
+        "color_grading": "温馨搞笑色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "旁白",
+            "text": "（巨兔低吼警告，众人排队领宝）"
+          }
+        ],
+        "background_music": "轻松诙谐",
+        "sound_effects": "巨兔低吼、人群低语"
+      },
+      "editing": {
+        "transition": "切",
+        "pacing": "moderate"
+      },
+      "notes": "众人排队领宝"
     },
     {
       "shot_id": "EP14-S007",
@@ -429,22 +1185,6 @@
           {
             "speaker": "天衍长老",
             "text": "这似乎是某种传承...但需要特殊方法激活..."
-          },
-          {
-            "speaker": "旁白",
-            "text": "（光柱笼罩陆尘）"
-          },
-          {
-            "speaker": "陆尘",
-            "text": "啊！"
-          },
-          {
-            "speaker": "天衍长老",
-            "text": "《九霄雷典》...传说中雷道至高法典...居然就这么..."
-          },
-          {
-            "speaker": "旁白",
-            "text": "顾玄(内心): 又来了！这天魔之力怎么老自动送机缘啊！"
           }
         ],
         "background_music": "神秘震撼",
@@ -455,6 +1195,166 @@
         "pacing": "moderate"
       },
       "notes": "陆尘获得传承，实力提升"
+    },
+    {
+      "shot_id": "EP14-S007-2",
+      "chapter_number": 14,
+      "scene_number": 7,
+      "duration": 5,
+      "shot_type": "特效全景",
+      "location": "秘境核心祭坛",
+      "time_of_day": "昏暗",
+      "composition": "光柱笼罩陆尘",
+      "characters": [
+        {
+          "name": "陆尘",
+          "action": "被光柱笼罩",
+          "expression": "惊呼",
+          "costume": "弟子服，光柱环绕"
+        },
+        {
+          "name": "众人",
+          "action": "震惊",
+          "expression": "羡慕嫉妒",
+          "costume": "各色法袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "光柱笼罩陆尘、传承信息流入特效",
+        "color_grading": "神秘金色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "旁白",
+            "text": "（光柱笼罩陆尘）"
+          }
+        ],
+        "background_music": "神秘震撼",
+        "sound_effects": "石碑嗡鸣、符文流动声"
+      },
+      "editing": {
+        "transition": "慢动作部分",
+        "pacing": "moderate"
+      },
+      "notes": "光柱笼罩陆尘"
+    },
+    {
+      "shot_id": "EP14-S007-3",
+      "chapter_number": 14,
+      "scene_number": 7,
+      "duration": 5,
+      "shot_type": "特写",
+      "location": "秘境核心祭坛",
+      "time_of_day": "昏暗",
+      "composition": "陆尘惊呼",
+      "characters": [
+        {
+          "name": "陆尘",
+          "action": "被光柱笼罩，惊呼",
+          "expression": "惊呼→茫然",
+          "costume": "弟子服，光柱环绕"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "传承信息流入特效",
+        "color_grading": "神秘金色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "陆尘",
+            "text": "啊！"
+          }
+        ],
+        "background_music": "神秘震撼",
+        "sound_effects": "石碑嗡鸣"
+      },
+      "editing": {
+        "transition": "慢动作部分",
+        "pacing": "moderate"
+      },
+      "notes": "陆尘惊呼"
+    },
+    {
+      "shot_id": "EP14-S007-4",
+      "chapter_number": 14,
+      "scene_number": 7,
+      "duration": 5,
+      "shot_type": "中景",
+      "location": "秘境核心祭坛",
+      "time_of_day": "昏暗",
+      "composition": "天衍长老震惊",
+      "characters": [
+        {
+          "name": "天衍长老",
+          "action": "震惊，声音干涩",
+          "expression": "羡慕嫉妒",
+          "costume": "长老法袍"
+        },
+        {
+          "name": "陆尘",
+          "action": "茫然四顾",
+          "expression": "茫然",
+          "costume": "弟子服"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "传承信息流入特效",
+        "color_grading": "神秘金色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "天衍长老",
+            "text": "《九霄雷典》...传说中雷道至高法典...居然就这么..."
+          }
+        ],
+        "background_music": "神秘震撼",
+        "sound_effects": ""
+      },
+      "editing": {
+        "transition": "慢动作部分",
+        "pacing": "moderate"
+      },
+      "notes": "天衍长老震惊"
+    },
+    {
+      "shot_id": "EP14-S007-5",
+      "chapter_number": 14,
+      "scene_number": 7,
+      "duration": 5,
+      "shot_type": "特写",
+      "location": "秘境核心祭坛",
+      "time_of_day": "昏暗",
+      "composition": "顾玄内心独白",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "内心吐槽",
+          "expression": "表面淡定，内心慌得一批",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "内心独白特效",
+        "color_grading": "神秘金色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "旁白",
+            "text": "顾玄(内心): 又来了！这天魔之力怎么老自动送机缘啊！"
+          }
+        ],
+        "background_music": "神秘震撼",
+        "sound_effects": ""
+      },
+      "editing": {
+        "transition": "慢动作部分",
+        "pacing": "moderate"
+      },
+      "notes": "顾玄内心独白"
     },
     {
       "shot_id": "EP14-S008",
@@ -494,10 +1394,6 @@
           {
             "speaker": "魔物",
             "text": "哈哈哈！本座终于脱困了！蝼蚁们，成为本座脱困的第一个祭品吧！"
-          },
-          {
-            "speaker": "天衍长老",
-            "text": "是上古魔物！快结阵！"
           }
         ],
         "background_music": "紧张恐怖",
@@ -508,6 +1404,49 @@
         "pacing": "fast"
       },
       "notes": "危机升级，上古魔物出现"
+    },
+    {
+      "shot_id": "EP14-S008-2",
+      "chapter_number": 14,
+      "scene_number": 8,
+      "duration": 5,
+      "shot_type": "中景",
+      "location": "秘境核心祭坛",
+      "time_of_day": "昏暗",
+      "composition": "天衍长老惊呼",
+      "characters": [
+        {
+          "name": "天衍长老",
+          "action": "大惊，慌忙结阵",
+          "expression": "惊恐",
+          "costume": "长老法袍"
+        },
+        {
+          "name": "魔物",
+          "action": "狰狞咆哮",
+          "expression": "狂妄",
+          "costume": "狰狞魔形，黑气环绕"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "恐怖魔威笼罩全场",
+        "color_grading": "黑暗恐怖色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "天衍长老",
+            "text": "是上古魔物！快结阵！"
+          }
+        ],
+        "background_music": "紧张恐怖",
+        "sound_effects": "祭坛震动"
+      },
+      "editing": {
+        "transition": "快速剪辑",
+        "pacing": "fast"
+      },
+      "notes": "天衍长老惊呼"
     },
     {
       "shot_id": "EP14-S009",
@@ -541,18 +1480,6 @@
           {
             "speaker": "魔物",
             "text": "先从最弱的开始...就你吧！"
-          },
-          {
-            "speaker": "旁白",
-            "text": "（铛！魔爪与锈剑相撞）"
-          },
-          {
-            "speaker": "魔物",
-            "text": "天、天魔剑？！不可能！天魔剑怎么会在你手里？！"
-          },
-          {
-            "speaker": "旁白",
-            "text": "顾玄(内心): 这把也是天魔剑？你们天魔是批发剑的吗？"
           }
         ],
         "background_music": "紧张转搞笑",
@@ -563,6 +1490,129 @@
         "pacing": "fast"
       },
       "notes": "反转：魔物被天魔剑吓跑"
+    },
+    {
+      "shot_id": "EP14-S009-2",
+      "chapter_number": 14,
+      "scene_number": 9,
+      "duration": 5,
+      "shot_type": "特效特写",
+      "location": "秘境核心祭坛",
+      "time_of_day": "昏暗",
+      "composition": "魔爪与锈剑相撞",
+      "characters": [
+        {
+          "name": "魔物",
+          "action": "扑向顾玄",
+          "expression": "狂妄",
+          "costume": "狰狞魔形"
+        },
+        {
+          "name": "顾玄",
+          "action": "举剑格挡",
+          "expression": "吓傻",
+          "costume": "青色道袍，持锈剑"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "魔爪与锈剑相撞火花",
+        "color_grading": "紧张对比色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "旁白",
+            "text": "（铛！魔爪与锈剑相撞）"
+          }
+        ],
+        "background_music": "紧张转搞笑",
+        "sound_effects": "碰撞声"
+      },
+      "editing": {
+        "transition": "快速切换",
+        "pacing": "fast"
+      },
+      "notes": "魔爪与锈剑相撞"
+    },
+    {
+      "shot_id": "EP14-S009-3",
+      "chapter_number": 14,
+      "scene_number": 9,
+      "duration": 5,
+      "shot_type": "中景",
+      "location": "秘境核心祭坛",
+      "time_of_day": "昏暗",
+      "composition": "魔物认出天魔剑",
+      "characters": [
+        {
+          "name": "魔物",
+          "action": "惨叫，连连后退",
+          "expression": "惊恐",
+          "costume": "狰狞魔形"
+        },
+        {
+          "name": "顾玄",
+          "action": "举剑格挡",
+          "expression": "愣住",
+          "costume": "青色道袍，持锈剑"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "魔物惨叫、天魔之力特效",
+        "color_grading": "紧张对比色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "魔物",
+            "text": "天、天魔剑？！不可能！天魔剑怎么会在你手里？！"
+          }
+        ],
+        "background_music": "紧张转搞笑",
+        "sound_effects": "魔物惨叫"
+      },
+      "editing": {
+        "transition": "快速切换",
+        "pacing": "fast"
+      },
+      "notes": "魔物认出天魔剑"
+    },
+    {
+      "shot_id": "EP14-S009-4",
+      "chapter_number": 14,
+      "scene_number": 9,
+      "duration": 5,
+      "shot_type": "特写",
+      "location": "秘境核心祭坛",
+      "time_of_day": "昏暗",
+      "composition": "顾玄内心独白",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "内心吐槽",
+          "expression": "愣住",
+          "costume": "青色道袍，持锈剑"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "内心独白特效",
+        "color_grading": "紧张对比色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "旁白",
+            "text": "顾玄(内心): 这把也是天魔剑？你们天魔是批发剑的吗？"
+          }
+        ],
+        "background_music": "紧张转搞笑",
+        "sound_effects": ""
+      },
+      "editing": {
+        "transition": "快速切换",
+        "pacing": "fast"
+      },
+      "notes": "顾玄内心独白"
     },
     {
       "shot_id": "EP14-S010",
@@ -602,18 +1652,6 @@
           {
             "speaker": "顾玄",
             "text": "孽畜！见到本座还敢放肆？！"
-          },
-          {
-            "speaker": "魔物",
-            "text": "天、天魔大人饶命！小的不知是您驾到！（扑通跪下）"
-          },
-          {
-            "speaker": "顾玄",
-            "text": "念你初犯，滚回封印去！"
-          },
-          {
-            "speaker": "魔物",
-            "text": "是是是！小的这就滚！（自己钻回地底，顺手合上裂缝）"
           }
         ],
         "background_music": "震撼搞笑",
@@ -624,6 +1662,135 @@
         "pacing": "moderate"
       },
       "notes": "展示主角装逼成功，魔物被吓跑"
+    },
+    {
+      "shot_id": "EP14-S010-2",
+      "chapter_number": 14,
+      "scene_number": 10,
+      "duration": 5,
+      "shot_type": "中景",
+      "location": "秘境核心祭坛",
+      "time_of_day": "昏暗",
+      "composition": "魔物求饶",
+      "characters": [
+        {
+          "name": "魔物",
+          "action": "跪地求饶",
+          "expression": "惊恐",
+          "costume": "狰狞魔形"
+        },
+        {
+          "name": "顾玄",
+          "action": "持剑而立",
+          "expression": "表面威严",
+          "costume": "青色道袍，持剑"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "天魔之力震慑特效、魔物跪地",
+        "color_grading": "震撼色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "魔物",
+            "text": "天、天魔大人饶命！小的不知是您驾到！（扑通跪下）"
+          }
+        ],
+        "background_music": "震撼搞笑",
+        "sound_effects": "魔物求饶"
+      },
+      "editing": {
+        "transition": "切",
+        "pacing": "moderate"
+      },
+      "notes": "魔物求饶"
+    },
+    {
+      "shot_id": "EP14-S010-3",
+      "chapter_number": 14,
+      "scene_number": 10,
+      "duration": 5,
+      "shot_type": "中景",
+      "location": "秘境核心祭坛",
+      "time_of_day": "昏暗",
+      "composition": "顾玄命令",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "持剑而立，厉喝",
+          "expression": "表面威严",
+          "costume": "青色道袍，持剑"
+        },
+        {
+          "name": "魔物",
+          "action": "跪地求饶",
+          "expression": "惊恐",
+          "costume": "狰狞魔形"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "天魔之力震慑特效",
+        "color_grading": "震撼色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "顾玄",
+            "text": "念你初犯，滚回封印去！"
+          }
+        ],
+        "background_music": "震撼搞笑",
+        "sound_effects": ""
+      },
+      "editing": {
+        "transition": "切",
+        "pacing": "moderate"
+      },
+      "notes": "顾玄命令"
+    },
+    {
+      "shot_id": "EP14-S010-4",
+      "chapter_number": 14,
+      "scene_number": 10,
+      "duration": 5,
+      "shot_type": "特效全景",
+      "location": "秘境核心祭坛",
+      "time_of_day": "昏暗",
+      "composition": "魔物钻回地底",
+      "characters": [
+        {
+          "name": "魔物",
+          "action": "钻回地底，合上裂缝",
+          "expression": "如蒙大赦",
+          "costume": "狰狞魔形"
+        },
+        {
+          "name": "众人",
+          "action": "目瞪口呆",
+          "expression": "震惊",
+          "costume": "各色法袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "地底裂缝、魔物消失",
+        "color_grading": "震撼色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "魔物",
+            "text": "是是是！小的这就滚！（自己钻回地底，顺手合上裂缝）"
+          }
+        ],
+        "background_music": "震撼搞笑",
+        "sound_effects": "地底裂缝声"
+      },
+      "editing": {
+        "transition": "切",
+        "pacing": "moderate"
+      },
+      "notes": "魔物钻回地底"
     },
     {
       "shot_id": "EP14-S011",
@@ -651,18 +1818,6 @@
           {
             "speaker": "系统提示",
             "text": "检测到辅助装备'制式魔剑-7型'，开始同步升级数据..."
-          },
-          {
-            "speaker": "顾玄",
-            "text": "原来如此...这天魔剑就是个标准装备！难怪那魔物认得！"
-          },
-          {
-            "speaker": "旁白",
-            "text": "（运转天魔之力，剑身锈迹脱落，露出显示屏）"
-          },
-          {
-            "speaker": "顾玄",
-            "text": "......这画风是不是哪里不对？！更离谱的是，剑柄侧面居然有个USB接口！"
           }
         ],
         "background_music": "科技感电子乐",
@@ -673,6 +1828,117 @@
         "pacing": "moderate"
       },
       "notes": "第四个爽点：科技版天魔剑，世界观崩塌"
+    },
+    {
+      "shot_id": "EP14-S011-2",
+      "chapter_number": 14,
+      "scene_number": 11,
+      "duration": 5,
+      "shot_type": "特写",
+      "location": "秘境核心祭坛→顾玄视野",
+      "time_of_day": "昏暗",
+      "composition": "顾玄恍然大悟",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "看着剑，恍然大悟",
+          "expression": "恍然大悟",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "信息流入脑海特效",
+        "color_grading": "科技感色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "顾玄",
+            "text": "原来如此...这天魔剑就是个标准装备！难怪那魔物认得！"
+          }
+        ],
+        "background_music": "科技感电子乐",
+        "sound_effects": "系统提示音"
+      },
+      "editing": {
+        "transition": "特效转场",
+        "pacing": "moderate"
+      },
+      "notes": "顾玄恍然大悟"
+    },
+    {
+      "shot_id": "EP14-S011-3",
+      "chapter_number": 14,
+      "scene_number": 11,
+      "duration": 5,
+      "shot_type": "特效特写",
+      "location": "秘境核心祭坛→顾玄视野",
+      "time_of_day": "昏暗",
+      "composition": "运转天魔之力，锈迹脱落",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "运转天魔之力",
+          "expression": "恍然大悟",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "锈迹脱落、剑身显示屏显示",
+        "color_grading": "科技感色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "旁白",
+            "text": "（运转天魔之力，剑身锈迹脱落，露出显示屏）"
+          }
+        ],
+        "background_music": "科技感电子乐",
+        "sound_effects": "锈迹脱落声"
+      },
+      "editing": {
+        "transition": "特效转场",
+        "pacing": "moderate"
+      },
+      "notes": "锈迹脱落"
+    },
+    {
+      "shot_id": "EP14-S011-4",
+      "chapter_number": 14,
+      "scene_number": 11,
+      "duration": 5,
+      "shot_type": "特写",
+      "location": "秘境核心祭坛→顾玄视野",
+      "time_of_day": "昏暗",
+      "composition": "顾玄懵逼",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "看着剑的显示屏和USB接口",
+          "expression": "懵逼",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "剑身显示屏显示、USB接口特写",
+        "color_grading": "科技感色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "顾玄",
+            "text": "......这画风是不是哪里不对？！更离谱的是，剑柄侧面居然有个USB接口！"
+          }
+        ],
+        "background_music": "科技感电子乐",
+        "sound_effects": ""
+      },
+      "editing": {
+        "transition": "特效转场",
+        "pacing": "moderate"
+      },
+      "notes": "顾玄懵逼"
     },
     {
       "shot_id": "EP14-S012",
@@ -706,14 +1972,6 @@
           {
             "speaker": "顾玄",
             "text": "居然真的能充？！这输出还是快充模式？！所以这其实是个大型充电宝？！那我以后出门是不是不用带充电器了？!"
-          },
-          {
-            "speaker": "顾玄",
-            "text": "我穿越的...真的是修仙世界吗？该不会是什么高科技文明伪装成修仙吧？或者...天魔其实是个科技种族？"
-          },
-          {
-            "speaker": "魔教右使",
-            "text": "天魔大人不仅找回天魔剑，连'制式魔剑'都激活了...看来复苏进度远超预期...计划必须提前了！"
           }
         ],
         "background_music": "悬疑电子乐",
@@ -724,6 +1982,80 @@
         "pacing": "moderate"
       },
       "notes": "结尾钩子：天魔的科技属性暗示，魔教计划提前"
+    },
+    {
+      "shot_id": "EP14-S012-2",
+      "chapter_number": 14,
+      "scene_number": 12,
+      "duration": 8,
+      "shot_type": "特写",
+      "location": "青云宗临时住处",
+      "time_of_day": "夜",
+      "composition": "顾玄沉思",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "用天魔剑给手机充电，陷入沉思",
+          "expression": "震惊→沉思",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "手机充电特效、世界观崩塌具象化",
+        "color_grading": "对比色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "顾玄",
+            "text": "我穿越的...真的是修仙世界吗？该不会是什么高科技文明伪装成修仙吧？或者...天魔其实是个科技种族？"
+          }
+        ],
+        "background_music": "悬疑电子乐",
+        "sound_effects": "充电提示音"
+      },
+      "editing": {
+        "transition": "平行剪辑",
+        "pacing": "moderate"
+      },
+      "notes": "顾玄沉思"
+    },
+    {
+      "shot_id": "EP14-S012-3",
+      "chapter_number": 14,
+      "scene_number": 12,
+      "duration": 8,
+      "shot_type": "中景",
+      "location": "魔教总坛",
+      "time_of_day": "夜",
+      "composition": "魔教右使收到情报",
+      "characters": [
+        {
+          "name": "魔教右使",
+          "action": "看着情报，面色凝重",
+          "expression": "凝重",
+          "costume": "魔教法袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "魔教情报界面",
+        "color_grading": "对比色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "魔教右使",
+            "text": "天魔大人不仅找回天魔剑，连'制式魔剑'都激活了...看来复苏进度远超预期...计划必须提前了！"
+          }
+        ],
+        "background_music": "悬疑电子乐",
+        "sound_effects": "情报传输声"
+      },
+      "editing": {
+        "transition": "平行剪辑",
+        "pacing": "moderate"
+      },
+      "notes": "魔教右使收到情报"
     }
   ]
 }

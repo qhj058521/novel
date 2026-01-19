@@ -9,7 +9,7 @@
       "shot_id": "EP16-S001",
       "chapter_number": 16,
       "scene_number": 1,
-      "duration": 12,
+      "duration": 3,
       "shot_type": "特写→系统界面",
       "location": "青云宗密室",
       "time_of_day": "日",
@@ -18,12 +18,12 @@
         {
           "name": "顾玄",
           "action": "研究天魔剑，点击APP",
-          "expression": "好奇→嘴角抽搐",
+          "expression": "好奇",
           "costume": "青色道袍"
         }
       ],
       "visual_effects": {
-        "special_effects": "天魔剑投影应用商店界面、APP图标特效、权限显示特效、违规检测扫描波、全息投影界面",
+        "special_effects": "天魔剑投影应用商店界面、APP图标特效",
         "color_grading": "科技感蓝色调"
       },
       "audio": {
@@ -31,32 +31,164 @@
           {
             "speaker": "APP界面",
             "text": "欢迎使用天魔执法系统V3.0\n当前权限：临时工\n可用功能：违规检测、轻微惩戒、举报上传"
-          },
+          }
+        ],
+        "background_music": "科技感电子乐",
+        "sound_effects": "APP提示音"
+      },
+      "editing": {
+        "transition": "特效转场",
+        "pacing": "moderate"
+      },
+      "notes": "开篇发现天魔执法APP"
+    },
+    {
+      "shot_id": "EP16-S001-2",
+      "chapter_number": 16,
+      "scene_number": 1,
+      "duration": 2,
+      "shot_type": "特写→系统界面",
+      "location": "青云宗密室",
+      "time_of_day": "日",
+      "composition": "顾玄看到APP界面，表情变化",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "研究天魔剑，看到界面",
+          "expression": "嘴角抽搐",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "天魔剑投影界面",
+        "color_grading": "科技感蓝色调"
+      },
+      "audio": {
+        "dialogues": [
           {
             "speaker": "顾玄",
             "text": "临时工？你们天魔界还有这种设定？"
-          },
+          }
+        ],
+        "background_music": "科技感电子乐",
+        "sound_effects": ""
+      },
+      "editing": {
+        "transition": "特效转场",
+        "pacing": "moderate"
+      },
+      "notes": "顾玄反应"
+    },
+    {
+      "shot_id": "EP16-S001-3",
+      "chapter_number": 16,
+      "scene_number": 1,
+      "duration": 2,
+      "shot_type": "特写→系统界面",
+      "location": "青云宗密室",
+      "time_of_day": "日",
+      "composition": "顾玄点击违规检测",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "点击APP",
+          "expression": "好奇",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "点击违规检测特效",
+        "color_grading": "科技感蓝色调"
+      },
+      "audio": {
+        "dialogues": [
           {
             "speaker": "旁白",
             "text": "（点击违规检测）"
-          },
+          }
+        ],
+        "background_music": "科技感电子乐",
+        "sound_effects": "点击声"
+      },
+      "editing": {
+        "transition": "特效转场",
+        "pacing": "moderate"
+      },
+      "notes": "操作动作"
+    },
+    {
+      "shot_id": "EP16-S001-4",
+      "chapter_number": 16,
+      "scene_number": 1,
+      "duration": 3,
+      "shot_type": "特写→系统界面",
+      "location": "青云宗密室",
+      "time_of_day": "日",
+      "composition": "系统显示违规检测结果",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "查看结果",
+          "expression": "震惊",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "系统提示弹窗、违规检测扫描波",
+        "color_grading": "科技感蓝色调"
+      },
+      "audio": {
+        "dialogues": [
           {
             "speaker": "系统提示",
             "text": "【滴滴！检测到违规行为：】【-弟子张三：随地吐痰（-1功德）】【-掌门李道玄：私藏小金库（-50功德）】"
-          },
+          }
+        ],
+        "background_music": "科技感电子乐",
+        "sound_effects": "APP提示音"
+      },
+      "editing": {
+        "transition": "特效转场",
+        "pacing": "moderate"
+      },
+      "notes": "系统反馈"
+    },
+    {
+      "shot_id": "EP16-S001-5",
+      "chapter_number": 16,
+      "scene_number": 1,
+      "duration": 2,
+      "shot_type": "特写",
+      "location": "青云宗密室",
+      "time_of_day": "日",
+      "composition": "顾玄看到师尊违规信息",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "看到信息震惊",
+          "expression": "目瞪口呆",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "全息投影界面",
+        "color_grading": "科技感蓝色调"
+      },
+      "audio": {
+        "dialogues": [
           {
             "speaker": "顾玄",
             "text": "......师尊您居然藏私房钱？！"
           }
         ],
         "background_music": "科技感电子乐",
-        "sound_effects": "APP提示音、扫描声"
+        "sound_effects": ""
       },
       "editing": {
         "transition": "特效转场",
         "pacing": "moderate"
       },
-      "notes": "开篇发现天魔执法APP，科技属性再升级"
+      "notes": "顾玄震惊反应"
     },
     {
       "shot_id": "EP16-S002",
@@ -117,7 +249,7 @@
       "shot_id": "EP16-S003",
       "chapter_number": 16,
       "scene_number": 3,
-      "duration": 10,
+      "duration": 3,
       "shot_type": "中景",
       "location": "青云宗正殿→飞舟上",
       "time_of_day": "日",
@@ -143,7 +275,7 @@
         }
       ],
       "visual_effects": {
-        "special_effects": "传讯符破空特效、云州地图全息投影、逃难百姓画面、魔气浓郁特效",
+        "special_effects": "传讯符破空特效",
         "color_grading": "紧张色调"
       },
       "audio": {
@@ -151,22 +283,151 @@
           {
             "speaker": "传讯符",
             "text": "青州急令！邻州云州遭魔教大规模入侵，请求支援！"
-          },
+          }
+        ],
+        "background_music": "紧张急促",
+        "sound_effects": "传讯符破空声"
+      },
+      "editing": {
+        "transition": "快速剪辑",
+        "pacing": "fast"
+      },
+      "notes": "接到紧急任务"
+    },
+    {
+      "shot_id": "EP16-S003-2",
+      "chapter_number": 16,
+      "scene_number": 3,
+      "duration": 3,
+      "shot_type": "中景",
+      "location": "青云宗正殿→飞舟上",
+      "time_of_day": "日",
+      "composition": "李道玄分析形势",
+      "characters": [
+        {
+          "name": "李道玄",
+          "action": "分析局势",
+          "expression": "忧虑",
+          "costume": "掌门道袍"
+        },
+        {
+          "name": "顾玄",
+          "action": "倾听",
+          "expression": "凝重",
+          "costume": "青色道袍"
+        },
+        {
+          "name": "陆尘、石猛、白芷",
+          "action": "跟随顾玄",
+          "expression": "紧张",
+          "costume": "弟子服"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "云州地图全息投影",
+        "color_grading": "紧张色调"
+      },
+      "audio": {
+        "dialogues": [
           {
             "speaker": "李道玄",
             "text": "云州与青州唇齿相依，若被魔教占领，下一个就是我们！"
-          },
+          }
+        ],
+        "background_music": "紧张急促",
+        "sound_effects": ""
+      },
+      "editing": {
+        "transition": "快速剪辑",
+        "pacing": "fast"
+      },
+      "notes": "形势分析"
+    },
+    {
+      "shot_id": "EP16-S003-3",
+      "chapter_number": 16,
+      "scene_number": 3,
+      "duration": 3,
+      "shot_type": "中景",
+      "location": "青云宗正殿→飞舟上",
+      "time_of_day": "日",
+      "composition": "顾玄内心独白",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "内心挣扎",
+          "expression": "表面淡定，内心叫苦",
+          "costume": "青色道袍"
+        },
+        {
+          "name": "李道玄",
+          "action": "等待回应",
+          "expression": "期待",
+          "costume": "掌门道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "逃难百姓画面",
+        "color_grading": "紧张色调"
+      },
+      "audio": {
+        "dialogues": [
           {
             "speaker": "旁白",
             "text": "顾玄(内心): 怎么又来事啊！我才清净几天！元婴长老？魔教大规模入侵？我这是要送人头啊！但必须去，不然青云宗的面子往哪搁？"
-          },
+          }
+        ],
+        "background_music": "紧张急促",
+        "sound_effects": "逃难百姓哭喊声"
+      },
+      "editing": {
+        "transition": "快速剪辑",
+        "pacing": "fast"
+      },
+      "notes": "顾玄内心挣扎"
+    },
+    {
+      "shot_id": "EP16-S003-4",
+      "chapter_number": 16,
+      "scene_number": 3,
+      "duration": 3,
+      "shot_type": "中景",
+      "location": "青云宗正殿→飞舟上",
+      "time_of_day": "日",
+      "composition": "顾玄答应带队",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "答应带队",
+          "expression": "表面淡定",
+          "costume": "青色道袍"
+        },
+        {
+          "name": "李道玄",
+          "action": "点头",
+          "expression": "欣慰",
+          "costume": "掌门道袍"
+        },
+        {
+          "name": "陆尘、石猛、白芷",
+          "action": "跟随顾玄",
+          "expression": "紧张",
+          "costume": "弟子服"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "魔气浓郁特效",
+        "color_grading": "紧张色调"
+      },
+      "audio": {
+        "dialogues": [
           {
             "speaker": "顾玄",
             "text": "师尊，我带人去看看吧。人少目标小，方便行动。"
           }
         ],
         "background_music": "紧张急促",
-        "sound_effects": "传讯符破空声、逃难百姓哭喊声"
+        "sound_effects": ""
       },
       "editing": {
         "transition": "快速剪辑",
@@ -178,11 +439,11 @@
       "shot_id": "EP16-S004",
       "chapter_number": 16,
       "scene_number": 4,
-      "duration": 10,
+      "duration": 2,
       "shot_type": "全景→特写",
       "location": "云州边境→飞舟上",
       "time_of_day": "日",
-      "composition": "云州地界魔气浓郁，白芷发现魔教小队，顾玄扫描违规",
+      "composition": "云州地界魔气浓郁，白芷发现魔教小队",
       "characters": [
         {
           "name": "白芷",
@@ -192,8 +453,8 @@
         },
         {
           "name": "顾玄",
-          "action": "点开APP扫描",
-          "expression": "一愣→眼睛一亮",
+          "action": "准备扫描",
+          "expression": "警惕",
           "costume": "青色道袍"
         },
         {
@@ -204,7 +465,7 @@
         }
       ],
       "visual_effects": {
-        "special_effects": "魔气浓郁特效、通灵眼侦查光效、APP扫描波、违规提示弹窗、跨区执法授权书特效",
+        "special_effects": "魔气浓郁特效、通灵眼侦查光效",
         "color_grading": "紧张紫色调"
       },
       "audio": {
@@ -212,36 +473,207 @@
           {
             "speaker": "白芷",
             "text": "师兄，前面有魔教小队！"
-          },
+          }
+        ],
+        "background_music": "紧张转搞笑",
+        "sound_effects": ""
+      },
+      "editing": {
+        "transition": "切",
+        "pacing": "moderate"
+      },
+      "notes": "发现敌人"
+    },
+    {
+      "shot_id": "EP16-S004-2",
+      "chapter_number": 16,
+      "scene_number": 4,
+      "duration": 2,
+      "shot_type": "特写",
+      "location": "云州边境→飞舟上",
+      "time_of_day": "日",
+      "composition": "顾玄打开APP扫描",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "点开APP扫描",
+          "expression": "一愣",
+          "costume": "青色道袍"
+        },
+        {
+          "name": "白芷",
+          "action": "看着顾玄",
+          "expression": "疑惑",
+          "costume": "弟子服"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "APP扫描波",
+        "color_grading": "紧张紫色调"
+      },
+      "audio": {
+        "dialogues": [
           {
             "speaker": "旁白",
             "text": "顾玄扫描："
-          },
+          }
+        ],
+        "background_music": "紧张转搞笑",
+        "sound_effects": "扫描声"
+      },
+      "editing": {
+        "transition": "切",
+        "pacing": "moderate"
+      },
+      "notes": "扫描动作"
+    },
+    {
+      "shot_id": "EP16-S004-3",
+      "chapter_number": 16,
+      "scene_number": 4,
+      "duration": 3,
+      "shot_type": "特写→系统界面",
+      "location": "云州边境→飞舟上",
+      "time_of_day": "日",
+      "composition": "系统显示违规检测结果",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "查看扫描结果",
+          "expression": "眼睛一亮",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "违规提示弹窗、跨区执法授权书特效",
+        "color_grading": "紧张紫色调"
+      },
+      "audio": {
+        "dialogues": [
           {
             "speaker": "系统提示",
             "text": "【滴滴！检测到违规行为：】【-魔教徒甲：乱扔垃圾（-1功德）】【-魔教徒乙：大声喧哗（-2功德）】【-魔教徒丙：非法入侵（-100功德）】【-魔教小队长：无证驾驶飞行法器（-50功德）】"
-          },
+          }
+        ],
+        "background_music": "紧张转搞笑",
+        "sound_effects": "APP提示音"
+      },
+      "editing": {
+        "transition": "切",
+        "pacing": "moderate"
+      },
+      "notes": "系统检测结果"
+    },
+    {
+      "shot_id": "EP16-S004-4",
+      "chapter_number": 16,
+      "scene_number": 4,
+      "duration": 2,
+      "shot_type": "特写",
+      "location": "云州边境→飞舟上",
+      "time_of_day": "日",
+      "composition": "顾玄看到魔教徒违规信息",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "看到结果震惊",
+          "expression": "嘴角抽搐",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "",
+        "color_grading": "紧张紫色调"
+      },
+      "audio": {
+        "dialogues": [
           {
             "speaker": "顾玄",
             "text": "......你们魔教纪律这么差吗？"
-          },
+          }
+        ],
+        "background_music": "紧张转搞笑",
+        "sound_effects": ""
+      },
+      "editing": {
+        "transition": "切",
+        "pacing": "moderate"
+      },
+      "notes": "顾玄反应"
+    },
+    {
+      "shot_id": "EP16-S004-5",
+      "chapter_number": 16,
+      "scene_number": 4,
+      "duration": 2,
+      "shot_type": "特写→系统界面",
+      "location": "云州边境→飞舟上",
+      "time_of_day": "日",
+      "composition": "APP提示跨区执法",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "看到提示",
+          "expression": "感兴趣",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "跨区执法授权书电子章",
+        "color_grading": "紧张紫色调"
+      },
+      "audio": {
+        "dialogues": [
           {
             "speaker": "APP提示",
             "text": "检测到多名违规者，是否执行跨区执法？"
-          },
+          }
+        ],
+        "background_music": "紧张转搞笑",
+        "sound_effects": "APP提示音"
+      },
+      "editing": {
+        "transition": "切",
+        "pacing": "moderate"
+      },
+      "notes": "跨区执法提示"
+    },
+    {
+      "shot_id": "EP16-S004-6",
+      "chapter_number": 16,
+      "scene_number": 4,
+      "duration": 1,
+      "shot_type": "特写",
+      "location": "云州边境→飞舟上",
+      "time_of_day": "日",
+      "composition": "顾玄决定尝试跨区执法",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "决定尝试",
+          "expression": "兴奋",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "",
+        "color_grading": "紧张紫色调"
+      },
+      "audio": {
+        "dialogues": [
           {
             "speaker": "顾玄",
             "text": "还能跨区执法？试试！"
           }
         ],
         "background_music": "紧张转搞笑",
-        "sound_effects": "APP提示音、扫描声"
+        "sound_effects": ""
       },
       "editing": {
         "transition": "切",
         "pacing": "moderate"
       },
-      "notes": "第二个爽点：跨区执法功能"
+      "notes": "决定跨区执法"
     },
     {
       "shot_id": "EP16-S005",
@@ -361,16 +793,16 @@
       "shot_id": "EP16-S007",
       "chapter_number": 16,
       "scene_number": 7,
-      "duration": 10,
+      "duration": 3,
       "shot_type": "全景→特写",
       "location": "云州被占领城市",
       "time_of_day": "昏暗",
-      "composition": "城市魔气冲天，顾玄扫描发现重大违规，激活执法傀儡",
+      "composition": "城市魔气冲天，顾玄扫描发现重大违规",
       "characters": [
         {
           "name": "顾玄",
-          "action": "扫描城市，激活傀儡",
-          "expression": "嘴角抽搐→强作镇定",
+          "action": "扫描城市",
+          "expression": "嘴角抽搐",
           "costume": "青色道袍"
         },
         {
@@ -378,16 +810,10 @@
           "action": "脸色苍白",
           "expression": "恐惧",
           "costume": "弟子服"
-        },
-        {
-          "name": "执法傀儡",
-          "action": "从传送门走出",
-          "expression": "电子眼红光",
-          "costume": "T-800造型，胸前印着'天魔执法'"
         }
       ],
       "visual_effects": {
-        "special_effects": "城市魔气冲天、APP扫描界面、重大违规提示、传送门打开、T-800傀儡走出、电子音报告",
+        "special_effects": "城市魔气冲天、APP扫描界面、重大违规提示",
         "color_grading": "科技感恐怖色调"
       },
       "audio": {
@@ -395,36 +821,213 @@
           {
             "speaker": "系统提示",
             "text": "【滴滴！检测到重大违规：】【-魔教长老A：非法拘禁（-500功德）】【-魔教长老B：暴力拆迁（-300功德）】【-魔教长老C：无证经营（-200功德）】【建议：立即逮捕！】"
-          },
+          }
+        ],
+        "background_music": "科技感紧张",
+        "sound_effects": ""
+      },
+      "editing": {
+        "transition": "特效转场",
+        "pacing": "moderate"
+      },
+      "notes": "发现重大违规"
+    },
+    {
+      "shot_id": "EP16-S007-2",
+      "chapter_number": 16,
+      "scene_number": 7,
+      "duration": 2,
+      "shot_type": "特写",
+      "location": "云州被占领城市",
+      "time_of_day": "昏暗",
+      "composition": "顾玄看到扫描结果",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "看到结果",
+          "expression": "强作镇定",
+          "costume": "青色道袍"
+        },
+        {
+          "name": "白芷",
+          "action": "看着顾玄",
+          "expression": "疑惑",
+          "costume": "弟子服"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "",
+        "color_grading": "科技感恐怖色调"
+      },
+      "audio": {
+        "dialogues": [
           {
             "speaker": "顾玄",
             "text": "无证经营都出来了...你们天魔执法范围真广！"
-          },
+          }
+        ],
+        "background_music": "科技感紧张",
+        "sound_effects": ""
+      },
+      "editing": {
+        "transition": "特效转场",
+        "pacing": "moderate"
+      },
+      "notes": "顾玄反应"
+    },
+    {
+      "shot_id": "EP16-S007-3",
+      "chapter_number": 16,
+      "scene_number": 7,
+      "duration": 2,
+      "shot_type": "特写→系统界面",
+      "location": "云州被占领城市",
+      "time_of_day": "昏暗",
+      "composition": "APP提示激活特别权限",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "看到提示",
+          "expression": "惊讶",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "重大违规提示",
+        "color_grading": "科技感恐怖色调"
+      },
+      "audio": {
+        "dialogues": [
           {
             "speaker": "APP提示",
             "text": "检测到重大违规行为，激活'临时工特别权限'！可调用'执法傀儡'协助执行！"
-          },
+          }
+        ],
+        "background_music": "科技感紧张",
+        "sound_effects": "APP提示音"
+      },
+      "editing": {
+        "transition": "特效转场",
+        "pacing": "moderate"
+      },
+      "notes": "激活特别权限"
+    },
+    {
+      "shot_id": "EP16-S007-4",
+      "chapter_number": 16,
+      "scene_number": 7,
+      "duration": 2,
+      "shot_type": "特效全景",
+      "location": "云州被占领城市",
+      "time_of_day": "昏暗",
+      "composition": "传送门打开，傀儡走出",
+      "characters": [
+        {
+          "name": "执法傀儡",
+          "action": "从传送门走出",
+          "expression": "电子眼红光",
+          "costume": "T-800造型，胸前印着'天魔执法'"
+        },
+        {
+          "name": "顾玄",
+          "action": "看到傀儡",
+          "expression": "震惊",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "传送门打开、T-800傀儡走出",
+        "color_grading": "科技感恐怖色调"
+      },
+      "audio": {
+        "dialogues": [
           {
             "speaker": "旁白",
             "text": "（传送门打开，T-800傀儡走出）"
-          },
+          }
+        ],
+        "background_music": "科技感紧张",
+        "sound_effects": "传送门开启声"
+      },
+      "editing": {
+        "transition": "特效转场",
+        "pacing": "moderate"
+      },
+      "notes": "傀儡登场"
+    },
+    {
+      "shot_id": "EP16-S007-5",
+      "chapter_number": 16,
+      "scene_number": 7,
+      "duration": 1,
+      "shot_type": "特写",
+      "location": "云州被占领城市",
+      "time_of_day": "昏暗",
+      "composition": "傀儡电子音报告",
+      "characters": [
+        {
+          "name": "执法傀儡",
+          "action": "报告",
+          "expression": "电子眼红光",
+          "costume": "T-800造型"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "电子音报告",
+        "color_grading": "科技感恐怖色调"
+      },
+      "audio": {
+        "dialogues": [
           {
             "speaker": "傀儡电子音",
             "text": "临时工9527，执法傀儡008前来协助！请指示！"
-          },
+          }
+        ],
+        "background_music": "科技感紧张",
+        "sound_effects": "傀儡电子音"
+      },
+      "editing": {
+        "transition": "特效转场",
+        "pacing": "moderate"
+      },
+      "notes": "傀儡报告"
+    },
+    {
+      "shot_id": "EP16-S007-6",
+      "chapter_number": 16,
+      "scene_number": 7,
+      "duration": 2,
+      "shot_type": "特写",
+      "location": "云州被占领城市",
+      "time_of_day": "昏暗",
+      "composition": "顾玄看到傀儡的反应",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "看到傀儡震惊",
+          "expression": "目瞪口呆",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "",
+        "color_grading": "科技感恐怖色调"
+      },
+      "audio": {
+        "dialogues": [
           {
             "speaker": "顾玄",
             "text": "......你们天魔界到底什么画风？！"
           }
         ],
         "background_music": "科技感紧张",
-        "sound_effects": "传送门开启声、傀儡电子音"
+        "sound_effects": ""
       },
       "editing": {
         "transition": "特效转场",
         "pacing": "moderate"
       },
-      "notes": "第四个爽点：执法傀儡登场"
+      "notes": "顾玄震惊"
     },
     {
       "shot_id": "EP16-S008",
@@ -609,39 +1212,21 @@
       "shot_id": "EP16-S011",
       "chapter_number": 16,
       "scene_number": 11,
-      "duration": 15,
+      "duration": 2,
       "shot_type": "特效全景",
       "location": "云州地下实验室",
       "time_of_day": "昏暗",
-      "composition": "血池沸腾，怪物升起，傀儡对抗，顾玄启动自毁程序",
+      "composition": "血池沸腾，怪物升起",
       "characters": [
         {
           "name": "怪物",
           "action": "从血池升起，咆哮",
           "expression": "狰狞",
           "costume": "尸体拼接怪物，化神期气息"
-        },
-        {
-          "name": "执法傀儡",
-          "action": "对抗怪物",
-          "expression": "红光闪烁",
-          "costume": "T-800造型"
-        },
-        {
-          "name": "顾玄",
-          "action": "操作控制台",
-          "expression": "紧张",
-          "costume": "青色道袍"
-        },
-        {
-          "name": "白芷",
-          "action": "指向控制台",
-          "expression": "急切",
-          "costume": "弟子服"
         }
       ],
       "visual_effects": {
-        "special_effects": "血池沸腾、怪物升起、化神期恐怖气息、傀儡与怪物对抗、控制台操作、自毁程序启动、实验室剧烈震动、爆炸特效",
+        "special_effects": "血池沸腾、怪物升起、化神期恐怖气息",
         "color_grading": "紧张爆炸色调"
       },
       "audio": {
@@ -649,61 +1234,372 @@
           {
             "speaker": "怪物",
             "text": "入侵者...死！"
-          },
+          }
+        ],
+        "background_music": "紧张激昂",
+        "sound_effects": "怪物咆哮"
+      },
+      "editing": {
+        "transition": "快速剪辑",
+        "pacing": "fast"
+      },
+      "notes": "怪物出现"
+    },
+    {
+      "shot_id": "EP16-S011-2",
+      "chapter_number": 16,
+      "scene_number": 11,
+      "duration": 2,
+      "shot_type": "特效全景",
+      "location": "云州地下实验室",
+      "time_of_day": "昏暗",
+      "composition": "傀儡与怪物对抗",
+      "characters": [
+        {
+          "name": "执法傀儡",
+          "action": "对抗怪物",
+          "expression": "红光闪烁",
+          "costume": "T-800造型"
+        },
+        {
+          "name": "怪物",
+          "action": "与傀儡对抗",
+          "expression": "狰狞",
+          "costume": "尸体拼接怪物"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "傀儡与怪物对抗",
+        "color_grading": "紧张爆炸色调"
+      },
+      "audio": {
+        "dialogues": [
           {
             "speaker": "旁白",
             "text": "（傀儡与怪物打得难解难分）"
-          },
+          }
+        ],
+        "background_music": "紧张激昂",
+        "sound_effects": "战斗声"
+      },
+      "editing": {
+        "transition": "快速剪辑",
+        "pacing": "fast"
+      },
+      "notes": "傀儡对抗怪物"
+    },
+    {
+      "shot_id": "EP16-S011-3",
+      "chapter_number": 16,
+      "scene_number": 11,
+      "duration": 2,
+      "shot_type": "中景",
+      "location": "云州地下实验室",
+      "time_of_day": "昏暗",
+      "composition": "白芷发现控制台",
+      "characters": [
+        {
+          "name": "白芷",
+          "action": "指向控制台",
+          "expression": "急切",
+          "costume": "弟子服"
+        },
+        {
+          "name": "顾玄",
+          "action": "听到白芷的话",
+          "expression": "转头",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "",
+        "color_grading": "紧张爆炸色调"
+      },
+      "audio": {
+        "dialogues": [
           {
             "speaker": "白芷",
             "text": "师兄！那边有控制台！"
-          },
+          }
+        ],
+        "background_music": "紧张激昂",
+        "sound_effects": ""
+      },
+      "editing": {
+        "transition": "快速剪辑",
+        "pacing": "fast"
+      },
+      "notes": "发现控制台"
+    },
+    {
+      "shot_id": "EP16-S011-4",
+      "chapter_number": 16,
+      "scene_number": 11,
+      "duration": 2,
+      "shot_type": "特写",
+      "location": "云州地下实验室",
+      "time_of_day": "昏暗",
+      "composition": "顾玄操作控制台",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "操作控制台",
+          "expression": "紧张",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "控制台操作",
+        "color_grading": "紧张爆炸色调"
+      },
+      "audio": {
+        "dialogues": [
           {
             "speaker": "顾玄",
             "text": "检测到高级违规，申请临时最高权限！"
-          },
+          }
+        ],
+        "background_music": "紧张激昂",
+        "sound_effects": "控制台操作声"
+      },
+      "editing": {
+        "transition": "快速剪辑",
+        "pacing": "fast"
+      },
+      "notes": "申请权限"
+    },
+    {
+      "shot_id": "EP16-S011-5",
+      "chapter_number": 16,
+      "scene_number": 11,
+      "duration": 2,
+      "shot_type": "特写",
+      "location": "云州地下实验室",
+      "time_of_day": "昏暗",
+      "composition": "天魔剑回应",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "听到剑身回应",
+          "expression": "振奋",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "剑身发光",
+        "color_grading": "紧张爆炸色调"
+      },
+      "audio": {
+        "dialogues": [
           {
             "speaker": "剑身",
             "text": "申请批准！授予临时执法官权限！"
-          },
+          }
+        ],
+        "background_music": "紧张激昂",
+        "sound_effects": "系统提示音"
+      },
+      "editing": {
+        "transition": "快速剪辑",
+        "pacing": "fast"
+      },
+      "notes": "权限批准"
+    },
+    {
+      "shot_id": "EP16-S011-6",
+      "chapter_number": 16,
+      "scene_number": 11,
+      "duration": 2,
+      "shot_type": "特写",
+      "location": "云州地下实验室",
+      "time_of_day": "昏暗",
+      "composition": "顾玄下令销毁",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "下令销毁",
+          "expression": "决断",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "",
+        "color_grading": "紧张爆炸色调"
+      },
+      "audio": {
+        "dialogues": [
           {
             "speaker": "顾玄",
             "text": "销毁所有实验数据！终止能量传输！"
-          },
+          }
+        ],
+        "background_music": "紧张激昂",
+        "sound_effects": ""
+      },
+      "editing": {
+        "transition": "快速剪辑",
+        "pacing": "fast"
+      },
+      "notes": "下令销毁"
+    },
+    {
+      "shot_id": "EP16-S011-7",
+      "chapter_number": 16,
+      "scene_number": 11,
+      "duration": 2,
+      "shot_type": "特效全景",
+      "location": "云州地下实验室",
+      "time_of_day": "昏暗",
+      "composition": "自毁程序启动",
+      "characters": [
+        {
+          "name": "机械女声",
+          "action": "响起",
+          "expression": "无",
+          "costume": "声音"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "自毁程序启动、实验室剧烈震动",
+        "color_grading": "紧张爆炸色调"
+      },
+      "audio": {
+        "dialogues": [
           {
             "speaker": "机械女声",
             "text": "警告！自毁程序启动！倒计时60秒！"
-          },
+          }
+        ],
+        "background_music": "紧张激昂",
+        "sound_effects": "自毁倒计时、震动声"
+      },
+      "editing": {
+        "transition": "快速剪辑",
+        "pacing": "fast"
+      },
+      "notes": "自毁启动"
+    },
+    {
+      "shot_id": "EP16-S011-8",
+      "chapter_number": 16,
+      "scene_number": 11,
+      "duration": 1,
+      "shot_type": "特效全景",
+      "location": "云州地下实验室",
+      "time_of_day": "昏暗",
+      "composition": "众人冲出实验室",
+      "characters": [
+        {
+          "name": "顾玄等",
+          "action": "冲出实验室",
+          "expression": "紧张",
+          "costume": "各色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "实验室剧烈震动",
+        "color_grading": "紧张爆炸色调"
+      },
+      "audio": {
+        "dialogues": [
           {
             "speaker": "旁白",
             "text": "（实验室剧烈震动，众人冲出）"
           }
         ],
         "background_music": "紧张激昂",
-        "sound_effects": "怪物咆哮、控制台操作声、自毁倒计时、爆炸声"
+        "sound_effects": "爆炸声"
       },
       "editing": {
         "transition": "快速剪辑",
         "pacing": "fast"
       },
-      "notes": "高潮部分：对抗怪物，启动自毁"
+      "notes": "逃离"
     },
     {
       "shot_id": "EP16-S012",
       "chapter_number": 16,
       "scene_number": 12,
-      "duration": 10,
+      "duration": 2,
       "shot_type": "全景→特写",
       "location": "云州地下→深山峡谷",
       "time_of_day": "昏暗",
-      "composition": "爆炸后，天魔剑弹出紧急提示，天魔之种逃遁，追逐战",
+      "composition": "爆炸后，天魔剑弹出紧急提示",
       "characters": [
         {
           "name": "顾玄等",
-          "action": "看着爆炸废墟，接到提示",
-          "expression": "长舒一口气→脸色骤变",
+          "action": "看着爆炸废墟",
+          "expression": "长舒一口气",
           "costume": "各色道袍"
-        },
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "实验室爆炸废墟、天魔剑紧急提示界面",
+        "color_grading": "紧张红色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "系统提示",
+            "text": "【警告！检测到'天魔之种'信号！】【目标已逃离实验室！正在快速移动！】"
+          }
+        ],
+        "background_music": "紧张急促",
+        "sound_effects": "系统警告音"
+      },
+      "editing": {
+        "transition": "快速剪辑",
+        "pacing": "fast"
+      },
+      "notes": "系统警告"
+    },
+    {
+      "shot_id": "EP16-S012-2",
+      "chapter_number": 16,
+      "scene_number": 12,
+      "duration": 2,
+      "shot_type": "特写",
+      "location": "云州地下→深山峡谷",
+      "time_of_day": "昏暗",
+      "composition": "顾玄看到提示",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "看到提示",
+          "expression": "疑惑",
+          "costume": "各色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "",
+        "color_grading": "紧张红色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "顾玄",
+            "text": "天魔之种？那是什么？"
+          }
+        ],
+        "background_music": "紧张急促",
+        "sound_effects": ""
+      },
+      "editing": {
+        "transition": "快速剪辑",
+        "pacing": "fast"
+      },
+      "notes": "顾玄疑惑"
+    },
+    {
+      "shot_id": "EP16-S012-3",
+      "chapter_number": 16,
+      "scene_number": 12,
+      "duration": 2,
+      "shot_type": "全景",
+      "location": "云州地下→深山峡谷",
+      "time_of_day": "昏暗",
+      "composition": "天魔之种逃遁",
+      "characters": [
         {
           "name": "天魔之种",
           "action": "血光逃遁",
@@ -712,36 +1608,61 @@
         }
       ],
       "visual_effects": {
-        "special_effects": "实验室爆炸废墟、天魔剑紧急提示界面、'天魔之种'信号、血光逃遁、空间跳跃、追逐战",
+        "special_effects": "'天魔之种'信号、血光逃遁、空间跳跃",
         "color_grading": "紧张红色调"
       },
       "audio": {
         "dialogues": [
           {
-            "speaker": "系统提示",
-            "text": "【警告！检测到'天魔之种'信号！】【目标已逃离实验室！正在快速移动！】"
-          },
-          {
-            "speaker": "顾玄",
-            "text": "天魔之种？那是什么？"
-          },
-          {
             "speaker": "旁白",
             "text": "（血光逃遁）"
-          },
+          }
+        ],
+        "background_music": "紧张急促",
+        "sound_effects": "逃遁声"
+      },
+      "editing": {
+        "transition": "快速剪辑",
+        "pacing": "fast"
+      },
+      "notes": "天魔之种逃遁"
+    },
+    {
+      "shot_id": "EP16-S012-4",
+      "chapter_number": 16,
+      "scene_number": 12,
+      "duration": 2,
+      "shot_type": "特写",
+      "location": "云州地下→深山峡谷",
+      "time_of_day": "昏暗",
+      "composition": "顾玄下令追击",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "下令追击",
+          "expression": "脸色骤变",
+          "costume": "各色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "追逐战",
+        "color_grading": "紧张红色调"
+      },
+      "audio": {
+        "dialogues": [
           {
             "speaker": "顾玄",
             "text": "追击目标！绝不能让它落入魔教之手！"
           }
         ],
         "background_music": "紧张急促",
-        "sound_effects": "爆炸声、系统警告音、逃遁声"
+        "sound_effects": ""
       },
       "editing": {
         "transition": "快速剪辑",
         "pacing": "fast"
       },
-      "notes": "悬念钩子：天魔之种出现"
+      "notes": "下令追击"
     },
     {
       "shot_id": "EP16-S013",

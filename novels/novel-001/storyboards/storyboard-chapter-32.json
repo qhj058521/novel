@@ -40,7 +40,9 @@
       "narration": "",
       "internal_monologue": "我是来管理宇宙的,不是来写论文的!5000页表格?这比写代码还累!",
       "background_music": "轻松搞笑",
-      "sound_effects": ["表格翻页声"],
+      "sound_effects": [
+        "表格翻页声"
+      ],
       "volume_level": "对话突出"
     },
     "editing": {
@@ -102,7 +104,9 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "搞笑神秘",
-      "sound_effects": ["光门声"],
+      "sound_effects": [
+        "光门声"
+      ],
       "volume_level": "对话突出"
     },
     "editing": {
@@ -157,7 +161,9 @@
       "narration": "",
       "internal_monologue": "61分?我刚拯救了宇宙哎!",
       "background_music": "搞笑不甘",
-      "sound_effects": ["评分提示声"],
+      "sound_effects": [
+        "评分提示声"
+      ],
       "volume_level": "对话突出"
     },
     "editing": {
@@ -219,7 +225,10 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "混乱幽默",
-      "sound_effects": ["指导混乱声", "电话铃声"],
+      "sound_effects": [
+        "指导混乱声",
+        "电话铃声"
+      ],
       "volume_level": "对话突出"
     },
     "editing": {
@@ -274,7 +283,9 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "紧张对抗",
-      "sound_effects": ["规则修改声"],
+      "sound_effects": [
+        "规则修改声"
+      ],
       "volume_level": "对话突出"
     },
     "editing": {
@@ -336,7 +347,10 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "紧张震撼",
-      "sound_effects": ["金光爆发声", "塔克被震飞声"],
+      "sound_effects": [
+        "金光爆发声",
+        "塔克被震飞声"
+      ],
       "volume_level": "音效突出"
     },
     "editing": {
@@ -405,7 +419,10 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "震撼威严",
-      "sound_effects": ["金甲战士声", "系统提示"],
+      "sound_effects": [
+        "金甲战士声",
+        "系统提示"
+      ],
       "volume_level": "对话突出"
     },
     "editing": {
@@ -474,7 +491,9 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "爽快释放",
-      "sound_effects": ["恢复声"],
+      "sound_effects": [
+        "恢复声"
+      ],
       "volume_level": "对话突出"
     },
     "editing": {
@@ -536,7 +555,9 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "史诗预言",
-      "sound_effects": ["系统提示"],
+      "sound_effects": [
+        "系统提示"
+      ],
       "volume_level": "对话突出"
     },
     "editing": {
@@ -591,7 +612,9 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "庄严决心",
-      "sound_effects": ["会议声"],
+      "sound_effects": [
+        "会议声"
+      ],
       "volume_level": "对话突出"
     },
     "editing": {
@@ -646,7 +669,9 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "温馨希望",
-      "sound_effects": ["和谐环境音"],
+      "sound_effects": [
+        "和谐环境音"
+      ],
       "volume_level": "对话突出"
     },
     "editing": {
@@ -708,7 +733,10 @@
       "narration": "",
       "internal_monologue": "新的冒险在召唤。但这次,他不再孤单",
       "background_music": "冒险期待",
-      "sound_effects": ["警报声", "维度跳跃声"],
+      "sound_effects": [
+        "警报声",
+        "维度跳跃声"
+      ],
       "volume_level": "对话突出"
     },
     "editing": {

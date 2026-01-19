@@ -33,7 +33,9 @@
       "narration": "",
       "internal_monologue": "这地方比我想的还混乱!规则、时间、逻辑全都碎了!必须小心...",
       "background_music": "震撼神秘",
-      "sound_effects": ["维度混乱声"],
+      "sound_effects": [
+        "维度混乱声"
+      ],
       "volume_level": "环境音突出"
     },
     "editing": {
@@ -81,7 +83,9 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "诡异紧张",
-      "sound_effects": ["时空守卫声"],
+      "sound_effects": [
+        "时空守卫声"
+      ],
       "volume_level": "环境音突出"
     },
     "editing": {
@@ -136,7 +140,10 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "紧张战斗搞笑",
-      "sound_effects": ["战斗声", "搞笑声"],
+      "sound_effects": [
+        "战斗声",
+        "搞笑声"
+      ],
       "volume_level": "音效突出"
     },
     "editing": {
@@ -184,7 +191,9 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "神秘思考",
-      "sound_effects": ["谜题声"],
+      "sound_effects": [
+        "谜题声"
+      ],
       "volume_level": "对话突出"
     },
     "editing": {
@@ -232,7 +241,9 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "试炼紧张",
-      "sound_effects": ["试炼声"],
+      "sound_effects": [
+        "试炼声"
+      ],
       "volume_level": "对话突出"
     },
     "editing": {
@@ -287,7 +298,9 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "神秘领悟",
-      "sound_effects": ["遗物声"],
+      "sound_effects": [
+        "遗物声"
+      ],
       "volume_level": "对话突出"
     },
     "editing": {
@@ -349,7 +362,10 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "震撼危机",
-      "sound_effects": ["遗物声", "崩溃声"],
+      "sound_effects": [
+        "遗物声",
+        "崩溃声"
+      ],
       "volume_level": "音效突出"
     },
     "editing": {
@@ -404,7 +420,10 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "震撼危机",
-      "sound_effects": ["震荡声", "警报声"],
+      "sound_effects": [
+        "震荡声",
+        "警报声"
+      ],
       "volume_level": "音效突出"
     },
     "editing": {
@@ -459,7 +478,9 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "紧张决心",
-      "sound_effects": ["工作声"],
+      "sound_effects": [
+        "工作声"
+      ],
       "volume_level": "对话突出"
     },
     "editing": {
@@ -514,7 +535,9 @@
       "narration": "",
       "internal_monologue": "",
       "background_music": "梦幻领悟",
-      "sound_effects": ["思维波浪声"],
+      "sound_effects": [
+        "思维波浪声"
+      ],
       "volume_level": "对话突出"
     },
     "editing": {
@@ -569,7 +592,10 @@
       "narration": "",
       "internal_monologue": "但顾玄知道,这只是暂时。星图显示,大过滤器的最终阶段即将到来——那时需要整个宇宙同心协力才能突破",
       "background_music": "史诗释放",
-      "sound_effects": ["稳定声", "欢呼"],
+      "sound_effects": [
+        "稳定声",
+        "欢呼"
+      ],
       "volume_level": "音效突出"
     },
     "editing": {
@@ -624,7 +650,9 @@
       "narration": "",
       "internal_monologue": "任务还很漫长,但至少...有了希望",
       "background_music": "庄严期待",
-      "sound_effects": ["会议声"],
+      "sound_effects": [
+        "会议声"
+      ],
       "volume_level": "对话突出"
     },
     "editing": {

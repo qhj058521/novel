@@ -54,14 +54,6 @@
           {
             "speaker": "陆尘",
             "text": "师兄，怎么办？直接杀进去？"
-          },
-          {
-            "speaker": "顾玄",
-            "text": "（咬牙）执法傀儡！执行取缔任务！"
-          },
-          {
-            "speaker": "傀儡",
-            "text": "遵命！"
           }
         ],
         "background_music": "紧张压抑的音乐，低沉的鼓点",
@@ -72,6 +64,80 @@
         "pacing": "moderate"
       },
       "notes": "开场建立紧张氛围，展现敌众我寡的危机感"
+    },
+    {
+      "shot_id": "EP17-S001-2",
+      "chapter_number": 17,
+      "scene_number": 1,
+      "duration": 4,
+      "shot_type": "中景特写",
+      "location": "洞穴入口外",
+      "time_of_day": "夜晚",
+      "composition": "顾玄咬牙做出决定",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "咬牙下令",
+          "expression": "咬牙",
+          "costume": "青云宗道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "",
+        "color_grading": "冷色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "顾玄",
+            "text": "（咬牙）执法傀儡！执行取缔任务！"
+          }
+        ],
+        "background_music": "紧张压抑的音乐",
+        "sound_effects": ""
+      },
+      "editing": {
+        "transition": "硬切",
+        "pacing": "moderate"
+      },
+      "notes": "顾玄下令"
+    },
+    {
+      "shot_id": "EP17-S001-3",
+      "chapter_number": 17,
+      "scene_number": 1,
+      "duration": 3,
+      "shot_type": "特写",
+      "location": "洞穴入口外",
+      "time_of_day": "夜晚",
+      "composition": "傀儡执行命令",
+      "characters": [
+        {
+          "name": "傀儡",
+          "action": "回应命令",
+          "expression": "扫描模式",
+          "costume": "金属傀儡身躯"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "",
+        "color_grading": "冷色调"
+      },
+      "audio": {
+        "dialogues": [
+          {
+            "speaker": "傀儡",
+            "text": "遵命！"
+          }
+        ],
+        "background_music": "紧张压抑的音乐",
+        "sound_effects": "傀儡启动声"
+      },
+      "editing": {
+        "transition": "硬切",
+        "pacing": "moderate"
+      },
+      "notes": "傀儡执行"
     },
     {
       "shot_id": "EP17-S002",
