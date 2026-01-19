@@ -29,9 +29,12 @@
       "special_effects": "无"
     },
     "audio": {
-      "dialogue": "",
-      "narration": "",
-      "internal_monologue": "所以……我穿越了？而且是那种开局就是废材流的老套剧情？",
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "所以……我穿越了？而且是那种开局就是废材流的老套剧情？"
+        }
+      ],
       "background_music": "轻柔神秘,缓慢引入",
       "sound_effects": ["鸟鸣声", "木床轻微嘎吱声"],
       "volume_level": "环境音为主,营造陌生感"
@@ -69,9 +72,12 @@
       "special_effects": "半透明界面,文字清晰显示:【天魔系统已激活】【正在绑定宿主……绑定完成】【宿主:顾玄】【身份:管理员(权限等级:Lv.1,封印中)】,金光瞬间照亮整个昏暗木屋"
     },
     "audio": {
-      "dialogue": "",
-      "narration": "",
-      "internal_monologue": "卧槽!金手指!",
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "卧槽!金手指!"
+        }
+      ],
       "background_music": "科技感机械音背景",
       "sound_effects": ["系统机械音: '天魔系统已激活'"],
       "volume_level": "机械音突出"
@@ -117,9 +123,16 @@
       "special_effects": "系统界面浮现在眼前,显示【商城】【任务】【修炼辅助】【特殊功能区(需更高权限解锁)】,管理员权限字样闪烁微光"
     },
     "audio": {
-      "dialogue": "等等,这系统也太智能了吧……而且'管理员权限'是什么鬼?还有'封印中'……",
-      "narration": "",
-      "internal_monologue": "这系统似乎有着某种不为人知的秘密",
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "等等,这系统也太智能了吧……而且'管理员权限'是什么鬼?还有'封印中'……"
+        },
+        {
+          "speaker": "旁白",
+          "text": "这系统似乎有着某种不为人知的秘密"
+        }
+      ],
       "background_music": "轻快带悬疑",
       "sound_effects": ["系统机械音持续"],
       "volume_level": "对话为主"
@@ -165,9 +178,12 @@
       "special_effects": "无"
     },
     "audio": {
-      "dialogue": "山门外传来喧哗声: '赶紧滚吧!没有灵根也敢来报名修仙?' '就是!修仙是要看天赋的,你们这些废材就别做梦了!'",
-      "narration": "",
-      "internal_monologue": "",
+      "dialogues": [
+        {
+          "speaker": "旁白",
+          "text": "山门外传来喧哗声: '赶紧滚吧!没有灵根也敢来报名修仙?' '就是!修仙是要看天赋的,你们这些废材就别做梦了!'"
+        }
+      ],
       "background_music": "轻快转为关注",
       "sound_effects": ["喧哗声"],
       "volume_level": "环境音突出"
@@ -205,9 +221,12 @@
       "special_effects": "系统提示:【检测到宿主当前场景适合触发新手任务】【新手任务:招收第一名弟子】【任务奖励:积分+20,解锁系统商城】【是否接受?】"
     },
     "audio": {
-      "dialogue": "顾玄: '接受!'",
-      "narration": "",
-      "internal_monologue": "",
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "接受!"
+        }
+      ],
       "background_music": "轻快",
       "sound_effects": ["系统提示音"],
       "volume_level": "对话突出"
@@ -253,9 +272,12 @@
       "special_effects": "飞剑拖出长长的光尾,宛如流星划过天际,周身金光护体,系统界面一角显示【管理员权限:Lv.1(封印中)……微弱波动检测到】"
     },
     "audio": {
-      "dialogue": "",
-      "narration": "",
-      "internal_monologue": "哈哈哈哈!这就是特效修仙吗!太帅了!",
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "哈哈哈哈!这就是特效修仙吗!太帅了!"
+        }
+      ],
       "background_music": "轻快悠扬",
       "sound_effects": ["风声呼啸", "飞剑破空声"],
       "volume_level": "音效烘托氛围"
@@ -308,9 +330,12 @@
       "special_effects": "周身金光突然熄灭,如接触不良的灯泡,最后'噗'的一声全灭"
     },
     "audio": {
-      "dialogue": "",
-      "narration": "",
-      "internal_monologue": "不好,积分快耗尽了!",
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "不好,积分快耗尽了!"
+        }
+      ],
       "background_music": "恢弘音乐突然中断",
       "sound_effects": ["特效消失的噗声", "摔跤的咚声", "全场寂静"],
       "volume_level": "突然静音制造尴尬"
@@ -356,9 +381,12 @@
       "special_effects": "无"
     },
     "audio": {
-      "dialogue": "哈哈哈!这不是青云宗的'特效仙人'吗? 又来找摔了? 这次特效持续时间比上次长点啊! 没钱买真飞剑就别装嘛,每次都用那破光影术唬人!",
-      "narration": "",
-      "internal_monologue": "",
+      "dialogues": [
+        {
+          "speaker": "玄天剑宗弟子",
+          "text": "哈哈哈!这不是青云宗的'特效仙人'吗? 又来找摔了? 这次特效持续时间比上次长点啊! 没钱买真飞剑就别装嘛,每次都用那破光影术唬人!"
+        }
+      ],
       "background_music": "突然爆发的笑声",
       "sound_effects": ["哄堂大笑", "窃窃私语"],
       "volume_level": "笑声突出"
@@ -418,9 +446,20 @@
       "special_effects": "无"
     },
     "audio": {
-      "dialogue": "陆尘: '请问……贵宗,还招收弟子吗?' 李道玄: '收!当然收!小友骨骼清奇,一看就是修仙奇才啊!' 陆尘: '我叫陆尘,从邻村来的……但是,其他宗门都说我没有灵根,修不了仙……'",
-      "narration": "",
-      "internal_monologue": "",
+      "dialogues": [
+        {
+          "speaker": "陆尘",
+          "text": "请问……贵宗,还招收弟子吗?"
+        },
+        {
+          "speaker": "李道玄",
+          "text": "收!当然收!小友骨骼清奇,一看就是修仙奇才啊!"
+        },
+        {
+          "speaker": "陆尘",
+          "text": "我叫陆尘,从邻村来的……但是,其他宗门都说我没有灵根,修不了仙……"
+        }
+      ],
       "background_music": "温情轻快",
       "sound_effects": [],
       "volume_level": "对话清晰"
@@ -480,9 +519,16 @@
       "special_effects": "系统界面浮现:【系统提示:检测到目标拥有特殊体质,自动开启'秩序之眼'功能】【目标:陆尘】【体质:药灵体(隐藏),对雷灵力有天然亲和】【潜力:评价为S级】"
     },
     "audio": {
-      "dialogue": "玄天剑宗弟子: '没有灵根也配修仙?我看你们就是骗钱吧!' 顾玄: '你确实没有灵根。但是,你体内有特殊的雷灵力。这种灵力极为罕见,若是好好修炼,将来成就未必输给那些有灵根的人。'",
-      "narration": "",
-      "internal_monologue": "",
+      "dialogues": [
+        {
+          "speaker": "玄天剑宗弟子",
+          "text": "没有灵根也配修仙?我看你们就是骗钱吧!"
+        },
+        {
+          "speaker": "顾玄",
+          "text": "你确实没有灵根。但是,你体内有特殊的雷灵力。这种灵力极为罕见,若是好好修炼,将来成就未必输给那些有灵根的人。"
+        }
+      ],
       "background_music": "温情转严肃",
       "sound_effects": [],
       "volume_level": "对话清晰"
@@ -535,9 +581,24 @@
       "special_effects": "系统界面:【系统提示:检测到敌意目标,触发隐藏任务:展现实力】【消耗50积分,激活'绝对防御'(持续10秒)】"
     },
     "audio": {
-      "dialogue": "顾玄: '笑话?你若是再敢多嘴半句,我不介意让你见识一下,什么叫真正的笑话。' 玄天剑宗弟子: '好!既然你这么牛逼,那敢不敢比试比试?' 顾玄: '比就比。不过,我可不想欺负筑基中期的小辈。不如这样——我让你三招。三招之内,你若是能伤我分毫,就算我输。如何?'",
-      "narration": "",
-      "internal_monologue": "完了完了,筑基中期?我只能拼运气了!系统,救命啊!",
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "笑话?你若是再敢多嘴半句,我不介意让你见识一下,什么叫真正的笑话。"
+        },
+        {
+          "speaker": "玄天剑宗弟子",
+          "text": "好!既然你这么牛逼,那敢不敢比试比试?"
+        },
+        {
+          "speaker": "顾玄",
+          "text": "比就比。不过,我可不想欺负筑基中期的小辈。不如这样——我让你三招。三招之内,你若是能伤我分毫,就算我输。如何?"
+        },
+        {
+          "speaker": "顾玄",
+          "text": "完了完了,筑基中期?我只能拼运气了!系统,救命啊!"
+        }
+      ],
       "background_music": "紧张",
       "sound_effects": [],
       "volume_level": "对话突出"
@@ -590,9 +651,24 @@
       "special_effects": "火龙呼啸而出被无形屏障消散,冰锥自行消散,雷霆从天而降被吸收后从顾玄手中反向射出直冲云霄,天空中雷光涌动"
     },
     "audio": {
-      "dialogue": "玄天剑宗弟子: '狂妄!' 顾玄: '第一招。还有两招。' '第二招。' 众人: '这……这是什么法术?太、太强了吧!连雷霆都能吸收?这还是人吗?'",
-      "narration": "",
-      "internal_monologue": "",
+      "dialogues": [
+        {
+          "speaker": "玄天剑宗弟子",
+          "text": "狂妄!"
+        },
+        {
+          "speaker": "顾玄",
+          "text": "第一招。还有两招。"
+        },
+        {
+          "speaker": "顾玄",
+          "text": "第二招。"
+        },
+        {
+          "speaker": "众人",
+          "text": "这……这是什么法术?太、太强了吧!连雷霆都能吸收?这还是人吗?"
+        }
+      ],
       "background_music": "紧张震撼",
       "sound_effects": ["火龙呼啸", "冰锥破碎", "雷声轰隆", "众人惊呼"],
       "volume_level": "音效突出"
@@ -652,9 +728,24 @@
       "special_effects": "周身雷光缓缓消散"
     },
     "audio": {
-      "dialogue": "玄天剑宗弟子: '前、前辈饶命!' 顾玄: '区区筑基中期,也敢在我面前放肆。今日小惩大诫,望你好自为之。' 众人: '天哪!这是什么实力?连雷霆都能吸收,这得多强的修为啊!不愧是青云宗的大师兄!'",
-      "narration": "",
-      "internal_monologue": "完了完了,这下装过头了!积分只剩50了……下次怎么办?",
+      "dialogues": [
+        {
+          "speaker": "玄天剑宗弟子",
+          "text": "前、前辈饶命!"
+        },
+        {
+          "speaker": "顾玄",
+          "text": "区区筑基中期,也敢在我面前放肆。今日小惩大诫,望你好自为之。"
+        },
+        {
+          "speaker": "众人",
+          "text": "天哪!这是什么实力?连雷霆都能吸收,这得多强的修为啊!不愧是青云宗的大师兄!"
+        },
+        {
+          "speaker": "顾玄",
+          "text": "完了完了,这下装过头了!积分只剩50了……下次怎么办?"
+        }
+      ],
       "background_music": "震撼后转为恢弘",
       "sound_effects": [],
       "volume_level": "对话突出"
@@ -700,9 +791,16 @@
       "special_effects": "周身气息恐怖至极,金丹后期威压"
     },
     "audio": {
-      "dialogue": "玄天剑宗掌门: '小辈,你伤我弟子,该当何罪?'",
-      "narration": "",
-      "internal_monologue": "金丹后期?这下完了!",
+      "dialogues": [
+        {
+          "speaker": "玄天剑宗掌门",
+          "text": "小辈,你伤我弟子,该当何罪?"
+        },
+        {
+          "speaker": "顾玄",
+          "text": "金丹后期?这下完了!"
+        }
+      ],
       "background_music": "压抑紧张",
       "sound_effects": ["威压轰鸣"],
       "volume_level": "压抑氛围"
@@ -755,9 +853,12 @@
       "special_effects": "恐怖威压爆发,阴冷恐怖,周身黑气缭绕,隐约浮现魔神虚影,系统界面:【检测到强敌临身,触发紧急任务:化解危机】【建议方案:使用'天魔威压'功能】【是否使用?消耗100积分】"
     },
     "audio": {
-      "dialogue": "顾玄: '用!全用了!'",
-      "narration": "",
-      "internal_monologue": "",
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "用!全用了!"
+        }
+      ],
       "background_music": "压抑震撼",
       "sound_effects": ["威压爆发", "黑气涌动", "魔神虚影声"],
       "volume_level": "音效突出"
@@ -810,9 +911,16 @@
       "special_effects": "黑气缭绕"
     },
     "audio": {
-      "dialogue": "顾玄: '滚。' 玄天剑宗掌门:(咬牙,最终不敢说话,带着弟子狼狈离去) 系统音:【任务完成!奖励积分100】",
-      "narration": "",
-      "internal_monologue": "",
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "滚。"
+        },
+        {
+          "speaker": "旁白",
+          "text": "玄天剑宗掌门咬牙,最终不敢说话,带着弟子狼狈离去。系统音:【任务完成!奖励积分100】"
+        }
+      ],
       "background_music": "压抑后转为轻松",
       "sound_effects": ["系统提示音"],
       "volume_level": "对话突出"
@@ -872,9 +980,24 @@
       "special_effects": "黑气消散,顾玄重新变回'人畜无害'的白衣青年"
     },
     "audio": {
-      "dialogue": "顾玄: '走吧,回宗门。' 李道玄: '好徒儿!为师就知道你深藏不露!原来你一直在隐藏修为!' 系统音:【新手任务完成!奖励积分+20】【系统商城已解锁!】",
-      "narration": "",
-      "internal_monologue": "你们想多了,我真的只是运气好",
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "走吧,回宗门。"
+        },
+        {
+          "speaker": "李道玄",
+          "text": "好徒儿!为师就知道你深藏不露!原来你一直在隐藏修为!"
+        },
+        {
+          "speaker": "旁白",
+          "text": "系统音:【新手任务完成!奖励积分+20】【系统商城已解锁!】"
+        },
+        {
+          "speaker": "顾玄",
+          "text": "你们想多了,我真的只是运气好"
+        }
+      ],
       "background_music": "恢弘逐渐转为轻松",
       "sound_effects": ["系统提示音"],
       "volume_level": "对话突出"
@@ -912,9 +1035,12 @@
       "special_effects": "商城界面琳琅满目:【功法区】(天魔九变灰色锁定,吞噬大法灰色锁定,基础引气诀免费),【法宝区】(天魔剑100积分带USB接口充电宝WIFI热点,执法傀儡T-800 500积分,空间袋1000积分),【特效区】(特效灵石下中上极品,10/50/200/1000积分),【特殊区】(元婴体验卡500积分,规则修改全部积分需管理员权限Lv.2,秩序之眼500积分,系统升级包5000积分锁定),【新手大礼包】"
     },
     "audio": {
-      "dialogue": "",
-      "narration": "",
-      "internal_monologue": "有了这些,总算能装一阵子了……",
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "有了这些,总算能装一阵子了……"
+        }
+      ],
       "background_music": "轻快期待",
       "sound_effects": ["系统界面音"],
       "volume_level": "界面音突出"
@@ -952,9 +1078,12 @@
       "special_effects": "新任务提示:【新任务已触发】【任务:宗门大比】【任务描述:三个月后的宗门大比,请宿主争取前三名】【任务奖励:积分+200,解锁新功能】【失败惩罚:扣除所有积分】"
     },
     "audio": {
-      "dialogue": "",
-      "narration": "",
-      "internal_monologue": "完了,这回真要拼命了!",
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "完了,这回真要拼命了!"
+        }
+      ],
       "background_music": "紧张期待",
       "sound_effects": ["系统提示音"],
       "volume_level": "提示音突出"
@@ -1000,9 +1129,12 @@
       "special_effects": "系统界面再次闪烁:【检测到宿主完成首个任务链,奖励额外积分】【当前积分:170】【管理员权限:Lv.1(封印中)……波动频率增加】【提示:继续完成任务,可逐步解锁封印】【下一阶段任务预告:百宗宴……】"
     },
     "audio": {
-      "dialogue": "",
-      "narration": "他穿越到了修仙世界,获得了一个神秘的系统,靠着系统的帮助,成功招收了第一名弟子,还震慑了玄天剑宗。但未来会怎样?他不知道。他只知道,从今天起,他就是顾玄,青云宗的大师兄,一个靠'特效'装逼的修仙者。而他的故事,才刚刚开始……",
-      "internal_monologue": "",
+      "dialogues": [
+        {
+          "speaker": "旁白",
+          "text": "他穿越到了修仙世界,获得了一个神秘的系统,靠着系统的帮助,成功招收了第一名弟子,还震慑了玄天剑宗。但未来会怎样?他不知道。他只知道,从今天起,他就是顾玄,青云宗的大师兄,一个靠'特效'装逼的修仙者。而他的故事,才刚刚开始……"
+        }
+      ],
       "background_music": "恢弘期待",
       "sound_effects": [],
       "volume_level": "旁白突出"
@@ -1055,9 +1187,16 @@
       "special_effects": "无"
     },
     "audio": {
-      "dialogue": "玄天剑宗掌门: '掌门,今日遇到的那个人……他的气息,与传说中的……' 神秘声音: '继续观察。此人……不简单。'",
-      "narration": "",
-      "internal_monologue": "",
+      "dialogues": [
+        {
+          "speaker": "玄天剑宗掌门",
+          "text": "掌门,今日遇到的那个人……他的气息,与传说中的……"
+        },
+        {
+          "speaker": "旁白",
+          "text": "神秘声音: '继续观察。此人……不简单。'"
+        }
+      ],
       "background_music": "神秘悬疑",
       "sound_effects": [],
       "volume_level": "对话清晰"

@@ -36,9 +36,12 @@
       "special_effects": "两人步伐轻快,与平时沉重形成对比"
     },
     "audio": {
-      "dialogue": "李道玄: '徒儿啊,这五百上品灵石,定要用在宗门建设上。首先得修葺下祖师堂...'",
-      "narration": "",
-      "internal_monologue": "",
+      "dialogues": [
+        {
+          "speaker": "李道玄",
+          "text": "徒儿啊,这五百上品灵石,定要用在宗门建设上。首先得修葺下祖师堂..."
+        }
+      ],
       "background_music": "轻松欢快",
       "sound_effects": ["脚步轻快", "衣摆摩擦"],
       "volume_level": "对话清晰"
@@ -84,9 +87,16 @@
       "special_effects": ""
     },
     "audio": {
-      "dialogue": "顾玄: '师父说得对。'",
-      "narration": "",
-      "internal_monologue": "终于可以买点像样的灵石了!下次施展光影术绝对不能再中途熄火!",
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "师父说得对。"
+        },
+        {
+          "speaker": "顾玄",
+          "text": "终于可以买点像样的灵石了!下次施展光影术绝对不能再中途熄火!"
+        }
+      ],
       "background_music": "轻松幽默",
       "sound_effects": [],
       "volume_level": "内心独白突出"
@@ -153,9 +163,12 @@
       "special_effects": "主殿破败,透出贫穷气息"
     },
     "audio": {
-      "dialogue": "陆尘: '掌门,师兄,怎么样了?'",
-      "narration": "",
-      "internal_monologue": "",
+      "dialogues": [
+        {
+          "speaker": "陆尘",
+          "text": "掌门,师兄,怎么样了?"
+        }
+      ],
       "background_music": "期待感",
       "sound_effects": [],
       "volume_level": "对话清晰"
@@ -193,9 +206,7 @@
       "special_effects": "上品灵石堆成小山,灵气四溢,光芒照亮整个主殿"
     },
     "audio": {
-      "dialogue": "",
-      "narration": "",
-      "internal_monologue": "",
+      "dialogues": [],
       "background_music": "震撼壮观",
       "sound_effects": ["哗啦声", "灵气共鸣"],
       "volume_level": "音效突出"
@@ -248,9 +259,16 @@
       "special_effects": ""
     },
     "audio": {
-      "dialogue": "王明: '这、这么多灵石?咱们青云宗祖坟冒青烟了?'\n李道玄: '咳咳,此乃祖师爷留下的福泽...'",
-      "narration": "",
-      "internal_monologue": "",
+      "dialogues": [
+        {
+          "speaker": "王明",
+          "text": "这、这么多灵石?咱们青云宗祖坟冒青烟了?"
+        },
+        {
+          "speaker": "李道玄",
+          "text": "咳咳,此乃祖师爷留下的福泽..."
+        }
+      ],
       "background_music": "幽默轻松",
       "sound_effects": [],
       "volume_level": "对话清晰"
@@ -296,9 +314,7 @@
       "special_effects": ""
     },
     "audio": {
-      "dialogue": "",
-      "narration": "",
-      "internal_monologue": "",
+      "dialogues": [],
       "background_music": "轻松幽默",
       "sound_effects": [],
       "volume_level": "音乐为主"
@@ -358,9 +374,16 @@
       "special_effects": "宗门焕发新活力,物资分发场景温馨"
     },
     "audio": {
-      "dialogue": "李道玄: '这是给你的三块下品灵石和《基础炼气诀》'\n陆尘: '谢谢掌门!'",
-      "narration": "",
-      "internal_monologue": "",
+      "dialogues": [
+        {
+          "speaker": "李道玄",
+          "text": "这是给你的三块下品灵石和《基础炼气诀》"
+        },
+        {
+          "speaker": "陆尘",
+          "text": "谢谢掌门!"
+        }
+      ],
       "background_music": "温馨欢快",
       "sound_effects": ["物品传递", "欢笑声"],
       "volume_level": "对话与音乐平衡"
@@ -406,9 +429,12 @@
       "special_effects": ""
     },
     "audio": {
-      "dialogue": "陆尘: '师兄!我好像能引动一丝灵气了!虽然还是很微弱,但比昨天好多了!'",
-      "narration": "",
-      "internal_monologue": "",
+      "dialogues": [
+        {
+          "speaker": "陆尘",
+          "text": "师兄!我好像能引动一丝灵气了!虽然还是很微弱,但比昨天好多了!"
+        }
+      ],
       "background_music": "励志感人",
       "sound_effects": [],
       "volume_level": "对话清晰"
@@ -454,9 +480,16 @@
       "special_effects": ""
     },
     "audio": {
-      "dialogue": "顾玄: '不错,继续努力。'",
-      "narration": "",
-      "internal_monologue": "这孩子怕不是练出幻觉了...没有灵根怎么可能引气?不过我自己都能瞎猫碰上死耗子引来天雷,说不定这世界就不讲基本法呢?",
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "不错,继续努力。"
+        },
+        {
+          "speaker": "顾玄",
+          "text": "这孩子怕不是练出幻觉了...没有灵根怎么可能引气?不过我自己都能瞎猫碰上死耗子引来天雷,说不定这世界就不讲基本法呢?"
+        }
+      ],
       "background_music": "轻松带思考",
       "sound_effects": [],
       "volume_level": "内心独白突出"
@@ -509,9 +542,12 @@
       "special_effects": ""
     },
     "audio": {
-      "dialogue": "顾玄: '既然已能引气,今日便传你剑法基础。我青云宗以剑修闻名,剑法乃是根本。'",
-      "narration": "",
-      "internal_monologue": "",
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "既然已能引气,今日便传你剑法基础。我青云宗以剑修闻名,剑法乃是根本。"
+        }
+      ],
       "background_music": "正统武侠",
       "sound_effects": [],
       "volume_level": "对话清晰"
@@ -557,9 +593,7 @@
       "special_effects": "锈迹斑斑的铁剑,剑柄镶嵌劣质灵石"
     },
     "audio": {
-      "dialogue": "",
-      "narration": "",
-      "internal_monologue": "",
+      "dialogues": [],
       "background_music": "神秘感",
       "sound_effects": ["剑出鞘声"],
       "volume_level": "音效突出"
@@ -605,9 +639,12 @@
       "special_effects": "剑尖划出微弱白光,最低档光效但看起来飘逸如仙"
     },
     "audio": {
-      "dialogue": "顾玄: '看好了,此乃青云剑法起手式——云起青霄!'",
-      "narration": "",
-      "internal_monologue": "",
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "看好了,此乃青云剑法起手式——云起青霄!"
+        }
+      ],
       "background_music": "仙侠武侠",
       "sound_effects": ["剑划破空", "轻微灵力声"],
       "volume_level": "对话与音效平衡"
@@ -653,9 +690,12 @@
       "special_effects": ""
     },
     "audio": {
-      "dialogue": "陆尘: '好厉害!'",
-      "narration": "",
-      "internal_monologue": "",
+      "dialogues": [
+        {
+          "speaker": "陆尘",
+          "text": "好厉害!"
+        }
+      ],
       "background_music": "震撼感人",
       "sound_effects": [],
       "volume_level": "对话清晰"
@@ -701,9 +741,12 @@
       "special_effects": ""
     },
     "audio": {
-      "dialogue": "",
-      "narration": "",
-      "internal_monologue": "厉害个鬼,这招我练了三年才勉强能看,实际杀伤力还不如扔块石头。",
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "厉害个鬼,这招我练了三年才勉强能看,实际杀伤力还不如扔块石头。"
+        }
+      ],
       "background_music": "轻松幽默",
       "sound_effects": [],
       "volume_level": "内心独白清晰"
@@ -749,9 +792,16 @@
       "special_effects": "剑尖白光剧烈闪烁,差点脱手飞出"
     },
     "audio": {
-      "dialogue": "顾玄: '第二式,流云过峰!'... '此招重在变化,你初学不必追求形似,领会意境即可。'",
-      "narration": "",
-      "internal_monologue": "这招对灵力控制要求极高,我十次有八次会失控!",
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "第二式,流云过峰!... 此招重在变化,你初学不必追求形似,领会意境即可。"
+        },
+        {
+          "speaker": "顾玄",
+          "text": "这招对灵力控制要求极高,我十次有八次会失控!"
+        }
+      ],
       "background_music": "紧张带幽默",
       "sound_effects": ["剑光闪烁", "灵力不稳"],
       "volume_level": "紧张氛围"
@@ -804,9 +854,12 @@
       "special_effects": ""
     },
     "audio": {
-      "dialogue": "",
-      "narration": "陆尘天资一般,练起剑来格外吃力。顾玄则在树下打盹——昨晚数灵石数太晚。",
-      "internal_monologue": "",
+      "dialogues": [
+        {
+          "speaker": "旁白",
+          "text": "陆尘天资一般,练起剑来格外吃力。顾玄则在树下打盹——昨晚数灵石数太晚。"
+        }
+      ],
       "background_music": "轻松慵懒",
       "sound_effects": ["剑挥舞声", "蝉鸣"],
       "volume_level": "音乐与环境音平衡"
@@ -852,9 +905,12 @@
       "special_effects": "木剑尖端爆出小簇电火花,灵气自行运转"
     },
     "audio": {
-      "dialogue": "陆尘: '这、这是...'",
-      "narration": "",
-      "internal_monologue": "",
+      "dialogues": [
+        {
+          "speaker": "陆尘",
+          "text": "这、这是..."
+        }
+      ],
       "background_music": "惊喜震撼",
       "sound_effects": ["嗤啦声", "电流声"],
       "volume_level": "音效突出"
@@ -900,9 +956,12 @@
       "special_effects": "剑尖迸发电火花越来越频繁,周身开始有细微电光流转"
     },
     "audio": {
-      "dialogue": "",
-      "narration": "陆尘开始不按剑谱练习,而是凭感觉出剑。剑招变得刚猛直接,甚至有些莽。但体内灵气反而运转越发顺畅。",
-      "internal_monologue": "",
+      "dialogues": [
+        {
+          "speaker": "旁白",
+          "text": "陆尘开始不按剑谱练习,而是凭感觉出剑。剑招变得刚猛直接,甚至有些莽。但体内灵气反而运转越发顺畅。"
+        }
+      ],
       "background_music": "震撼神秘",
       "sound_effects": ["剑挥舞", "电火花", "轻微雷声"],
       "volume_level": "音效与音乐平衡"
@@ -948,9 +1007,12 @@
       "special_effects": ""
     },
     "audio": {
-      "dialogue": "",
-      "narration": "",
-      "internal_monologue": "我这教的是青云剑法还是王八剑法?等等...那是什么?不可能!没有灵根之人,怎么可能练出属性剑气!",
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "我这教的是青云剑法还是王八剑法?等等...那是什么?不可能!没有灵根之人,怎么可能练出属性剑气!"
+        }
+      ],
       "background_music": "震惊悬疑",
       "sound_effects": [],
       "volume_level": "内心独白突出"
@@ -996,9 +1058,12 @@
       "special_effects": "周身细微电光流转,空气中弥漫淡淡臭氧味"
     },
     "audio": {
-      "dialogue": "",
-      "narration": "只见陆尘越练越投入,木剑挥舞间竟隐隐有风雷之声!",
-      "internal_monologue": "",
+      "dialogues": [
+        {
+          "speaker": "旁白",
+          "text": "只见陆尘越练越投入,木剑挥舞间竟隐隐有风雷之声!"
+        }
+      ],
       "background_music": "震撼神秘",
       "sound_effects": ["风雷之声", "电流声"],
       "volume_level": "音效突出"
@@ -1051,9 +1116,20 @@
       "special_effects": ""
     },
     "audio": {
-      "dialogue": "陆尘: '师兄!我好像摸到点门道了!虽然和您教的不太一样,但感觉特别顺畅!'\n顾玄: '嗯...不错。剑法本无定式,能悟出属于自己的道,才是正途。'",
-      "narration": "",
-      "internal_monologue": "顾玄: 难道...这才是青云剑法的正确打开方式?我苦练十几年练的是假剑法?",
+      "dialogues": [
+        {
+          "speaker": "陆尘",
+          "text": "师兄!我好像摸到点门道了!虽然和您教的不太一样,但感觉特别顺畅!"
+        },
+        {
+          "speaker": "顾玄",
+          "text": "嗯...不错。剑法本无定式,能悟出属于自己的道,才是正途。"
+        },
+        {
+          "speaker": "顾玄",
+          "text": "难道...这才是青云剑法的正确打开方式?我苦练十几年练的是假剑法?"
+        }
+      ],
       "background_music": "轻松带思考",
       "sound_effects": [],
       "volume_level": "对话清晰"
@@ -1099,9 +1175,12 @@
       "special_effects": ""
     },
     "audio": {
-      "dialogue": "陆尘: '师兄,我感觉最后一招特别顺手,就是向前直刺那下,好像能引动雷电之力似的!这招叫什么名字啊?'",
-      "narration": "",
-      "internal_monologue": "",
+      "dialogues": [
+        {
+          "speaker": "陆尘",
+          "text": "师兄,我感觉最后一招特别顺手,就是向前直刺那下,好像能引动雷电之力似的!这招叫什么名字啊?"
+        }
+      ],
       "background_music": "期待感",
       "sound_effects": [],
       "volume_level": "对话清晰"
@@ -1147,9 +1226,16 @@
       "special_effects": ""
     },
     "audio": {
-      "dialogue": "顾玄: '此招...乃青云剑法隐藏绝学,名为...奔雷刺。'",
-      "narration": "",
-      "internal_monologue": "随便编了个名字,心想反正听起来够帅就行。",
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "此招...乃青云剑法隐藏绝学,名为...奔雷刺。"
+        },
+        {
+          "speaker": "顾玄",
+          "text": "随便编了个名字,心想反正听起来够帅就行。"
+        }
+      ],
       "background_music": "幽默轻松",
       "sound_effects": [],
       "volume_level": "对话与内心平衡"
@@ -1209,9 +1295,20 @@
       "special_effects": "陆尘一剑刺出带起雷光"
     },
     "audio": {
-      "dialogue": "陆尘: '奔雷刺?好名字!谢谢师兄传授绝学!'",
-      "narration": "远处,李道玄掌门默默看着这一幕: '果然,顾玄的教学方法别具一格,竟能因材施教,激发弟子潜能。看来我青云宗复兴在望啊...'",
-      "internal_monologue": "顾玄: 到底是我在教他,还是他在教我?或者说...我们俩其实都在瞎练,只是运气好没练死?",
+      "dialogues": [
+        {
+          "speaker": "陆尘",
+          "text": "奔雷刺?好名字!谢谢师兄传授绝学!"
+        },
+        {
+          "speaker": "旁白",
+          "text": "远处,李道玄掌门默默看着这一幕: '果然,顾玄的教学方法别具一格,竟能因材施教,激发弟子潜能。看来我青云宗复兴在望啊...'"
+        },
+        {
+          "speaker": "顾玄",
+          "text": "到底是我在教他,还是他在教我?或者说...我们俩其实都在瞎练,只是运气好没练死?"
+        }
+      ],
       "background_music": "轻松带哲理",
       "sound_effects": [],
       "volume_level": "音乐为主"
@@ -1249,9 +1346,12 @@
       "special_effects": "夕阳西下,宗门在暮色中显得安宁,暗示未来的风波"
     },
     "audio": {
-      "dialogue": "",
-      "narration": "就这样,青云宗大弟子继续着他的懵逼教学,而新入门的小师弟,则在一条谁也没料到的修炼道路上越走越远。至于这'奔雷剑意'将来会引发怎样的风波...那就是后话了。至少现在,顾玄很欣慰:看来暂时不用怕露馅了,这孩子比自己还能脑补!",
-      "internal_monologue": "",
+      "dialogues": [
+        {
+          "speaker": "旁白",
+          "text": "就这样,青云宗大弟子继续着他的懵逼教学,而新入门的小师弟,则在一条谁也没料到的修炼道路上越走越远。至于这'奔雷剑意'将来会引发怎样的风波...那就是后话了。至少现在,顾玄很欣慰:看来暂时不用怕露馅了,这孩子比自己还能脑补!"
+        }
+      ],
       "background_music": "轻松温馨带悬念",
       "sound_effects": [],
       "volume_level": "旁白清晰"
@@ -1297,9 +1397,12 @@
       "special_effects": "系统界面闪烁:【检测到宿主完成'意外教学成就'】【奖励:积分+10】【当前积分:210】【管理员权限:Lv.1(封印中)...检测到异常能量波动】【警告:陆尘的'奔雷剑意'可能引发连锁反应】【提示:此剑法虽强,但根基不稳,建议...算了,宿主也不听建议】"
     },
     "audio": {
-      "dialogue": "顾玄:......系统你这吐槽越来越熟练了是吧?",
-      "narration": "",
-      "internal_monologue": "",
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "......系统你这吐槽越来越熟练了是吧?"
+        }
+      ],
       "background_music": "科技感提示音",
       "sound_effects": ["系统提示音"],
       "volume_level": "系统音突出"
@@ -1345,9 +1448,12 @@
       "special_effects": "系统新任务界面:【新任务预告已触发】【任务:百宗宴】【任务描述:青州百年一度的百宗宴即将开启,请宿主代表青云宗出席】【任务奖励:积分+300,解锁新功能】【失败惩罚:扣除所有积分,宗门声望大跌】【提示:此次百宗宴,将有神秘势力参与...】"
     },
     "audio": {
-      "dialogue": "",
-      "narration": "顾玄看着任务信息,心里突然有种不祥的预感...",
-      "internal_monologue": "",
+      "dialogues": [
+        {
+          "speaker": "旁白",
+          "text": "顾玄看着任务信息,心里突然有种不祥的预感..."
+        }
+      ],
       "background_music": "警示紧张",
       "sound_effects": ["任务提示音", "警告音效"],
       "volume_level": "系统音突出"
