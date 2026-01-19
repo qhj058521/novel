@@ -1,9 +1,9 @@
 [
   {
-    "shot_id": "EP10-S001",
+    "shot_id": "EP10-S001-1",
     "chapter_number": 10,
     "scene_number": 1,
-    "duration": 10,
+    "duration": 3,
     "shot_type": "全景→推近",
     "location": "青云宗山门",
     "time_of_day": "白天",
@@ -47,14 +47,6 @@
         {
           "speaker": "陆尘",
           "text": "师兄！门外又来了十几个想入宗的！还有几个带着厚礼呢！"
-        },
-        {
-          "speaker": "顾玄",
-          "text": "(内心OS)完了完了，这下真骑虎难下了！大家都以为我是元婴老怪，实际上我就是个筑基期菜鸡！"
-        },
-        {
-          "speaker": "旁白",
-          "text": "凝金丹？我拿头结啊！"
         }
       ],
       "background_music": "热闹转压抑",
@@ -73,15 +65,66 @@
     }
   },
   {
-    "shot_id": "EP10-S002",
+    "shot_id": "EP10-S001-2",
     "chapter_number": 10,
     "scene_number": 1,
-    "duration": 7,
+    "duration": 3,
+    "shot_type": "特写",
+    "location": "青云宗山门",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "面部特写",
+      "camera_movement": "轻微推拉",
+      "framing": "特写构图",
+      "focus_type": "表情清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "揉太阳穴",
+        "expression": "苦恼、懵逼",
+        "costume": "白衣道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山门前",
+      "lighting": "明亮自然光",
+      "color_palette": "自然色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "旁白",
+          "text": "完了完了，这下真骑虎难下了！大家都以为我是元婴老怪，实际上我就是个筑基期菜鸡！"
+        }
+      ],
+      "background_music": "压抑",
+      "sound_effects": [],
+      "volume_level": "内心独白突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "压抑",
+      "purpose": "内心戏"
+    },
+    "notes": {
+      "production_note": "注重表演",
+      "reference_style": "轻喜剧",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP10-S001-3",
+    "chapter_number": 10,
+    "scene_number": 1,
+    "duration": 2,
     "shot_type": "特写",
     "location": "顾玄手中",
     "time_of_day": "白天",
     "composition": {
-      "camera_position": "极近拍摄",
+      "camera_position": "特写凝金丹",
       "camera_movement": "缓慢环绕",
       "framing": "中心构图",
       "focus_type": "凝金丹清晰"
@@ -90,8 +133,8 @@
       {
         "name": "顾玄",
         "position": "画面边缘",
-        "action": "看着手中的凝金丹",
-        "expression": "苦恼→恐惧",
+        "action": "看着凝金丹",
+        "expression": "苦恼",
         "costume": "白衣道袍"
       }
     ],
@@ -99,17 +142,71 @@
       "environment": "凝金丹特写",
       "lighting": "丹药自发光",
       "color_palette": "金色光晕",
-      "special_effects": "凝金丹散发着诱人的灵气波动，流光溢彩"
+      "special_effects": "凝金丹散发着诱人的灵气波动"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "旁白",
+          "text": "凝金丹？我拿头结啊！"
+        }
+      ],
+      "background_music": "压抑紧张",
+      "sound_effects": [],
+      "volume_level": "内心独白突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "压抑",
+      "purpose": "内心戏"
+    },
+    "notes": {
+      "production_note": "微距拍摄+特效",
+      "reference_style": "轻喜剧",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP10-S002-1",
+    "chapter_number": 10,
+    "scene_number": 1,
+    "duration": 4,
+    "shot_type": "中景",
+    "location": "青云宗",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "对话角度",
+      "camera_movement": "轻微推拉",
+      "framing": "对话构图",
+      "focus_type": "人物清晰"
+    },
+    "characters": [
+      {
+        "name": "李道玄",
+        "position": "画面中央",
+        "action": "拿着凝金丹",
+        "expression": "欣慰",
+        "costume": "掌门服饰"
+      },
+      {
+        "name": "顾玄",
+        "position": "一旁",
+        "action": "看着凝金丹",
+        "expression": "苦恼→恐惧",
+        "costume": "白衣道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "青云宗",
+      "lighting": "明亮自然光",
+      "color_palette": "自然色调",
+      "special_effects": "凝金丹散发灵气"
     },
     "audio": {
       "dialogues": [
         {
           "speaker": "李道玄",
           "text": "徒儿，此丹于你正是时候。服下后闭关几日，必能结成金丹，真正发挥你被封印的实力！"
-        },
-        {
-          "speaker": "顾玄",
-          "text": "(内心OS)结丹？我拿头结啊！我这才筑基初期，离结丹还差着十万八千里呢！"
         }
       ],
       "background_music": "压抑紧张",
@@ -118,20 +215,71 @@
     },
     "editing": {
       "transition_to_next": "直接切",
-      "pacing": "压抑",
-      "purpose": "强化压力，铺垫爽点2"
+      "pacing": "中等",
+      "purpose": "对话推进"
     },
     "notes": {
-      "production_note": "微距拍摄+特效",
-      "reference_style": "特写镜头",
-      "difficulty_level": "中等"
+      "production_note": "注重对话",
+      "reference_style": "紧张氛围",
+      "difficulty_level": "简单"
     }
   },
   {
-    "shot_id": "EP10-S003",
+    "shot_id": "EP10-S002-2",
+    "chapter_number": 10,
+    "scene_number": 1,
+    "duration": 3,
+    "shot_type": "特写",
+    "location": "青云宗",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "面部特写",
+      "camera_movement": "轻微推拉",
+      "framing": "特写构图",
+      "focus_type": "表情清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "内心OS",
+        "expression": "苦恼→恐惧",
+        "costume": "白衣道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "青云宗",
+      "lighting": "自然光",
+      "color_palette": "压抑色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "旁白",
+          "text": "结丹？我拿头结啊！我这才筑基初期，离结丹还差着十万八千里呢！"
+        }
+      ],
+      "background_music": "压抑紧张",
+      "sound_effects": [],
+      "volume_level": "内心独白突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "压抑",
+      "purpose": "内心戏+压力铺垫"
+    },
+    "notes": {
+      "production_note": "注重表演",
+      "reference_style": "轻喜剧",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP10-S003-1",
     "chapter_number": 10,
     "scene_number": 2,
-    "duration": 8,
+    "duration": 3,
     "shot_type": "中景",
     "location": "密室内（顾玄房间）",
     "time_of_day": "夜晚",
@@ -145,8 +293,8 @@
       {
         "name": "顾玄",
         "position": "盘膝而坐",
-        "action": "吞下丹药，然后震惊",
-        "expression": "犹豫→惊喜→惊恐",
+        "action": "吞下丹药",
+        "expression": "犹豫→惊喜",
         "costume": "修炼服"
       }
     ],
@@ -154,27 +302,74 @@
       "environment": "密室，昏暗",
       "lighting": "昏暗烛光+丹药光芒",
       "color_palette": "冷暖对比",
+      "special_effects": "丹药入体，暖流涌动"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "吃了吧，估计也没什么效果...咦？好像有点意思？"
+        }
+      ],
+      "background_music": "平静→紧张",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "平静→紧张",
+      "purpose": "铺垫爽点2"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "紧张氛围",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP10-S003-2",
+    "chapter_number": 10,
+    "scene_number": 2,
+    "duration": 3,
+    "shot_type": "系统界面特写",
+    "location": "密室内（顾玄房间）",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "轻微推拉",
+      "framing": "中心构图",
+      "focus_type": "系统界面清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "盘膝而坐",
+        "action": "震惊",
+        "expression": "惊喜→惊恐",
+        "costume": "修炼服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "密室，昏暗",
+      "lighting": "昏暗烛光+系统界面红光",
+      "color_palette": "冷暖对比",
       "special_effects": "系统界面突然弹出：【警告：检测到宿主体内封印力量躁动！】【封印松动中...】【天魔本源与凝金丹产生共鸣...】【建议：立即压制！否则可能引发不可预测后果...】红色警告闪烁"
     },
     "audio": {
       "dialogues": [
         {
           "speaker": "顾玄",
-          "text": "吃了吧，估计也没什么效果...咦？好像有点意思？不好！"
-        },
-        {
-          "speaker": "旁白",
-          "text": "这封印要是破了，我不会真变成天魔吧？"
+          "text": "不好！"
         }
       ],
-      "background_music": "平静→紧张→惊恐",
-      "sound_effects": ["系统警报音", "心跳声"],
+      "background_music": "紧张→惊恐",
+      "sound_effects": ["系统警报音"],
       "volume_level": "警报音突出"
     },
     "editing": {
       "transition_to_next": "快速切",
-      "pacing": "平静→紧张→惊恐",
-      "purpose": "爽点2：惊慌升级，封印躁动"
+      "pacing": "紧张→惊恐",
+      "purpose": "系统警告"
     },
     "notes": {
       "production_note": "实景+CG界面",
@@ -183,10 +378,61 @@
     }
   },
   {
-    "shot_id": "EP10-S004",
+    "shot_id": "EP10-S003-3",
+    "chapter_number": 10,
+    "scene_number": 2,
+    "duration": 2,
+    "shot_type": "特写",
+    "location": "密室内（顾玄房间）",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "面部特写",
+      "camera_movement": "轻微推拉",
+      "framing": "特写构图",
+      "focus_type": "表情清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "惊恐",
+        "expression": "惊恐",
+        "costume": "修炼服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "密室",
+      "lighting": "昏暗",
+      "color_palette": "冷色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "旁白",
+          "text": "这封印要是破了，我不会真变成天魔吧？"
+        }
+      ],
+      "background_music": "惊恐",
+      "sound_effects": ["心跳声"],
+      "volume_level": "内心独白突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "惊恐",
+      "purpose": "内心戏"
+    },
+    "notes": {
+      "production_note": "注重表演",
+      "reference_style": "紧张惊悚",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP10-S004-1",
     "chapter_number": 10,
     "scene_number": 3,
-    "duration": 12,
+    "duration": 3,
     "shot_type": "特效特写",
     "location": "密室",
     "time_of_day": "夜晚",
@@ -200,7 +446,7 @@
       {
         "name": "顾玄",
         "position": "画面中央",
-        "action": "疯狂吸收灵石，引导灵力至体表",
+        "action": "疯狂吸收灵石",
         "expression": "惊恐→决绝",
         "costume": "修炼服，周身金光爆发"
       }
@@ -209,39 +455,23 @@
       "environment": "密室",
       "lighting": "昏暗→刺目金光",
       "color_palette": "金色主导",
-      "special_effects": "刺目金光爆发！强大的气息以顾玄为中心扩散！天地异象显现！夜空突然响起惊雷！一道闪电划破长空，直劈顾玄屋顶！屋顶被劈开个大洞，雷电顺着破洞灌入，正好打在顾玄身上！金光更盛！气势更强！威压笼罩整个青云宗！"
+      "special_effects": "刺目金光爆发！强大的气息以顾玄为中心扩散！天地异象显现！"
     },
     "audio": {
       "dialogues": [
         {
           "speaker": "顾玄",
           "text": "死马当活马医！"
-        },
-        {
-          "speaker": "音效",
-          "text": "嗡——"
-        },
-        {
-          "speaker": "音效",
-          "text": "轰隆！"
-        },
-        {
-          "speaker": "音效",
-          "text": "咔嚓！"
-        },
-        {
-          "speaker": "顾玄",
-          "text": "我命休矣！"
         }
       ],
-      "background_music": "紧张→震撼→恢弘",
-      "sound_effects": ["金光嗡鸣", "惊雷轰隆", "屋顶破裂", "雷电入体"],
+      "background_music": "紧张→震撼",
+      "sound_effects": ["金光嗡鸣"],
       "volume_level": "音效突出"
     },
     "editing": {
       "transition_to_next": "直接切",
-      "pacing": "紧张→爆发→震撼",
-      "purpose": "爽点3：震惊升级，特效结丹成功"
+      "pacing": "紧张→爆发",
+      "purpose": "爽点3铺垫"
     },
     "notes": {
       "production_note": "大量CG特效",
@@ -250,12 +480,165 @@
     }
   },
   {
-    "shot_id": "EP10-S005",
+    "shot_id": "EP10-S004-2",
     "chapter_number": 10,
     "scene_number": 3,
-    "duration": 8,
+    "duration": 3,
+    "shot_type": "特效全景",
+    "location": "密室→天空",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "从密室拉至天空",
+      "camera_movement": "震撼推拉",
+      "framing": "天地异象构图",
+      "focus_type": "特效清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央（回忆）",
+        "action": "吸收灵石",
+        "expression": "决绝",
+        "costume": "修炼服，周身金光"
+      }
+    ],
+    "visual_effects": {
+      "environment": "密室→夜空",
+      "lighting": "刺目金光→惊雷",
+      "color_palette": "金色震撼",
+      "special_effects": "夜空突然响起惊雷！一道闪电划破长空，直劈顾玄屋顶！"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "音效",
+          "text": "轰隆！"
+        }
+      ],
+      "background_music": "震撼",
+      "sound_effects": ["惊雷轰隆"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "震撼",
+      "purpose": "天地异象"
+    },
+    "notes": {
+      "production_note": "大量CG特效",
+      "reference_style": "仙侠特效大片",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP10-S004-3",
+    "chapter_number": 10,
+    "scene_number": 3,
+    "duration": 2,
+    "shot_type": "特效特写",
+    "location": "密室",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "密室视角",
+      "camera_movement": "震撼推拉",
+      "framing": "动态构图",
+      "focus_type": "特效清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "被雷电击中",
+        "expression": "惊恐",
+        "costume": "修炼服，雷电缠绕"
+      }
+    ],
+    "visual_effects": {
+      "environment": "密室",
+      "lighting": "雷电光芒",
+      "color_palette": "金色震撼",
+      "special_effects": "屋顶被劈开个大洞，雷电顺着破洞灌入，正好打在顾玄身上！"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "音效",
+          "text": "咔嚓！"
+        }
+      ],
+      "background_music": "震撼",
+      "sound_effects": ["屋顶破裂"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "震撼",
+      "purpose": "雷电入体"
+    },
+    "notes": {
+      "production_note": "大量CG特效",
+      "reference_style": "仙侠特效大片",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP10-S004-4",
+    "chapter_number": 10,
+    "scene_number": 3,
+    "duration": 4,
+    "shot_type": "特效全景",
+    "location": "密室→青云宗",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "从密室拉至青云宗全景",
+      "camera_movement": "震撼推拉",
+      "framing": "天地异象构图",
+      "focus_type": "特效清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "金光爆发",
+        "expression": "惊恐→镇定",
+        "costume": "修炼服，周身金光爆发"
+      }
+    ],
+    "visual_effects": {
+      "environment": "密室→青云宗",
+      "lighting": "刺目金光",
+      "color_palette": "金色震撼",
+      "special_effects": "金光更盛！气势更强！威压笼罩整个青云宗！"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "我命休矣！"
+        }
+      ],
+      "background_music": "震撼→恢弘",
+      "sound_effects": ["金光嗡鸣", "雷电入体"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "震撼→恢弘",
+      "purpose": "爽点3：特效结丹成功"
+    },
+    "notes": {
+      "production_note": "大量CG特效",
+      "reference_style": "仙侠特效大片",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP10-S005-1",
+    "chapter_number": 10,
+    "scene_number": 3,
+    "duration": 3,
     "shot_type": "远景→特写",
-    "location": "青云宗各处→远处宗门",
+    "location": "青云宗各处",
     "time_of_day": "夜晚",
     "composition": {
       "camera_position": "从青云宗拉远至远处",
@@ -270,20 +653,13 @@
         "action": "又惊又喜",
         "expression": "震撼、欣喜",
         "costume": "宗门服饰"
-      },
-      {
-        "name": "各宗门探子",
-        "position": "远处",
-        "action": "变色，震惊",
-        "expression": "震撼、恐惧",
-        "costume": "各宗门服饰"
       }
     ],
     "visual_effects": {
       "environment": "夜晚，金光照耀整个青云宗",
       "lighting": "金光主导",
       "color_palette": "金色震撼",
-      "special_effects": "金光冲天，天地异象持续，远处也能清晰看到"
+      "special_effects": "金光冲天，天地异象持续"
     },
     "audio": {
       "dialogues": [
@@ -294,7 +670,54 @@
         {
           "speaker": "陆尘",
           "text": "好强的气势！师兄果然非同凡响！"
-        },
+        }
+      ],
+      "background_music": "震撼恢弘",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "震撼",
+      "purpose": "众人反应"
+    },
+    "notes": {
+      "production_note": "多场景拍摄",
+      "reference_style": "震撼场面",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP10-S005-2",
+    "chapter_number": 10,
+    "scene_number": 3,
+    "duration": 5,
+    "shot_type": "远景蒙太奇",
+    "location": "远处宗门",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "从青云宗拉远至远处",
+      "camera_movement": "快速切换",
+      "framing": "多场景切换",
+      "focus_type": "众人反应清晰"
+    },
+    "characters": [
+      {
+        "name": "各宗门探子",
+        "position": "远处",
+        "action": "变色，震惊",
+        "expression": "震撼、恐惧",
+        "costume": "各宗门服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "夜晚，远处金光可见",
+      "lighting": "金光主导",
+      "color_palette": "金色震撼",
+      "special_effects": "金光冲天，天地异象持续，远处也能清晰看到"
+    },
+    "audio": {
+      "dialogues": [
         {
           "speaker": "探子1",
           "text": "这等天地异象...绝非普通结丹！"
@@ -315,7 +738,7 @@
     "editing": {
       "transition_to_next": "快速切",
       "pacing": "震撼",
-      "purpose": "众人震惊，强化爽点3"
+      "purpose": "强化爽点3"
     },
     "notes": {
       "production_note": "多场景拍摄",
@@ -324,10 +747,10 @@
     }
   },
   {
-    "shot_id": "EP10-S006",
+    "shot_id": "EP10-S006-1",
     "chapter_number": 10,
     "scene_number": 4,
-    "duration": 10,
+    "duration": 4,
     "shot_type": "特写→主观视角",
     "location": "顾玄脑海/密室",
     "time_of_day": "夜晚",
@@ -341,47 +764,32 @@
       {
         "name": "顾玄",
         "position": "画面中央",
-        "action": "抱头惨叫，记忆碎片涌入",
-        "expression": "茫然→惊恐→恐惧",
+        "action": "抱头惨叫",
+        "expression": "茫然→惊恐",
         "costume": "修炼服"
-      },
-      {
-        "name": "天魔容貌",
-        "position": "记忆中",
-        "action": "清晰显现",
-        "expression": "冷漠、魔威",
-        "costume": "魔袍"
       }
     ],
     "visual_effects": {
       "environment": "密室→记忆战场",
       "lighting": "昏暗→战场火光",
       "color_palette": "暗红色调",
-      "special_effects": "记忆碎片涌入！古老的战场、惊天的大战、被封印的绝望...天魔容貌清晰...是壁画上的'天魔'，也是...顾玄自己！系统界面：【警告：宿主接触核心记忆碎片】【天魔本源正在苏醒...】【封印进一步松动...】【提示：宿主可能真是天魔转世...】"
+      "special_effects": "记忆碎片涌入！古老的战场、惊天的大战、被封印的绝望..."
     },
     "audio": {
       "dialogues": [
         {
           "speaker": "天魔声音",
           "text": "天魔...本源...融合..."
-        },
-        {
-          "speaker": "顾玄",
-          "text": "啊！"
-        },
-        {
-          "speaker": "旁白",
-          "text": "我真是天魔转世？！"
         }
       ],
-      "background_music": "惊悚震撼",
-      "sound_effects": ["记忆涌入声", "惨叫"],
-      "volume_level": "震撼突出"
+      "background_music": "惊悚",
+      "sound_effects": ["记忆涌入声"],
+      "volume_level": "声音突出"
     },
     "editing": {
       "transition_to_next": "快速切",
-      "pacing": "震撼→惊恐",
-      "purpose": "爽点4：恐惧升级，天魔身份暗示"
+      "pacing": "惊悚",
+      "purpose": "爽点4铺垫"
     },
     "notes": {
       "production_note": "闪回特效+CG",
@@ -390,10 +798,112 @@
     }
   },
   {
-    "shot_id": "EP10-S007",
+    "shot_id": "EP10-S006-2",
+    "chapter_number": 10,
+    "scene_number": 4,
+    "duration": 3,
+    "shot_type": "记忆闪回",
+    "location": "记忆战场",
+    "time_of_day": "古代",
+    "composition": {
+      "camera_position": "记忆视角",
+      "camera_movement": "震撼推拉",
+      "framing": "闪回构图",
+      "focus_type": "记忆清晰"
+    },
+    "characters": [
+      {
+        "name": "天魔",
+        "position": "战场中央",
+        "action": "战斗",
+        "expression": "冷漠、魔威",
+        "costume": "魔袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "古老战场",
+      "lighting": "战场火光",
+      "color_palette": "暗红色调",
+      "special_effects": "天魔容貌清晰...是壁画上的'天魔'，也是...顾玄自己！"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "啊！"
+        }
+      ],
+      "background_music": "惊悚震撼",
+      "sound_effects": ["惨叫"],
+      "volume_level": "震撼突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "震撼",
+      "purpose": "天魔身份暗示"
+    },
+    "notes": {
+      "production_note": "闪回特效+CG",
+      "reference_style": "暗黑仙侠",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP10-S006-3",
+    "chapter_number": 10,
+    "scene_number": 4,
+    "duration": 3,
+    "shot_type": "特写+系统界面",
+    "location": "密室",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "面部特写",
+      "camera_movement": "轻微推拉",
+      "framing": "特写构图",
+      "focus_type": "表情清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "抱头惨叫",
+        "expression": "茫然→惊恐→恐惧",
+        "costume": "修炼服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "密室",
+      "lighting": "昏暗",
+      "color_palette": "冷色调",
+      "special_effects": "系统界面：【警告：宿主接触核心记忆碎片】【天魔本源正在苏醒...】【封印进一步松动...】【提示：宿主可能真是天魔转世...】"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "旁白",
+          "text": "我真是天魔转世？！"
+        }
+      ],
+      "background_music": "惊悚震撼",
+      "sound_effects": [],
+      "volume_level": "内心独白突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "震撼→惊恐",
+      "purpose": "爽点4：恐惧升级"
+    },
+    "notes": {
+      "production_note": "注重表演+系统界面",
+      "reference_style": "暗黑仙侠",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP10-S007-1",
     "chapter_number": 10,
     "scene_number": 5,
-    "duration": 7,
+    "duration": 2,
     "shot_type": "中景",
     "location": "密室",
     "time_of_day": "夜晚",
@@ -405,25 +915,25 @@
     },
     "characters": [
       {
-        "name": "顾玄",
-        "position": "画面中央",
-        "action": "强压惊骇，勉强笑",
-        "expression": "强作镇定",
-        "costume": "修炼服"
-      },
-      {
         "name": "李道玄",
         "position": "画面左侧",
-        "action": "欣慰",
-        "expression": "欣喜",
+        "action": "关切",
+        "expression": "担心",
         "costume": "掌门服饰"
       },
       {
         "name": "陆尘",
         "position": "画面右侧",
-        "action": "双眼放光",
-        "expression": "崇拜",
+        "action": "关切",
+        "expression": "担心",
         "costume": "弟子服"
+      },
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "强压惊骇",
+        "expression": "强作镇定",
+        "costume": "修炼服"
       }
     ],
     "visual_effects": {
@@ -437,11 +947,133 @@
         {
           "speaker": "李道玄",
           "text": "徒儿/师兄！你没事吧？"
-        },
+        }
+      ],
+      "background_music": "温情",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "温情",
+      "purpose": "对话推进"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "温情场景",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP10-S007-2",
+    "chapter_number": 10,
+    "scene_number": 5,
+    "duration": 2,
+    "shot_type": "中景",
+    "location": "密室",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "轻微推拉",
+      "framing": "三人构图",
+      "focus_type": "三人清晰"
+    },
+    "characters": [
+      {
+        "name": "李道玄",
+        "position": "画面左侧",
+        "action": "欣慰",
+        "expression": "欣喜",
+        "costume": "掌门服饰"
+      },
+      {
+        "name": "陆尘",
+        "position": "画面右侧",
+        "action": "关切",
+        "expression": "担心",
+        "costume": "弟子服"
+      },
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "勉强笑",
+        "expression": "强作镇定",
+        "costume": "修炼服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "密室",
+      "lighting": "柔和",
+      "color_palette": "温暖色调",
+      "special_effects": "顾玄身上散发着稳定的'金丹初期'气息"
+    },
+    "audio": {
+      "dialogues": [
         {
           "speaker": "顾玄",
           "text": "无妨，刚刚突破，有些不适。"
-        },
+        }
+      ],
+      "background_music": "温情",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "温情",
+      "purpose": "对话推进"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "温情场景",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP10-S007-3",
+    "chapter_number": 10,
+    "scene_number": 5,
+    "duration": 3,
+    "shot_type": "中景",
+    "location": "密室",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "轻微推拉",
+      "framing": "三人构图",
+      "focus_type": "三人清晰"
+    },
+    "characters": [
+      {
+        "name": "李道玄",
+        "position": "画面左侧",
+        "action": "欣慰",
+        "expression": "欣喜",
+        "costume": "掌门服饰"
+      },
+      {
+        "name": "陆尘",
+        "position": "画面右侧",
+        "action": "双眼放光",
+        "expression": "崇拜",
+        "costume": "弟子服"
+      },
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "勉强笑",
+        "expression": "强作镇定",
+        "costume": "修炼服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "密室",
+      "lighting": "柔和",
+      "color_palette": "温暖色调",
+      "special_effects": "顾玄身上散发着稳定的'金丹初期'气息"
+    },
+    "audio": {
+      "dialogues": [
         {
           "speaker": "李道玄",
           "text": "好好好！终于结丹成功！不愧是我的好徒儿！"
@@ -449,10 +1081,6 @@
         {
           "speaker": "陆尘",
           "text": "师兄现在是真的金丹真人了！"
-        },
-        {
-          "speaker": "旁白",
-          "text": "我现在确实是'金丹真人'了——特效版的金丹真人。实际修为：筑基中期。外在表现：可调节，最高可达元婴初期。体内还藏着个可能是天魔本源的玩意儿...这配置也太复杂了吧！"
         }
       ],
       "background_music": "温情中带着压抑",
@@ -462,7 +1090,7 @@
     "editing": {
       "transition_to_next": "直接切",
       "pacing": "温情",
-      "purpose": "过渡到爽点5"
+      "purpose": "对话推进"
     },
     "notes": {
       "production_note": "实景拍摄",
@@ -471,10 +1099,228 @@
     }
   },
   {
-    "shot_id": "EP10-S008",
+    "shot_id": "EP10-S007-4",
     "chapter_number": 10,
     "scene_number": 5,
-    "duration": 8,
+    "duration": 2,
+    "shot_type": "特写",
+    "location": "密室",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "面部特写",
+      "camera_movement": "轻微推拉",
+      "framing": "特写构图",
+      "focus_type": "表情清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "内心OS",
+        "expression": "苦笑",
+        "costume": "修炼服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "密室",
+      "lighting": "柔和",
+      "color_palette": "温暖色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "旁白",
+          "text": "我现在确实是'金丹真人'了——特效版的金丹真人。实际修为：筑基中期。外在表现：可调节，最高可达元婴初期。体内还藏着个可能是天魔本源的玩意儿...这配置也太复杂了吧！"
+        }
+      ],
+      "background_music": "温情中带着压抑",
+      "sound_effects": [],
+      "volume_level": "内心独白突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "温情中带着压抑",
+      "purpose": "内心戏"
+    },
+    "notes": {
+      "production_note": "注重表演",
+      "reference_style": "轻喜剧",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP10-S008-1",
+    "chapter_number": 10,
+    "scene_number": 5,
+    "duration": 2,
+    "shot_type": "全景→中景",
+    "location": "青云宗",
+    "time_of_day": "次日白天",
+    "composition": {
+      "camera_position": "从宗门全景推至顾玄",
+      "camera_movement": "推拉结合",
+      "framing": "从全景至中景",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "各路长老",
+        "position": "门外",
+        "action": "奉承",
+        "expression": "恭敬",
+        "costume": "各宗门服饰"
+      },
+      {
+        "name": "顾玄",
+        "position": "门前",
+        "action": "应付",
+        "expression": "苦笑",
+        "costume": "白衣道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "青云宗门庭若市",
+      "lighting": "明亮自然光",
+      "color_palette": "自然色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "长老",
+          "text": "顾道友真是天纵奇才啊！年纪轻轻就结丹成功，将来元婴可期！"
+        }
+      ],
+      "background_music": "热闹",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "热闹",
+      "purpose": "场景铺垫"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "热闹场景",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP10-S008-2",
+    "chapter_number": 10,
+    "scene_number": 5,
+    "duration": 2,
+    "shot_type": "中景",
+    "location": "青云宗门外",
+    "time_of_day": "次日白天",
+    "composition": {
+      "camera_position": "对话角度",
+      "camera_movement": "轻微推拉",
+      "framing": "对话构图",
+      "focus_type": "人物清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "应付",
+        "expression": "淡然",
+        "costume": "白衣道袍"
+      },
+      {
+        "name": "各路长老",
+        "position": "一旁",
+        "action": "奉承",
+        "expression": "恭敬",
+        "costume": "各宗门服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "青云宗门外",
+      "lighting": "明亮自然光",
+      "color_palette": "自然色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "侥幸而已。"
+        }
+      ],
+      "background_music": "压抑→坚定",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "对话推进"
+    },
+    "notes": {
+      "production_note": "注重表演",
+      "reference_style": "轻喜剧",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP10-S008-3",
+    "chapter_number": 10,
+    "scene_number": 5,
+    "duration": 2,
+    "shot_type": "特写",
+    "location": "顾玄房间",
+    "time_of_day": "次日白天",
+    "composition": {
+      "camera_position": "面部特写",
+      "camera_movement": "轻微推拉",
+      "framing": "特写构图",
+      "focus_type": "表情清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "内心OS",
+        "expression": "淡然→坚定",
+        "costume": "白衣道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "房间",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "旁白",
+          "text": "元婴？给我足够多的灵石，化神特效我都能给你整出来！"
+        }
+      ],
+      "background_music": "压抑→坚定",
+      "sound_effects": [],
+      "volume_level": "内心独白突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "内心戏"
+    },
+    "notes": {
+      "production_note": "注重表演",
+      "reference_style": "轻喜剧",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP10-S008-4",
+    "chapter_number": 10,
+    "scene_number": 5,
+    "duration": 3,
     "shot_type": "全景→特写",
     "location": "青云宗→顾玄房间",
     "time_of_day": "次日白天",
@@ -491,17 +1337,10 @@
         "action": "看着镜中自己，切换特效",
         "expression": "苦笑→淡然→坚定",
         "costume": "白衣道袍"
-      },
-      {
-        "name": "各路长老",
-        "position": "门外（回忆）",
-        "action": "奉承",
-        "expression": "恭敬",
-        "costume": "各宗门服饰"
       }
     ],
     "visual_effects": {
-      "environment": "青云宗门庭若市→房间内",
+      "environment": "青云宗→房间内",
       "lighting": "明亮自然光",
       "color_palette": "自然色调→特效金光",
       "special_effects": "镜中人瞬间变回筑基中期的普通修士（撤去特效）→下一秒，镜中人瞬间气势暴涨，金光环绕，宛如天神下凡（催动特效）"
@@ -509,21 +1348,56 @@
     "audio": {
       "dialogues": [
         {
-          "speaker": "长老",
-          "text": "顾道友真是天纵奇才啊！年纪轻轻就结丹成功，将来元婴可期！"
-        },
-        {
-          "speaker": "顾玄",
-          "text": "侥幸而已。"
-        },
-        {
-          "speaker": "旁白",
-          "text": "元婴？给我足够多的灵石，化神特效我都能给你整出来！"
-        },
-        {
           "speaker": "顾玄",
           "text": "（看着镜中）这才是真实的我啊...而这...是别人眼中的我。"
-        },
+        }
+      ],
+      "background_music": "压抑→坚定",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "压抑→坚定",
+      "purpose": "特效对比"
+    },
+    "notes": {
+      "production_note": "实景+特效对比",
+      "reference_style": "内心戏+成长",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP10-S008-5",
+    "chapter_number": 10,
+    "scene_number": 5,
+    "duration": 3,
+    "shot_type": "特写",
+    "location": "顾玄房间",
+    "time_of_day": "次日白天",
+    "composition": {
+      "camera_position": "面部特写",
+      "camera_movement": "缓慢推近",
+      "framing": "特写构图",
+      "focus_type": "表情清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "镜前",
+        "action": "看着镜中自己",
+        "expression": "淡然→坚定",
+        "costume": "白衣道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "房间内",
+      "lighting": "明亮自然光",
+      "color_palette": "自然色调→特效金光",
+      "special_effects": "镜中人瞬间气势暴涨，金光环绕，宛如天神下凡（催动特效）"
+    },
+    "audio": {
+      "dialogues": [
         {
           "speaker": "旁白",
           "text": "看来只能选择前者了。既然老天爷给了他这么离谱的运气和特效天赋，不好好利用岂不是浪费？从今天起，他不仅要装逼，还要科学地装逼，系统地装逼！"
@@ -531,15 +1405,15 @@
       ],
       "background_music": "压抑→坚定",
       "sound_effects": [],
-      "volume_level": "内心独白突出"
+      "volume_level": "旁白突出"
     },
     "editing": {
       "transition_to_next": "直接切",
       "pacing": "压抑→坚定",
-      "purpose": "爽点5：坚定升级，接受特效修仙之路"
+      "purpose": "爽点5：坚定升级"
     },
     "notes": {
-      "production_note": "实景+特效对比",
+      "production_note": "注重表演+特效",
       "reference_style": "内心戏+成长",
       "difficulty_level": "中等"
     }
@@ -596,10 +1470,10 @@
     }
   },
   {
-    "shot_id": "EP10-S010",
+    "shot_id": "EP10-S010-1",
     "chapter_number": 10,
     "scene_number": 7,
-    "duration": 8,
+    "duration": 4,
     "shot_type": "远景→特写",
     "location": "远方黑暗→青云宗",
     "time_of_day": "夜晚",
@@ -613,10 +1487,54 @@
       {
         "name": "黑袍人",
         "position": "黑暗中",
-        "action": "透过水镜注视，轻笑",
+        "action": "透过水镜注视",
         "expression": "诡异、期待",
         "costume": "黑袍"
-      },
+      }
+    ],
+    "visual_effects": {
+      "environment": "黑暗密室→水镜→青州城夜景",
+      "lighting": "昏暗→水镜微光",
+      "color_palette": "冷色调",
+      "special_effects": "水镜中显示着顾玄的画面"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "黑袍人",
+          "text": "天魔大人开始觉醒了呢...是时候给您送份'大礼'了..."
+        }
+      ],
+      "background_music": "悬疑诡异",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "悬疑",
+      "purpose": "黑袍人铺垫"
+    },
+    "notes": {
+      "production_note": "暗黑场景+特效",
+      "reference_style": "悬疑风",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP10-S010-2",
+    "chapter_number": 10,
+    "scene_number": 7,
+    "duration": 4,
+    "shot_type": "远景",
+    "location": "青州城→青云宗",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "从青州城拉远至青云宗",
+      "camera_movement": "推拉结合",
+      "framing": "神秘构图",
+      "focus_type": "场景清晰"
+    },
+    "characters": [
       {
         "name": "黑影",
         "position": "潜入青州城",
@@ -626,17 +1544,13 @@
       }
     ],
     "visual_effects": {
-      "environment": "黑暗密室→水镜→青州城夜景",
-      "lighting": "昏暗→水镜微光",
+      "environment": "青州城夜景→青云宗",
+      "lighting": "昏暗→月光",
       "color_palette": "冷色调",
-      "special_effects": "水镜中显示着顾玄的画面，一道黑影悄无声息地潜入青州城，目标直指青云宗"
+      "special_effects": "一道黑影悄无声息地潜入青州城，目标直指青云宗"
     },
     "audio": {
       "dialogues": [
-        {
-          "speaker": "黑袍人",
-          "text": "天魔大人开始觉醒了呢...是时候给您送份'大礼'了..."
-        },
         {
           "speaker": "旁白",
           "text": "新的风波，即将来临。"
@@ -644,7 +1558,7 @@
       ],
       "background_music": "悬疑诡异",
       "sound_effects": [],
-      "volume_level": "对话清晰"
+      "volume_level": "旁白清晰"
     },
     "editing": {
       "transition_to_next": "淡出",

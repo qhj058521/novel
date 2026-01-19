@@ -1,9 +1,9 @@
 [
   {
-    "shot_id": "EP07-S001",
+    "shot_id": "EP07-S001-1",
     "chapter_number": 7,
     "scene_number": 1,
-    "duration": 9,
+    "duration": 2,
     "shot_type": "全景蒙太奇",
     "location": "青州城各处",
     "time_of_day": "白天",
@@ -20,38 +20,19 @@
         "action": "议论纷纷",
         "expression": "兴奋,猜测",
         "costume": "各式修士服饰"
-      },
-      {
-        "name": "顾玄",
-        "position": "躲在房里",
-        "action": "听着议论,不敢出门",
-        "expression": "慌乱,无奈",
-        "costume": "粗布麻衣"
       }
     ],
     "visual_effects": {
       "environment": "青州城热闹场景",
       "lighting": "明亮自然光",
       "color_palette": "热闹色调",
-      "special_effects": "夸张传言四起:上界仙人转世,召唤天雷地火,封印修为"
+      "special_effects": "夸张传言四起"
     },
     "audio": {
       "dialogues": [
         {
           "speaker": "众人",
           "text": "听说了吗?青云宗的顾玄其实是上界仙人转世!"
-        },
-        {
-          "speaker": "众人",
-          "text": "何止!我二舅的邻居的妹夫在玄天剑宗当差,说那晚亲眼见到顾玄挥手间召唤天雷地火!难怪他平时只用特效,原来是封印了修为啊!"
-        },
-        {
-          "speaker": "旁白",
-          "text": "这些夸张的传言传到顾玄耳中,让他哭笑不得"
-        },
-        {
-          "speaker": "顾玄",
-          "text": "完了,这下彻底下不来台了...下次再来敌人,总不能指望他们每次都自己踩到阵法陷阱吧?而且这传言越传越离谱,上界仙人转世?我自己都快信了!"
         }
       ],
       "background_music": "轻松转为紧张",
@@ -73,10 +54,168 @@
     }
   },
   {
-    "shot_id": "EP07-S002",
+    "shot_id": "EP07-S001-2",
+    "chapter_number": 7,
+    "scene_number": 1,
+    "duration": 3,
+    "shot_type": "全景蒙太奇",
+    "location": "青州城各处",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "多地点快速切换",
+      "camera_movement": "流畅切换",
+      "framing": "蒙太奇构图",
+      "focus_type": "议论清晰"
+    },
+    "characters": [
+      {
+        "name": "青州城修士们",
+        "position": "各处议论",
+        "action": "议论纷纷",
+        "expression": "兴奋,猜测",
+        "costume": "各式修士服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "青州城热闹场景",
+      "lighting": "明亮自然光",
+      "color_palette": "热闹色调",
+      "special_effects": "上界仙人转世,召唤天雷地火,封印修为"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "众人",
+          "text": "何止!我二舅的邻居的妹夫在玄天剑宗当差,说那晚亲眼见到顾玄挥手间召唤天雷地火!难怪他平时只用特效,原来是封印了修为啊!"
+        }
+      ],
+      "background_music": "轻松转为紧张",
+      "sound_effects": [
+        "议论声",
+        "传言声"
+      ],
+      "volume_level": "议论突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "快速",
+      "purpose": "名声压力蒙太奇"
+    },
+    "notes": {
+      "production_note": "多场景切换",
+      "reference_style": "轻松转紧张",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP07-S001-3",
+    "chapter_number": 7,
+    "scene_number": 1,
+    "duration": 2,
+    "shot_type": "中景",
+    "location": "青云宗-顾玄房中",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "房中角度",
+      "camera_movement": "缓慢推近",
+      "framing": "单人构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "躲在房里",
+        "action": "听着议论,不敢出门",
+        "expression": "慌乱,无奈",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "简陋房间",
+      "lighting": "明亮自然光",
+      "color_palette": "无奈色调",
+      "special_effects": "窗外传来议论声"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "旁白",
+          "text": "这些夸张的传言传到顾玄耳中,让他哭笑不得"
+        }
+      ],
+      "background_music": "轻松转为紧张",
+      "sound_effects": [
+        "议论声"
+      ],
+      "volume_level": "议论突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "快速",
+      "purpose": "名声压力蒙太奇"
+    },
+    "notes": {
+      "production_note": "注重内心戏",
+      "reference_style": "轻松转紧张",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP07-S001-4",
+    "chapter_number": 7,
+    "scene_number": 1,
+    "duration": 2,
+    "shot_type": "特写",
+    "location": "青云宗-顾玄房中",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "面部特写",
+      "camera_movement": "固定镜头",
+      "framing": "独白构图",
+      "focus_type": "表情清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "房中",
+        "action": "内心崩溃",
+        "expression": "慌乱,无奈",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "简陋房间",
+      "lighting": "明亮自然光",
+      "color_palette": "无奈色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "完了,这下彻底下不来台了...下次再来敌人,总不能指望他们每次都自己踩到阵法陷阱吧?而且这传言越传越离谱,上界仙人转世?我自己都快信了!"
+        }
+      ],
+      "background_music": "轻松转为紧张",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "快速",
+      "purpose": "名声压力蒙太奇"
+    },
+    "notes": {
+      "production_note": "注重内心戏",
+      "reference_style": "轻松转紧张",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S002-1",
     "chapter_number": 7,
     "scene_number": 2,
-    "duration": 8,
+    "duration": 2,
     "shot_type": "中景",
     "location": "青云宗-顾玄房中",
     "time_of_day": "白天",
@@ -97,8 +236,8 @@
       {
         "name": "顾玄",
         "position": "房中",
-        "action": "接过请柬,头皮发麻",
-        "expression": "无奈→紧张",
+        "action": "接过请柬",
+        "expression": "疑惑",
         "costume": "粗布麻衣"
       }
     ],
@@ -113,26 +252,6 @@
         {
           "speaker": "李道玄",
           "text": "徒儿,好消息!青州商会听说你阵法通神,特意送来请柬,邀请你参加明日的'百宗宴'!"
-        },
-        {
-          "speaker": "顾玄",
-          "text": "百宗宴是什么?"
-        },
-        {
-          "speaker": "李道玄",
-          "text": "是青州修仙界的盛事,各大宗门、商会都会参加,席间还有助兴表演。这可是扬名立万的好机会啊!"
-        },
-        {
-          "speaker": "顾玄",
-          "text": "掌门,我就不去了吧?我哪懂什么阵法..."
-        },
-        {
-          "speaker": "李道玄",
-          "text": "诶!谦虚了不是?你那手反噬阵法玩得多溜!就这么定了,明天你代表青云宗去露个脸!记得穿那件新道袍!"
-        },
-        {
-          "speaker": "旁白",
-          "text": "顾玄还想推辞,李道玄已经溜出门外"
         }
       ],
       "background_music": "轻松转紧张",
@@ -151,10 +270,295 @@
     }
   },
   {
-    "shot_id": "EP07-S003",
+    "shot_id": "EP07-S002-2",
+    "chapter_number": 7,
+    "scene_number": 2,
+    "duration": 1,
+    "shot_type": "中景",
+    "location": "青云宗-顾玄房中",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "对话角度",
+      "camera_movement": "缓慢推近",
+      "framing": "双人对话",
+      "focus_type": "对话清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "房中",
+        "action": "疑惑询问",
+        "expression": "疑惑",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "李道玄",
+        "position": "房中",
+        "action": "解释",
+        "expression": "兴奋",
+        "costume": "掌门袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "简陋房间",
+      "lighting": "明亮自然光",
+      "color_palette": "温馨转紧张",
+      "special_effects": "鎏金请柬"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "百宗宴是什么?"
+        }
+      ],
+      "background_music": "轻松转紧张",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "中等转快",
+      "purpose": "请柬带来麻烦"
+    },
+    "notes": {
+      "production_note": "注重演技",
+      "reference_style": "轻松转紧张",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S002-3",
+    "chapter_number": 7,
+    "scene_number": 2,
+    "duration": 2,
+    "shot_type": "中景",
+    "location": "青云宗-顾玄房中",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "对话角度",
+      "camera_movement": "缓慢推近",
+      "framing": "双人对话",
+      "focus_type": "对话清晰"
+    },
+    "characters": [
+      {
+        "name": "李道玄",
+        "position": "房中",
+        "action": "解释百宗宴",
+        "expression": "兴奋",
+        "costume": "掌门袍"
+      },
+      {
+        "name": "顾玄",
+        "position": "房中",
+        "action": "听着",
+        "expression": "紧张",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "简陋房间",
+      "lighting": "明亮自然光",
+      "color_palette": "温馨转紧张",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "李道玄",
+          "text": "是青州修仙界的盛事,各大宗门、商会都会参加,席间还有助兴表演。这可是扬名立万的好机会啊!"
+        }
+      ],
+      "background_music": "轻松转紧张",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "中等转快",
+      "purpose": "请柬带来麻烦"
+    },
+    "notes": {
+      "production_note": "注重演技",
+      "reference_style": "轻松转紧张",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S002-4",
+    "chapter_number": 7,
+    "scene_number": 2,
+    "duration": 1,
+    "shot_type": "中景",
+    "location": "青云宗-顾玄房中",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "对话角度",
+      "camera_movement": "缓慢推近",
+      "framing": "双人对话",
+      "focus_type": "对话清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "房中",
+        "action": "试图推辞",
+        "expression": "头皮发麻",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "李道玄",
+        "position": "房中",
+        "action": "坚持",
+        "expression": "期待",
+        "costume": "掌门袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "简陋房间",
+      "lighting": "明亮自然光",
+      "color_palette": "温馨转紧张",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "掌门,我就不去了吧?我哪懂什么阵法..."
+        }
+      ],
+      "background_music": "轻松转紧张",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "中等转快",
+      "purpose": "请柬带来麻烦"
+    },
+    "notes": {
+      "production_note": "注重演技",
+      "reference_style": "轻松转紧张",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S002-5",
+    "chapter_number": 7,
+    "scene_number": 2,
+    "duration": 1,
+    "shot_type": "中景",
+    "location": "青云宗-顾玄房中",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "对话角度",
+      "camera_movement": "缓慢推近",
+      "framing": "双人对话",
+      "focus_type": "对话清晰"
+    },
+    "characters": [
+      {
+        "name": "李道玄",
+        "position": "房中",
+        "action": "拍肩膀,决定",
+        "expression": "兴奋",
+        "costume": "掌门袍"
+      },
+      {
+        "name": "顾玄",
+        "position": "房中",
+        "action": "试图推辞",
+        "expression": "无奈",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "简陋房间",
+      "lighting": "明亮自然光",
+      "color_palette": "温馨转紧张",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "李道玄",
+          "text": "诶!谦虚了不是?你那手反噬阵法玩得多溜!就这么定了,明天你代表青云宗去露个脸!记得穿那件新道袍!"
+        }
+      ],
+      "background_music": "轻松转紧张",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "中等转快",
+      "purpose": "请柬带来麻烦"
+    },
+    "notes": {
+      "production_note": "注重演技",
+      "reference_style": "轻松转紧张",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S002-6",
+    "chapter_number": 7,
+    "scene_number": 2,
+    "duration": 1,
+    "shot_type": "中景",
+    "location": "青云宗-顾玄房中",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "门口角度",
+      "camera_movement": "固定镜头",
+      "framing": "单人构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "房中",
+        "action": "还想推辞",
+        "expression": "无奈",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "简陋房间",
+      "lighting": "明亮自然光",
+      "color_palette": "温馨转紧张",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "旁白",
+          "text": "顾玄还想推辞,李道玄已经溜出门外"
+        }
+      ],
+      "background_music": "轻松转紧张",
+      "sound_effects": [
+        "溜出门声"
+      ],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "中等转快",
+      "purpose": "请柬带来麻烦"
+    },
+    "notes": {
+      "production_note": "注重演技",
+      "reference_style": "轻松转紧张",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S003-1",
     "chapter_number": 7,
     "scene_number": 3,
-    "duration": 10,
+    "duration": 2,
     "shot_type": "全景",
     "location": "青州商会大厦-宴会厅",
     "time_of_day": "傍晚",
@@ -171,42 +575,19 @@
         "action": "交谈,看向顾玄",
         "expression": "好奇,期待",
         "costume": "华丽服饰"
-      },
-      {
-        "name": "顾玄",
-        "position": "进场",
-        "action": "强作镇定,找角落坐下",
-        "expression": "表面淡定,内心慌乱",
-        "costume": "新道袍"
       }
     ],
     "visual_effects": {
       "environment": "宴会厅灯火辉煌,各大宗门代表齐聚一堂",
       "lighting": "辉煌灯火",
       "color_palette": "富丽堂皇",
-      "special_effects": "无数目光聚焦顾玄"
+      "special_effects": "无数目光聚焦"
     },
     "audio": {
       "dialogues": [
         {
           "speaker": "众人",
           "text": "看!那就是顾玄!"
-        },
-        {
-          "speaker": "众人",
-          "text": "好年轻!果然高人都是深藏不露啊!"
-        },
-        {
-          "speaker": "众人",
-          "text": "听说他挥手间就灭了黑煞教一支小队..."
-        },
-        {
-          "speaker": "旁白",
-          "text": "宴厅内灯火辉煌,各大宗门代表齐聚一堂,个个气度不凡。当顾玄这个\"阵道宗师\"进场时,顿时引来无数目光"
-        },
-        {
-          "speaker": "顾玄",
-          "text": "冷静冷静,只要我不说话,就没人发现我不懂阵法。装高冷,装高冷,只要装得够高冷,他们就会觉得我是高人!"
         }
       ],
       "background_music": "紧张带压抑",
@@ -227,10 +608,218 @@
     }
   },
   {
-    "shot_id": "EP07-S004",
+    "shot_id": "EP07-S003-2",
+    "chapter_number": 7,
+    "scene_number": 3,
+    "duration": 2,
+    "shot_type": "全景",
+    "location": "青州商会大厦-宴会厅",
+    "time_of_day": "傍晚",
+    "composition": {
+      "camera_position": "高角度俯拍",
+      "camera_movement": "缓慢推近",
+      "framing": "大场面",
+      "focus_type": "整体清晰"
+    },
+    "characters": [
+      {
+        "name": "各宗门代表",
+        "position": "宴会厅齐聚",
+        "action": "议论",
+        "expression": "好奇,期待",
+        "costume": "华丽服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "宴会厅灯火辉煌",
+      "lighting": "辉煌灯火",
+      "color_palette": "富丽堂皇",
+      "special_effects": "无数目光"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "众人",
+          "text": "好年轻!果然高人都是深藏不露啊!"
+        }
+      ],
+      "background_music": "紧张带压抑",
+      "sound_effects": [
+        "议论声"
+      ],
+      "volume_level": "议论突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "中等",
+      "purpose": "百宗宴现场+压力"
+    },
+    "notes": {
+      "production_note": "大场面",
+      "reference_style": "压抑紧张",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP07-S003-3",
+    "chapter_number": 7,
+    "scene_number": 3,
+    "duration": 2,
+    "shot_type": "全景",
+    "location": "青州商会大厦-宴会厅",
+    "time_of_day": "傍晚",
+    "composition": {
+      "camera_position": "高角度俯拍",
+      "camera_movement": "缓慢推近",
+      "framing": "大场面",
+      "focus_type": "整体清晰"
+    },
+    "characters": [
+      {
+        "name": "各宗门代表",
+        "position": "宴会厅齐聚",
+        "action": "议论",
+        "expression": "好奇,期待",
+        "costume": "华丽服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "宴会厅灯火辉煌",
+      "lighting": "辉煌灯火",
+      "color_palette": "富丽堂皇",
+      "special_effects": "无数目光"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "众人",
+          "text": "听说他挥手间就灭了黑煞教一支小队..."
+        }
+      ],
+      "background_music": "紧张带压抑",
+      "sound_effects": [
+        "议论声"
+      ],
+      "volume_level": "议论突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "中等",
+      "purpose": "百宗宴现场+压力"
+    },
+    "notes": {
+      "production_note": "大场面",
+      "reference_style": "压抑紧张",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP07-S003-4",
+    "chapter_number": 7,
+    "scene_number": 3,
+    "duration": 2,
+    "shot_type": "中景",
+    "location": "青州商会大厦-宴会厅",
+    "time_of_day": "傍晚",
+    "composition": {
+      "camera_position": "顾玄角度",
+      "camera_movement": "缓慢推近",
+      "framing": "单人构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "进场",
+        "action": "强作镇定,找角落坐下",
+        "expression": "表面淡定,内心慌乱",
+        "costume": "新道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "宴会厅灯火辉煌",
+      "lighting": "辉煌灯火",
+      "color_palette": "富丽堂皇",
+      "special_effects": "无数目光聚焦顾玄"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "旁白",
+          "text": "宴厅内灯火辉煌,各大宗门代表齐聚一堂,个个气度不凡。当顾玄这个\"阵道宗师\"进场时,顿时引来无数目光"
+        }
+      ],
+      "background_music": "紧张带压抑",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "中等",
+      "purpose": "百宗宴现场+压力"
+    },
+    "notes": {
+      "production_note": "大场面",
+      "reference_style": "压抑紧张",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP07-S003-5",
+    "chapter_number": 7,
+    "scene_number": 3,
+    "duration": 2,
+    "shot_type": "特写",
+    "location": "青州商会大厦-宴会厅角落",
+    "time_of_day": "傍晚",
+    "composition": {
+      "camera_position": "面部特写",
+      "camera_movement": "固定镜头",
+      "framing": "独白构图",
+      "focus_type": "表情清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "角落坐下",
+        "action": "内心独白",
+        "expression": "表面淡定,内心慌乱",
+        "costume": "新道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "宴会厅角落",
+      "lighting": "辉煌灯火",
+      "color_palette": "压抑色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "冷静冷静,只要我不说话,就没人发现我不懂阵法。装高冷,装高冷,只要装得够高冷,他们就会觉得我是高人!"
+        }
+      ],
+      "background_music": "紧张带压抑",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "中等",
+      "purpose": "百宗宴现场+压力"
+    },
+    "notes": {
+      "production_note": "注重内心戏",
+      "reference_style": "压抑紧张",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S004-1",
     "chapter_number": 7,
     "scene_number": 4,
-    "duration": 9,
+    "duration": 2,
     "shot_type": "中景",
     "location": "宴会厅",
     "time_of_day": "傍晚",
@@ -274,26 +863,6 @@
         {
           "speaker": "商会会长",
           "text": "顾宗师大驾光临,蓬荜生辉啊!听说您在阵法一道造诣深厚,不知能否指点一二?"
-        },
-        {
-          "speaker": "顾玄",
-          "text": "阵法小道,不足挂齿。"
-        },
-        {
-          "speaker": "商会会长",
-          "text": "宗师太谦虚了!实不相瞒,我会场这个'流光溢彩阵'年久失修,能否请您帮忙看看?"
-        },
-        {
-          "speaker": "顾玄",
-          "text": "这...阵法小道,不足挂齿。此处灵力节点阻塞,彼处符文磨损...需以精纯灵力贯通"
-        },
-        {
-          "speaker": "旁白",
-          "text": "周围已经围上来不少人,都等着看\"阵道宗师\"表演。骑虎难下,顾玄只能硬着头皮上前,装模作样地观察阵法"
-        },
-        {
-          "speaker": "顾玄",
-          "text": "完了完了,这下真要露馅了!我连阵法基础都不懂,怎么看?只能硬着头皮胡诌了...希望别出岔子!"
         }
       ],
       "background_music": "紧张压抑",
@@ -312,10 +881,293 @@
     }
   },
   {
-    "shot_id": "EP07-S005",
+    "shot_id": "EP07-S004-2",
+    "chapter_number": 7,
+    "scene_number": 4,
+    "duration": 1,
+    "shot_type": "中景",
+    "location": "宴会厅",
+    "time_of_day": "傍晚",
+    "composition": {
+      "camera_position": "对话角度",
+      "camera_movement": "缓慢推近",
+      "framing": "对话构图",
+      "focus_type": "对话清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "被迫应对",
+        "action": "强作镇定",
+        "expression": "表面淡定,内心慌乱",
+        "costume": "新道袍"
+      },
+      {
+        "name": "商会会长",
+        "position": "笑呵呵",
+        "action": "等待",
+        "expression": "期待",
+        "costume": "华丽长袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "宴会厅",
+      "lighting": "明亮灯光",
+      "color_palette": "期待色调",
+      "special_effects": "大厅顶部复杂阵法"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "阵法小道,不足挂齿。"
+        }
+      ],
+      "background_music": "紧张压抑",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "紧张",
+      "purpose": "被迫展示+紧张"
+    },
+    "notes": {
+      "production_note": "注重氛围",
+      "reference_style": "紧张压抑",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S004-3",
+    "chapter_number": 7,
+    "scene_number": 4,
+    "duration": 2,
+    "shot_type": "中景",
+    "location": "宴会厅",
+    "time_of_day": "傍晚",
+    "composition": {
+      "camera_position": "对话角度",
+      "camera_movement": "缓慢推近",
+      "framing": "对话构图",
+      "focus_type": "对话清晰"
+    },
+    "characters": [
+      {
+        "name": "商会会长",
+        "position": "更加敬佩",
+        "action": "指向阵法",
+        "expression": "期待",
+        "costume": "华丽长袍"
+      },
+      {
+        "name": "顾玄",
+        "position": "头皮发麻",
+        "action": "顺着指向看",
+        "expression": "表面淡定,内心慌乱",
+        "costume": "新道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "宴会厅",
+      "lighting": "明亮灯光",
+      "color_palette": "期待色调",
+      "special_effects": "大厅顶部复杂阵法特写"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "商会会长",
+          "text": "宗师太谦虚了!实不相瞒,我会场这个'流光溢彩阵'年久失修,能否请您帮忙看看?"
+        }
+      ],
+      "background_music": "紧张压抑",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "紧张",
+      "purpose": "被迫展示+紧张"
+    },
+    "notes": {
+      "production_note": "注重氛围",
+      "reference_style": "紧张压抑",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S004-4",
+    "chapter_number": 7,
+    "scene_number": 4,
+    "duration": 1,
+    "shot_type": "中景",
+    "location": "宴会厅",
+    "time_of_day": "傍晚",
+    "composition": {
+      "camera_position": "对话角度",
+      "camera_movement": "缓慢推近",
+      "framing": "对话构图",
+      "focus_type": "对话清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "头皮发麻",
+        "action": "观察阵法",
+        "expression": "表面高深,内心慌乱",
+        "costume": "新道袍"
+      },
+      {
+        "name": "围观众人",
+        "position": "周围围观",
+        "action": "等待",
+        "expression": "期待",
+        "costume": "各式服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "宴会厅",
+      "lighting": "明亮灯光",
+      "color_palette": "期待色调",
+      "special_effects": "大厅顶部复杂阵法"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "这...阵法小道,不足挂齿。此处灵力节点阻塞,彼处符文磨损...需以精纯灵力贯通"
+        }
+      ],
+      "background_music": "紧张压抑",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "紧张",
+      "purpose": "被迫展示+紧张"
+    },
+    "notes": {
+      "production_note": "注重氛围",
+      "reference_style": "紧张压抑",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S004-5",
+    "chapter_number": 7,
+    "scene_number": 4,
+    "duration": 2,
+    "shot_type": "中景",
+    "location": "宴会厅",
+    "time_of_day": "傍晚",
+    "composition": {
+      "camera_position": "对话角度",
+      "camera_movement": "缓慢推近",
+      "framing": "对话构图",
+      "focus_type": "对话清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "装模作样观察",
+        "action": "暗中掐诀",
+        "expression": "表面高深,内心慌乱",
+        "costume": "新道袍"
+      },
+      {
+        "name": "围观众人",
+        "position": "周围围观",
+        "action": "等待看表演",
+        "expression": "期待",
+        "costume": "各式服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "宴会厅",
+      "lighting": "明亮灯光",
+      "color_palette": "期待色调",
+      "special_effects": "大厅顶部复杂阵法"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "旁白",
+          "text": "周围已经围上来不少人,都等着看\"阵道宗师\"表演。骑虎难下,顾玄只能硬着头皮上前,装模作样地观察阵法"
+        }
+      ],
+      "background_music": "紧张压抑",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "紧张",
+      "purpose": "被迫展示+紧张"
+    },
+    "notes": {
+      "production_note": "注重氛围",
+      "reference_style": "紧张压抑",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S004-6",
+    "chapter_number": 7,
+    "scene_number": 4,
+    "duration": 1,
+    "shot_type": "特写",
+    "location": "宴会厅-阵法前",
+    "time_of_day": "傍晚",
+    "composition": {
+      "camera_position": "面部特写",
+      "camera_movement": "固定镜头",
+      "framing": "独白构图",
+      "focus_type": "表情清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "阵法前",
+        "action": "内心崩溃",
+        "expression": "表面高深,内心慌乱",
+        "costume": "新道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "宴会厅",
+      "lighting": "明亮灯光",
+      "color_palette": "慌乱色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "完了完了,这下真要露馅了!我连阵法基础都不懂,怎么看?只能硬着头皮胡诌了...希望别出岔子!"
+        }
+      ],
+      "background_music": "紧张压抑",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "紧张",
+      "purpose": "被迫展示+紧张"
+    },
+    "notes": {
+      "production_note": "注重内心戏",
+      "reference_style": "紧张压抑",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S005-1",
     "chapter_number": 7,
     "scene_number": 5,
-    "duration": 11,
+    "duration": 2,
     "shot_type": "系统界面特写",
     "location": "宴会厅-阵法前",
     "time_of_day": "傍晚",
@@ -345,17 +1197,13 @@
         {
           "speaker": "旁白",
           "text": "说着,他暗中掐诀,准备随便弄点光效糊弄过去——这是他的老本行"
-        },
-        {
-          "speaker": "顾玄",
-          "text": "......系统能不能别在关键时刻说这种丧气话!"
         }
       ],
       "background_music": "紧张转惊悚",
       "sound_effects": [
         "系统警告音"
       ],
-      "volume_level": "系统突出"
+      "volume_level": "对话清晰"
     },
     "editing": {
       "transition_to_next": "快速切",
@@ -369,10 +1217,63 @@
     }
   },
   {
-    "shot_id": "EP07-S006",
+    "shot_id": "EP07-S005-2",
+    "chapter_number": 7,
+    "scene_number": 5,
+    "duration": 9,
+    "shot_type": "系统界面特写",
+    "location": "宴会厅-阵法前",
+    "time_of_day": "傍晚",
+    "composition": {
+      "camera_position": "特写系统界面",
+      "camera_movement": "界面弹出",
+      "framing": "界面构图",
+      "focus_type": "界面清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "操控阵法",
+        "action": "胡乱注入灵力",
+        "expression": "崩溃",
+        "costume": "新道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "阵法",
+      "lighting": "系统界面蓝光+阵法光芒",
+      "color_palette": "科技蓝+警告红",
+      "special_effects": "系统界面闪烁"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "......系统能不能别在关键时刻说这种丧气话!"
+        }
+      ],
+      "background_music": "紧张转惊悚",
+      "sound_effects": [
+        "系统警告音"
+      ],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "极快",
+      "purpose": "系统警告+即将失控"
+    },
+    "notes": {
+      "production_note": "系统界面特效",
+      "reference_style": "紧张搞笑",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP07-S006-1",
     "chapter_number": 7,
     "scene_number": 6,
-    "duration": 12,
+    "duration": 6,
     "shot_type": "特效全景",
     "location": "宴会厅",
     "time_of_day": "傍晚",
@@ -402,26 +1303,20 @@
       "environment": "宴会厅被强光笼罩",
       "lighting": "五颜六色霓虹灯疯狂闪烁",
       "color_palette": "刺眼彩色",
-      "special_effects": "残破阵法剧烈震动,所有符文同时亮起,刺眼的五颜六色霓虹灯疯狂闪烁,严重走调的迎宾曲+刺耳杂音,机械僵硬女声:恭迎~贵宾~"
+      "special_effects": "残破阵法剧烈震动,所有符文同时亮起,刺眼的五颜六色霓虹灯疯狂闪烁"
     },
     "audio": {
       "dialogues": [
         {
           "speaker": "音效",
           "text": "嗡——嗡嗡——"
-        },
-        {
-          "speaker": "旁白",
-          "text": "那残破阵法突然剧烈震动,所有符文同时亮起!但不是正常的柔和光芒,而是刺眼的、五颜六色的、如同霓虹灯般疯狂闪烁的光效!整个宴会厅被各种颜色的强光笼罩,闪烁频率快得让人头晕目眩!更可怕的是,阵法还开始播放音乐——不知道多少年前录制的、严重走调的迎宾曲,夹杂着刺耳的杂音"
         }
       ],
       "background_music": "刺耳走调音乐",
       "sound_effects": [
-        "阵法震动",
-        "走调音乐",
-        "杂音"
+        "阵法震动"
       ],
-      "volume_level": "噪音突出"
+      "volume_level": "音效突出"
     },
     "editing": {
       "transition_to_next": "快速切",
@@ -435,16 +1330,77 @@
     }
   },
   {
-    "shot_id": "EP07-S007",
+    "shot_id": "EP07-S006-2",
     "chapter_number": 7,
-    "scene_number": 7,
-    "duration": 13,
+    "scene_number": 6,
+    "duration": 6,
     "shot_type": "特效全景",
     "location": "宴会厅",
     "time_of_day": "傍晚",
     "composition": {
-      "camera_position": "多视角切换",
-      "camera_movement": "快速切换",
+      "camera_position": "宏大视角",
+      "camera_movement": "震撼推拉",
+      "framing": "社死构图",
+      "focus_type": "特效清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "阵法前",
+        "action": "震惊",
+        "expression": "惊慌→崩溃",
+        "costume": "新道袍"
+      },
+      {
+        "name": "全场宾客",
+        "position": "宴会厅各处",
+        "action": "捂住眼睛耳朵",
+        "expression": "震惊→懵逼",
+        "costume": "各式服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "宴会厅被强光笼罩",
+      "lighting": "五颜六色霓虹灯疯狂闪烁",
+      "color_palette": "刺眼彩色",
+      "special_effects": "闪烁频率快得让人头晕目眩"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "旁白",
+          "text": "那残破阵法突然剧烈震动,所有符文同时亮起!但不是正常的柔和光芒,而是刺眼的、五颜六色的、如同霓虹灯般疯狂闪烁的光效!整个宴会厅被各种颜色的强光笼罩,闪烁频率快得让人头晕目眩!更可怕的是,阵法还开始播放音乐——不知道多少年前录制的、严重走调的迎宾曲,夹杂着刺耳的杂音"
+        }
+      ],
+      "background_music": "刺耳走调音乐",
+      "sound_effects": [
+        "走调音乐",
+        "杂音"
+      ],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "极快",
+      "purpose": "社死开始"
+    },
+    "notes": {
+      "production_note": "大量特效",
+      "reference_style": "社死搞笑",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP07-S007-1",
+    "chapter_number": 7,
+    "scene_number": 7,
+    "duration": 3,
+    "shot_type": "特效全景",
+    "location": "宴会厅",
+    "time_of_day": "傍晚",
+    "composition": {
+      "camera_position": "光柱角度",
+      "camera_movement": "震撼推拉",
       "framing": "社死升级构图",
       "focus_type": "特效清晰"
     },
@@ -452,10 +1408,56 @@
       {
         "name": "顾玄",
         "position": "光柱中",
-        "action": "被彩带亮片覆盖,试图溜走",
+        "action": "被彩带亮片覆盖",
         "expression": "面无表情,社会性死亡",
         "costume": "满头彩带"
-      },
+      }
+    ],
+    "visual_effects": {
+      "environment": "宴会厅",
+      "lighting": "光柱聚焦+歪歪扭扭光字",
+      "color_palette": "社死色彩",
+      "special_effects": "疯狂闪烁灯光聚焦光柱打在顾玄身上,彩带亮片劈头盖脸洒下"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "机械女声",
+          "text": "让我们~热烈欢迎~今晚的~特别嘉宾~~顾~玄~宗~师~~"
+        }
+      ],
+      "background_music": "走调背景音乐",
+      "sound_effects": [
+        "彩带喷射"
+      ],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "极快",
+      "purpose": "社死高潮"
+    },
+    "notes": {
+      "production_note": "大量特效+搞笑",
+      "reference_style": "社死搞笑",
+      "difficulty_level": "非常复杂"
+    }
+  },
+  {
+    "shot_id": "EP07-S007-2",
+    "chapter_number": 7,
+    "scene_number": 7,
+    "duration": 2,
+    "shot_type": "全景",
+    "location": "宴会厅",
+    "time_of_day": "傍晚",
+    "composition": {
+      "camera_position": "宾客角度",
+      "camera_movement": "快速切换",
+      "framing": "反应构图",
+      "focus_type": "反应清晰"
+    },
+    "characters": [
       {
         "name": "全场宾客",
         "position": "宴会厅各处",
@@ -466,37 +1468,20 @@
     ],
     "visual_effects": {
       "environment": "宴会厅",
-      "lighting": "光柱聚焦+歪歪扭扭光字",
+      "lighting": "光柱聚焦顾玄",
       "color_palette": "社死色彩",
-      "special_effects": "疯狂闪烁灯光聚焦光柱打在顾玄身上,彩带亮片劈头盖脸洒下,光束拼出歪歪扭扭大字:欢~迎~顾~宗~师~,光柱死死跟随顾玄"
+      "special_effects": "光束拼出歪歪扭扭大字:欢~迎~顾~宗~师~"
     },
     "audio": {
       "dialogues": [
         {
-          "speaker": "机械女声",
-          "text": "让我们~热烈欢迎~今晚的~特别嘉宾~~顾~玄~宗~师~~"
-        },
-        {
           "speaker": "众人",
           "text": "噗哈哈哈哈!这就是阵道宗师?这欢迎仪式太别致了!"
-        },
-        {
-          "speaker": "众人",
-          "text": "我知道青云宗为什么穷了——钱都拿来做特效了吧!"
-        },
-        {
-          "speaker": "旁白",
-          "text": "话音未落,从天花板突然喷出大量彩带和亮片,劈头盖脸洒了顾玄一身!整个宴会厅陷入了死一般的寂静。所有人都目瞪口呆地看着这场堪称社死现场的\"欢迎仪式\",再看看站在光柱中满头彩带的顾玄。不知谁先忍不住,\"噗\"的一声笑了出来。接着全场爆发出震天的哄笑声"
-        },
-        {
-          "speaker": "顾玄",
-          "text": "让我死!让我死!这太社死了!我的高人形象全毁了!系统,快救我!或者直接让我穿越回去!"
         }
       ],
       "background_music": "走调背景音乐",
       "sound_effects": [
-        "哄笑声",
-        "彩带喷射"
+        "哄笑声"
       ],
       "volume_level": "哄笑突出"
     },
@@ -512,10 +1497,174 @@
     }
   },
   {
-    "shot_id": "EP07-S008",
+    "shot_id": "EP07-S007-3",
+    "chapter_number": 7,
+    "scene_number": 7,
+    "duration": 2,
+    "shot_type": "全景",
+    "location": "宴会厅",
+    "time_of_day": "傍晚",
+    "composition": {
+      "camera_position": "宾客角度",
+      "camera_movement": "快速切换",
+      "framing": "反应构图",
+      "focus_type": "反应清晰"
+    },
+    "characters": [
+      {
+        "name": "全场宾客",
+        "position": "宴会厅各处",
+        "action": "哄笑",
+        "expression": "爆笑",
+        "costume": "各式服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "宴会厅",
+      "lighting": "光柱聚焦顾玄",
+      "color_palette": "社死色彩",
+      "special_effects": "光柱死死跟随顾玄"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "众人",
+          "text": "我知道青云宗为什么穷了——钱都拿来做特效了吧!"
+        }
+      ],
+      "background_music": "走调背景音乐",
+      "sound_effects": [
+        "哄笑声"
+      ],
+      "volume_level": "哄笑突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "极快",
+      "purpose": "社死高潮"
+    },
+    "notes": {
+      "production_note": "大量特效+搞笑",
+      "reference_style": "社死搞笑",
+      "difficulty_level": "非常复杂"
+    }
+  },
+  {
+    "shot_id": "EP07-S007-4",
+    "chapter_number": 7,
+    "scene_number": 7,
+    "duration": 3,
+    "shot_type": "中景",
+    "location": "宴会厅",
+    "time_of_day": "傍晚",
+    "composition": {
+      "camera_position": "宾客角度",
+      "camera_movement": "震撼推拉",
+      "framing": "反应构图",
+      "focus_type": "反应清晰"
+    },
+    "characters": [
+      {
+        "name": "全场宾客",
+        "position": "宴会厅各处",
+        "action": "从寂静到哄笑",
+        "expression": "震惊→爆笑",
+        "costume": "各式服饰"
+      },
+      {
+        "name": "顾玄",
+        "position": "光柱中",
+        "action": "被彩带覆盖",
+        "expression": "社会性死亡",
+        "costume": "满头彩带"
+      }
+    ],
+    "visual_effects": {
+      "environment": "宴会厅",
+      "lighting": "光柱聚焦",
+      "color_palette": "社死色彩",
+      "special_effects": "光柱死死跟随顾玄"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "旁白",
+          "text": "话音未落,从天花板突然喷出大量彩带和亮片,劈头盖脸洒了顾玄一身!整个宴会厅陷入了死一般的寂静。所有人都目瞪口呆地看着这场堪称社死现场的\"欢迎仪式\",再看看站在光柱中满头彩带的顾玄。不知谁先忍不住,\"噗\"的一声笑了出来。接着全场爆发出震天的哄笑声"
+        }
+      ],
+      "background_music": "走调背景音乐",
+      "sound_effects": [
+        "哄笑声"
+      ],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "极快",
+      "purpose": "社死高潮"
+    },
+    "notes": {
+      "production_note": "大量特效+搞笑",
+      "reference_style": "社死搞笑",
+      "difficulty_level": "非常复杂"
+    }
+  },
+  {
+    "shot_id": "EP07-S007-5",
+    "chapter_number": 7,
+    "scene_number": 7,
+    "duration": 3,
+    "shot_type": "特写",
+    "location": "宴会厅-光柱中",
+    "time_of_day": "傍晚",
+    "composition": {
+      "camera_position": "面部特写",
+      "camera_movement": "固定镜头",
+      "framing": "独白构图",
+      "focus_type": "表情清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "光柱中",
+        "action": "试图溜走",
+        "expression": "社会性死亡",
+        "costume": "满头彩带"
+      }
+    ],
+    "visual_effects": {
+      "environment": "光柱中",
+      "lighting": "光柱聚焦",
+      "color_palette": "社死色彩",
+      "special_effects": "光柱像狗皮膏药般死死跟着"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "让我死!让我死!这太社死了!我的高人形象全毁了!系统,快救我!或者直接让我穿越回去!"
+        }
+      ],
+      "background_music": "走调背景音乐",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "极快",
+      "purpose": "社死高潮"
+    },
+    "notes": {
+      "production_note": "注重内心戏",
+      "reference_style": "社死搞笑",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S008-1",
     "chapter_number": 7,
     "scene_number": 8,
-    "duration": 11,
+    "duration": 4,
     "shot_type": "特效全景",
     "location": "宴会厅",
     "time_of_day": "傍晚",
@@ -536,7 +1685,7 @@
       {
         "name": "全场宾客",
         "position": "宴会厅各处",
-        "action": "从哄笑变成寂静震惊",
+        "action": "从哄笑变成寂静",
         "expression": "哄笑→震惊→惊疑",
         "costume": "各式服饰"
       }
@@ -552,14 +1701,6 @@
         {
           "speaker": "众人",
           "text": "刚才那是...古秘境地图?好像标注的是青云宗后山?难道顾宗师是故意激活这个隐藏信息的?"
-        },
-        {
-          "speaker": "旁白",
-          "text": "就在顾玄恨不得找个地缝钻进去时,异变再起!那残破阵法似乎终于不堪重负,发出一阵刺耳的噪音后,所有灯光突然熄灭!就在众人以为闹剧结束时,阵法最后回光返照般亮了一下,投射出一幅模糊的地图影像——那地图样式古老,上面标注着几个奇怪的符号,其中一个符号的位置正好是青云宗后山"
-        },
-        {
-          "speaker": "顾玄",
-          "text": "这又是什么情况?随便修个灯还能修出藏宝图?"
         }
       ],
       "background_music": "震撼转神秘",
@@ -567,7 +1708,7 @@
         "阵法噪音",
         "全场寂静"
       ],
-      "volume_level": "寂静突出"
+      "volume_level": "对话突出"
     },
     "editing": {
       "transition_to_next": "快速切",
@@ -581,10 +1722,121 @@
     }
   },
   {
-    "shot_id": "EP07-S009",
+    "shot_id": "EP07-S008-2",
+    "chapter_number": 7,
+    "scene_number": 8,
+    "duration": 7,
+    "shot_type": "特效全景",
+    "location": "宴会厅",
+    "time_of_day": "傍晚",
+    "composition": {
+      "camera_position": "宏大视角",
+      "camera_movement": "震撼推拉",
+      "framing": "转折构图",
+      "focus_type": "特效清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "光柱中",
+        "action": "震惊,懵逼",
+        "expression": "懵逼",
+        "costume": "满头彩带"
+      },
+      {
+        "name": "全场宾客",
+        "position": "宴会厅各处",
+        "action": "寂静震惊",
+        "expression": "震惊→惊疑",
+        "costume": "各式服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "宴会厅",
+      "lighting": "古老地图影像",
+      "color_palette": "古老色调",
+      "special_effects": "地图影像投射,只持续三秒消失"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "旁白",
+          "text": "就在顾玄恨不得找个地缝钻进去时,异变再起!那残破阵法似乎终于不堪重负,发出一阵刺耳的噪音后,所有灯光突然熄灭!就在众人以为闹剧结束时,阵法最后回光返照般亮了一下,投射出一幅模糊的地图影像——那地图样式古老,上面标注着几个奇怪的符号,其中一个符号的位置正好是青云宗后山"
+        }
+      ],
+      "background_music": "震撼转神秘",
+      "sound_effects": [
+        "阵法噪音"
+      ],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "震撼",
+      "purpose": "社死变机缘转折"
+    },
+    "notes": {
+      "production_note": "特效转折",
+      "reference_style": "震撼神秘",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP07-S008-3",
+    "chapter_number": 7,
+    "scene_number": 8,
+    "duration": 0,
+    "shot_type": "特写",
+    "location": "宴会厅",
+    "time_of_day": "傍晚",
+    "composition": {
+      "camera_position": "面部特写",
+      "camera_movement": "固定镜头",
+      "framing": "独白构图",
+      "focus_type": "表情清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "光柱中",
+        "action": "懵逼",
+        "expression": "懵逼",
+        "costume": "满头彩带"
+      }
+    ],
+    "visual_effects": {
+      "environment": "宴会厅",
+      "lighting": "黑暗",
+      "color_palette": "懵逼色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "这又是什么情况?随便修个灯还能修出藏宝图?"
+        }
+      ],
+      "background_music": "震撼转神秘",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "震撼",
+      "purpose": "社死变机缘转折"
+    },
+    "notes": {
+      "production_note": "注重内心戏",
+      "reference_style": "震撼神秘",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S009-1",
     "chapter_number": 7,
     "scene_number": 9,
-    "duration": 10,
+    "duration": 2,
     "shot_type": "中景",
     "location": "宴会厅",
     "time_of_day": "傍晚",
@@ -608,13 +1860,6 @@
         "action": "强行装逼",
         "expression": "表面淡定,内心懵逼",
         "costume": "满头彩带"
-      },
-      {
-        "name": "众人",
-        "position": "周围",
-        "action": "恍然大悟",
-        "expression": "嘲讽→惊疑→敬佩",
-        "costume": "各式服饰"
       }
     ],
     "visual_effects": {
@@ -628,22 +1873,6 @@
         {
           "speaker": "商会会长",
           "text": "顾宗师!您真是太厉害了!居然一眼就看出这阵法中隐藏着秘境地图!难怪您要特意激活它!"
-        },
-        {
-          "speaker": "顾玄",
-          "text": "区区小道,不足挂齿。此图与我宗门有缘,今日显现也是天意。"
-        },
-        {
-          "speaker": "众人",
-          "text": "宗师境界,我等望尘莫及啊!这份人情商会记下了!"
-        },
-        {
-          "speaker": "旁白",
-          "text": "全场再次寂静。所有人都看到了那幅地图,虽然时间短暂,但在场不少都是见多识广之辈,立即认出那似乎是某种秘境舆图!众人的眼神从嘲讽变成了惊疑。顾玄自己也懵了——这又是什么情况?随便修个灯还能修出藏宝图?商会会长最先反应过来,激动地抓住顾玄的手。顾玄:???(我不是,我没有,我就是想修个灯啊!)但看着会长和其他人恍然大悟的表情,顾玄再次福至心灵"
-        },
-        {
-          "speaker": "顾玄",
-          "text": "虽然我完全不知道那是什么图"
         }
       ],
       "background_music": "搞笑转敬佩",
@@ -662,10 +1891,228 @@
     }
   },
   {
-    "shot_id": "EP07-S010",
+    "shot_id": "EP07-S009-2",
+    "chapter_number": 7,
+    "scene_number": 9,
+    "duration": 2,
+    "shot_type": "中景",
+    "location": "宴会厅",
+    "time_of_day": "傍晚",
+    "composition": {
+      "camera_position": "对话角度",
+      "camera_movement": "缓慢推近",
+      "framing": "脑补补正构图",
+      "focus_type": "对话清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "被迫应对",
+        "action": "强行装逼",
+        "expression": "表面淡定,内心懵逼",
+        "costume": "满头彩带"
+      },
+      {
+        "name": "众人",
+        "position": "周围",
+        "action": "恍然大悟",
+        "expression": "惊疑→敬佩",
+        "costume": "各式服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "宴会厅",
+      "lighting": "自然光",
+      "color_palette": "敬佩色调",
+      "special_effects": "众人脑补画面"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "区区小道,不足挂齿。此图与我宗门有缘,今日显现也是天意。"
+        }
+      ],
+      "background_music": "搞笑转敬佩",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "中等",
+      "purpose": "脑补补正三连击"
+    },
+    "notes": {
+      "production_note": "注重演技反差",
+      "reference_style": "搞笑装逼",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP07-S009-3",
+    "chapter_number": 7,
+    "scene_number": 9,
+    "duration": 2,
+    "shot_type": "中景",
+    "location": "宴会厅",
+    "time_of_day": "傍晚",
+    "composition": {
+      "camera_position": "对话角度",
+      "camera_movement": "缓慢推近",
+      "framing": "脑补补正构图",
+      "focus_type": "对话清晰"
+    },
+    "characters": [
+      {
+        "name": "众人",
+        "position": "周围",
+        "action": "恍然大悟",
+        "expression": "惊疑→敬佩",
+        "costume": "各式服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "宴会厅",
+      "lighting": "自然光",
+      "color_palette": "敬佩色调",
+      "special_effects": "众人脑补画面"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "众人",
+          "text": "宗师境界,我等望尘莫及啊!这份人情商会记下了!"
+        }
+      ],
+      "background_music": "搞笑转敬佩",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "中等",
+      "purpose": "脑补补正三连击"
+    },
+    "notes": {
+      "production_note": "注重演技反差",
+      "reference_style": "搞笑装逼",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP07-S009-4",
+    "chapter_number": 7,
+    "scene_number": 9,
+    "duration": 2,
+    "shot_type": "中景",
+    "location": "宴会厅",
+    "time_of_day": "傍晚",
+    "composition": {
+      "camera_position": "对话角度",
+      "camera_movement": "缓慢推近",
+      "framing": "脑补补正构图",
+      "focus_type": "对话清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "强行装逼",
+        "action": "表面淡定",
+        "expression": "表面淡定,内心懵逼",
+        "costume": "满头彩带"
+      },
+      {
+        "name": "众人",
+        "position": "周围",
+        "action": "恍然大悟",
+        "expression": "敬佩",
+        "costume": "各式服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "宴会厅",
+      "lighting": "自然光",
+      "color_palette": "敬佩色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "旁白",
+          "text": "全场再次寂静。所有人都看到了那幅地图,虽然时间短暂,但在场不少都是见多识广之辈,立即认出那似乎是某种秘境舆图!众人的眼神从嘲讽变成了惊疑。顾玄自己也懵了——这又是什么情况?随便修个灯还能修出藏宝图?商会会长最先反应过来,激动地抓住顾玄的手。顾玄:???(我不是,我没有,我就是想修个灯啊!)但看着会长和其他人恍然大悟的表情,顾玄再次福至心灵"
+        }
+      ],
+      "background_music": "搞笑转敬佩",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "中等",
+      "purpose": "脑补补正三连击"
+    },
+    "notes": {
+      "production_note": "注重演技反差",
+      "reference_style": "搞笑装逼",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP07-S009-5",
+    "chapter_number": 7,
+    "scene_number": 9,
+    "duration": 2,
+    "shot_type": "特写",
+    "location": "宴会厅",
+    "time_of_day": "傍晚",
+    "composition": {
+      "camera_position": "面部特写",
+      "camera_movement": "固定镜头",
+      "framing": "独白构图",
+      "focus_type": "表情清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "强行装逼",
+        "action": "内心独白",
+        "expression": "表面淡定,内心懵逼",
+        "costume": "满头彩带"
+      }
+    ],
+    "visual_effects": {
+      "environment": "宴会厅",
+      "lighting": "自然光",
+      "color_palette": "敬佩色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "虽然我完全不知道那是什么图"
+        }
+      ],
+      "background_music": "搞笑转敬佩",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "中等",
+      "purpose": "脑补补正三连击"
+    },
+    "notes": {
+      "production_note": "注重内心戏",
+      "reference_style": "搞笑装逼",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S010-1",
     "chapter_number": 7,
     "scene_number": 10,
-    "duration": 8,
+    "duration": 1,
     "shot_type": "中景",
     "location": "青云宗",
     "time_of_day": "夜晚",
@@ -679,15 +2126,15 @@
       {
         "name": "李道玄",
         "position": "迫不及待询问",
-        "action": "听完后拍大腿,兴奋",
-        "expression": "好奇→震惊→兴奋",
+        "action": "询问",
+        "expression": "好奇",
         "costume": "掌门袍"
       },
       {
         "name": "顾玄",
         "position": "生无可恋",
-        "action": "摘亮片,叹气",
-        "expression": "生无可恋→无力",
+        "action": "摘亮片",
+        "expression": "生无可恋",
         "costume": "粗布麻衣"
       }
     ],
@@ -702,38 +2149,6 @@
         {
           "speaker": "李道玄",
           "text": "徒儿,宴会怎么样?听说你又搞出大动静了?"
-        },
-        {
-          "speaker": "顾玄",
-          "text": "掌门,咱们后山...可能真有什么秘境。"
-        },
-        {
-          "speaker": "李道玄",
-          "text": "啊?你怎么知道?"
-        },
-        {
-          "speaker": "顾玄",
-          "text": "(叹气简单讲述社死经历)"
-        },
-        {
-          "speaker": "李道玄",
-          "text": "我明白了!定是祖师爷显灵!那阵法中的地图肯定是祖师留下的线索!"
-        },
-        {
-          "speaker": "顾玄",
-          "text": "掌门,那就是个装饰灯阵..."
-        },
-        {
-          "speaker": "李道玄",
-          "text": "不不不!我早就觉得后山有古怪!明天我们就去探查!"
-        },
-        {
-          "speaker": "旁白",
-          "text": "回到青云宗,李道玄迫不及待地问。顾玄生无可恋地摘下头发上的亮片"
-        },
-        {
-          "speaker": "顾玄",
-          "text": "该不会...我真是天道私生子?"
         }
       ],
       "background_music": "轻松搞笑",
@@ -747,6 +2162,456 @@
     },
     "notes": {
       "production_note": "轻松场景",
+      "reference_style": "搞笑温馨",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S010-2",
+    "chapter_number": 7,
+    "scene_number": 10,
+    "duration": 1,
+    "shot_type": "中景",
+    "location": "青云宗",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "对话角度",
+      "camera_movement": "缓慢推近",
+      "framing": "对话构图",
+      "focus_type": "对话清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "生无可恋",
+        "action": "摘亮片",
+        "expression": "生无可恋",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "李道玄",
+        "position": "惊讶",
+        "action": "惊讶",
+        "expression": "好奇→震惊",
+        "costume": "掌门袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "青云宗简陋房间",
+      "lighting": "昏暗光",
+      "color_palette": "温馨转兴奋",
+      "special_effects": "头发上粘着的亮片"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "掌门,咱们后山...可能真有什么秘境。"
+        }
+      ],
+      "background_music": "轻松搞笑",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "中等",
+      "purpose": "回到宗门+后山铺垫"
+    },
+    "notes": {
+      "production_note": "轻松场景",
+      "reference_style": "搞笑温馨",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S010-3",
+    "chapter_number": 7,
+    "scene_number": 10,
+    "duration": 1,
+    "shot_type": "中景",
+    "location": "青云宗",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "对话角度",
+      "camera_movement": "缓慢推近",
+      "framing": "对话构图",
+      "focus_type": "对话清晰"
+    },
+    "characters": [
+      {
+        "name": "李道玄",
+        "position": "惊讶",
+        "action": "惊讶",
+        "expression": "震惊",
+        "costume": "掌门袍"
+      },
+      {
+        "name": "顾玄",
+        "position": "生无可恋",
+        "action": "叹气",
+        "expression": "无奈",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "青云宗简陋房间",
+      "lighting": "昏暗光",
+      "color_palette": "温馨转兴奋",
+      "special_effects": "头发上粘着的亮片"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "李道玄",
+          "text": "啊?你怎么知道?"
+        }
+      ],
+      "background_music": "轻松搞笑",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "中等",
+      "purpose": "回到宗门+后山铺垫"
+    },
+    "notes": {
+      "production_note": "轻松场景",
+      "reference_style": "搞笑温馨",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S010-4",
+    "chapter_number": 7,
+    "scene_number": 10,
+    "duration": 1,
+    "shot_type": "中景",
+    "location": "青云宗",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "对话角度",
+      "camera_movement": "缓慢推近",
+      "framing": "对话构图",
+      "focus_type": "对话清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "生无可恋",
+        "action": "叹气讲述",
+        "expression": "无奈",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "李道玄",
+        "position": "听着",
+        "action": "听完后拍大腿",
+        "expression": "震惊→兴奋",
+        "costume": "掌门袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "青云宗简陋房间",
+      "lighting": "昏暗光",
+      "color_palette": "温馨转兴奋",
+      "special_effects": "头发上粘着的亮片"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "(叹气简单讲述社死经历)"
+        }
+      ],
+      "background_music": "轻松搞笑",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "中等",
+      "purpose": "回到宗门+后山铺垫"
+    },
+    "notes": {
+      "production_note": "轻松场景",
+      "reference_style": "搞笑温馨",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S010-5",
+    "chapter_number": 7,
+    "scene_number": 10,
+    "duration": 1,
+    "shot_type": "中景",
+    "location": "青云宗",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "对话角度",
+      "camera_movement": "缓慢推近",
+      "framing": "对话构图",
+      "focus_type": "对话清晰"
+    },
+    "characters": [
+      {
+        "name": "李道玄",
+        "position": "兴奋",
+        "action": "拍大腿",
+        "expression": "兴奋",
+        "costume": "掌门袍"
+      },
+      {
+        "name": "顾玄",
+        "position": "无力",
+        "action": "无力",
+        "expression": "无力",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "青云宗简陋房间",
+      "lighting": "昏暗光",
+      "color_palette": "温馨转兴奋",
+      "special_effects": "头发上粘着的亮片"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "李道玄",
+          "text": "我明白了!定是祖师爷显灵!那阵法中的地图肯定是祖师留下的线索!"
+        }
+      ],
+      "background_music": "轻松搞笑",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "中等",
+      "purpose": "回到宗门+后山铺垫"
+    },
+    "notes": {
+      "production_note": "轻松场景",
+      "reference_style": "搞笑温馨",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S010-6",
+    "chapter_number": 7,
+    "scene_number": 10,
+    "duration": 1,
+    "shot_type": "中景",
+    "location": "青云宗",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "对话角度",
+      "camera_movement": "缓慢推近",
+      "framing": "对话构图",
+      "focus_type": "对话清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "无力",
+        "action": "无力吐槽",
+        "expression": "无力",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "李道玄",
+        "position": "兴奋",
+        "action": "兴奋",
+        "expression": "兴奋",
+        "costume": "掌门袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "青云宗简陋房间",
+      "lighting": "昏暗光",
+      "color_palette": "温馨转兴奋",
+      "special_effects": "头发上粘着的亮片"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "掌门,那就是个装饰灯阵..."
+        }
+      ],
+      "background_music": "轻松搞笑",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "中等",
+      "purpose": "回到宗门+后山铺垫"
+    },
+    "notes": {
+      "production_note": "轻松场景",
+      "reference_style": "搞笑温馨",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S010-7",
+    "chapter_number": 7,
+    "scene_number": 10,
+    "duration": 1,
+    "shot_type": "中景",
+    "location": "青云宗",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "对话角度",
+      "camera_movement": "缓慢推近",
+      "framing": "对话构图",
+      "focus_type": "对话清晰"
+    },
+    "characters": [
+      {
+        "name": "李道玄",
+        "position": "兴奋",
+        "action": "兴奋",
+        "expression": "兴奋",
+        "costume": "掌门袍"
+      },
+      {
+        "name": "顾玄",
+        "position": "看着兴奋的掌门",
+        "action": "不祥预感",
+        "expression": "无奈→不安",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "青云宗简陋房间",
+      "lighting": "昏暗光",
+      "color_palette": "温馨转兴奋",
+      "special_effects": "头发上粘着的亮片"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "李道玄",
+          "text": "不不不!我早就觉得后山有古怪!明天我们就去探查!"
+        }
+      ],
+      "background_music": "轻松搞笑",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "中等",
+      "purpose": "回到宗门+后山铺垫"
+    },
+    "notes": {
+      "production_note": "轻松场景",
+      "reference_style": "搞笑温馨",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S010-8",
+    "chapter_number": 7,
+    "scene_number": 10,
+    "duration": 1,
+    "shot_type": "中景",
+    "location": "青云宗",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "对话角度",
+      "camera_movement": "缓慢推近",
+      "framing": "对话构图",
+      "focus_type": "对话清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "看着兴奋的掌门",
+        "action": "不祥预感",
+        "expression": "不安",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "青云宗简陋房间",
+      "lighting": "昏暗光",
+      "color_palette": "温馨转兴奋",
+      "special_effects": "头发上粘着的亮片"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "旁白",
+          "text": "回到青云宗,李道玄迫不及待地问。顾玄生无可恋地摘下头发上的亮片"
+        }
+      ],
+      "background_music": "轻松搞笑",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "中等",
+      "purpose": "回到宗门+后山铺垫"
+    },
+    "notes": {
+      "production_note": "轻松场景",
+      "reference_style": "搞笑温馨",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S010-9",
+    "chapter_number": 7,
+    "scene_number": 10,
+    "duration": 1,
+    "shot_type": "特写",
+    "location": "青云宗",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "面部特写",
+      "camera_movement": "固定镜头",
+      "framing": "独白构图",
+      "focus_type": "表情清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "房中",
+        "action": "不祥预感",
+        "expression": "不安",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "青云宗简陋房间",
+      "lighting": "昏暗光",
+      "color_palette": "不安色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "该不会...我真是天道私生子?"
+        }
+      ],
+      "background_music": "轻松搞笑",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "中等",
+      "purpose": "回到宗门+后山铺垫"
+    },
+    "notes": {
+      "production_note": "注重内心戏",
       "reference_style": "搞笑温馨",
       "difficulty_level": "简单"
     }
@@ -805,10 +2670,10 @@
     }
   },
   {
-    "shot_id": "EP07-S012",
+    "shot_id": "EP07-S012-1",
     "chapter_number": 7,
     "scene_number": 12,
-    "duration": 10,
+    "duration": 2,
     "shot_type": "中景",
     "location": "青州商会内",
     "time_of_day": "夜晚",
@@ -829,7 +2694,7 @@
       {
         "name": "老阵法师",
         "position": "检查残阵",
-        "action": "脸色大变",
+        "action": "检查",
         "expression": "认真→震惊→凝重",
         "costume": "阵法师服饰"
       }
@@ -845,22 +2710,6 @@
         {
           "speaker": "会长",
           "text": "顾宗师果然厉害,随便一出手就激发出隐藏信息,但这阵法也彻底完了..."
-        },
-        {
-          "speaker": "老阵法师",
-          "text": "会长!这阵法不是自然损坏!是被一股极其精纯的灵力瞬间撑爆的!那种控制力...没有元婴期根本做不到!"
-        },
-        {
-          "speaker": "会长",
-          "text": "元婴期?顾宗师看起来才二十多岁啊!"
-        },
-        {
-          "speaker": "老阵法师",
-          "text": "恐怕是驻颜有术的老怪...青云宗,深不可测啊!"
-        },
-        {
-          "speaker": "旁白",
-          "text": "与此同时,青州商会内。会长正对着彻底报废的阵法摇头叹息"
         }
       ],
       "background_music": "神秘紧张",
@@ -879,10 +2728,242 @@
     }
   },
   {
-    "shot_id": "EP07-S013",
+    "shot_id": "EP07-S012-2",
+    "chapter_number": 7,
+    "scene_number": 12,
+    "duration": 2,
+    "shot_type": "中景",
+    "location": "青州商会内",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "对话角度",
+      "camera_movement": "缓慢推近",
+      "framing": "对话构图",
+      "focus_type": "对话清晰"
+    },
+    "characters": [
+      {
+        "name": "老阵法师",
+        "position": "检查残阵",
+        "action": "脸色大变",
+        "expression": "认真→震惊→凝重",
+        "costume": "阵法师服饰"
+      },
+      {
+        "name": "商会会长",
+        "position": "听着",
+        "action": "震惊",
+        "expression": "惋惜→震惊",
+        "costume": "华丽长袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "商会内-报废阵法",
+      "lighting": "昏暗光",
+      "color_palette": "神秘色调",
+      "special_effects": "彻底报废的阵法"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "老阵法师",
+          "text": "会长!这阵法不是自然损坏!是被一股极其精纯的灵力瞬间撑爆的!那种控制力...没有元婴期根本做不到!"
+        }
+      ],
+      "background_music": "神秘紧张",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "缓慢",
+      "purpose": "元婴猜测传播"
+    },
+    "notes": {
+      "production_note": "神秘氛围",
+      "reference_style": "神秘紧张",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP07-S012-3",
+    "chapter_number": 7,
+    "scene_number": 12,
+    "duration": 2,
+    "shot_type": "中景",
+    "location": "青州商会内",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "对话角度",
+      "camera_movement": "缓慢推近",
+      "framing": "对话构图",
+      "focus_type": "对话清晰"
+    },
+    "characters": [
+      {
+        "name": "会长",
+        "position": "震惊",
+        "action": "倒吸凉气",
+        "expression": "震惊",
+        "costume": "华丽长袍"
+      },
+      {
+        "name": "老阵法师",
+        "position": "凝重",
+        "action": "凝重",
+        "expression": "凝重",
+        "costume": "阵法师服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "商会内-报废阵法",
+      "lighting": "昏暗光",
+      "color_palette": "神秘色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "会长",
+          "text": "元婴期?顾宗师看起来才二十多岁啊!"
+        }
+      ],
+      "background_music": "神秘紧张",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "缓慢",
+      "purpose": "元婴猜测传播"
+    },
+    "notes": {
+      "production_note": "神秘氛围",
+      "reference_style": "神秘紧张",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP07-S012-4",
+    "chapter_number": 7,
+    "scene_number": 12,
+    "duration": 2,
+    "shot_type": "中景",
+    "location": "青州商会内",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "对话角度",
+      "camera_movement": "缓慢推近",
+      "framing": "对话构图",
+      "focus_type": "对话清晰"
+    },
+    "characters": [
+      {
+        "name": "老阵法师",
+        "position": "凝重",
+        "action": "凝重",
+        "expression": "凝重",
+        "costume": "阵法师服饰"
+      },
+      {
+        "name": "会长",
+        "position": "震惊",
+        "action": "震惊",
+        "expression": "震惊",
+        "costume": "华丽长袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "商会内-报废阵法",
+      "lighting": "昏暗光",
+      "color_palette": "神秘色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "老阵法师",
+          "text": "恐怕是驻颜有术的老怪...青云宗,深不可测啊!"
+        }
+      ],
+      "background_music": "神秘紧张",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "缓慢",
+      "purpose": "元婴猜测传播"
+    },
+    "notes": {
+      "production_note": "神秘氛围",
+      "reference_style": "神秘紧张",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP07-S012-5",
+    "chapter_number": 7,
+    "scene_number": 12,
+    "duration": 2,
+    "shot_type": "中景",
+    "location": "青州商会内",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "对话角度",
+      "camera_movement": "缓慢推近",
+      "framing": "对话构图",
+      "focus_type": "对话清晰"
+    },
+    "characters": [
+      {
+        "name": "商会会长",
+        "position": "对着报废阵法",
+        "action": "摇头叹息",
+        "expression": "震惊",
+        "costume": "华丽长袍"
+      },
+      {
+        "name": "老阵法师",
+        "position": "检查残阵",
+        "action": "检查",
+        "expression": "凝重",
+        "costume": "阵法师服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "商会内-报废阵法",
+      "lighting": "昏暗光",
+      "color_palette": "神秘色调",
+      "special_effects": "彻底报废的阵法"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "旁白",
+          "text": "与此同时,青州商会内。会长正对着彻底报废的阵法摇头叹息"
+        }
+      ],
+      "background_music": "神秘紧张",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "缓慢",
+      "purpose": "元婴猜测传播"
+    },
+    "notes": {
+      "production_note": "神秘氛围",
+      "reference_style": "神秘紧张",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP07-S013-1",
     "chapter_number": 7,
     "scene_number": 13,
-    "duration": 7,
+    "duration": 3,
     "shot_type": "特写",
     "location": "顾玄房中-镜前",
     "time_of_day": "夜晚",
@@ -912,7 +2993,54 @@
         {
           "speaker": "顾玄",
           "text": "下次再也不乱碰阵法了...太特么丢人了..."
-        },
+        }
+      ],
+      "background_music": "轻松搞笑",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "舒缓",
+      "purpose": "搞笑结尾+下章预告"
+    },
+    "notes": {
+      "production_note": "轻松收尾",
+      "reference_style": "搞笑温馨",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S013-2",
+    "chapter_number": 7,
+    "scene_number": 13,
+    "duration": 4,
+    "shot_type": "特写",
+    "location": "顾玄房中-镜前",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "镜前特写",
+      "camera_movement": "固定镜头",
+      "framing": "独白构图",
+      "focus_type": "细节清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "镜前",
+        "action": "摘亮片",
+        "expression": "无奈,疲惫",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "房中镜前",
+      "lighting": "昏暗光",
+      "color_palette": "温馨色调",
+      "special_effects": "镜中顾玄无奈表情"
+    },
+    "audio": {
+      "dialogues": [
         {
           "speaker": "旁白",
           "text": "而此刻的顾玄,正在房里对着镜子试图摘掉头发上的亮片,一边摘一边嘀咕"
