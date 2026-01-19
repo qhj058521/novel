@@ -1,277 +1,504 @@
-{
-  "chapter": "第二十一章：版本更新",
-  "chapter_number": 21,
-  "scenes": [
-    {
-      "scene_number": 1,
-      "location": "青云宗后山",
-      "time": "午后",
-      "characters": ["顾玄", "陆尘"],
-      "visual_effects": {
-        "environment": "阳光明媚，摇椅冰镇果汁，特效灵石制冷法阵",
-        "atmosphere": "悠闲惬意，岁月静好"
-      },
-      "camera_angles": [
-        "全景：后山悠闲景象",
-        "特写：冰镇灵果汁的小纸伞",
-        "中景：顾玄享受退休生活"
-      ],
-      "system_interfaces": [
-        {
-          "type": "系统提示",
-          "content": "【系统维护中...版本更新准备...】\n【预计时间：？？？】",
-          "visual_style": "灰色登录界面，闪烁状态"
-        }
-      ],
-      "character_emotions": {
-        "顾玄": "满足→好奇→无奈",
-        "陆尘": "兴奋→崇拜"
-      },
-      "key_dialogue": [
-        "顾玄：这才是生活啊...",
-        "陆尘：灵能网络又扩容了！现在覆盖整个青州啦！"
-      ],
-      "plot_points": ["退休生活的惬意", "灵能科技普及", "系统休眠"],
-      "satisfaction_level": "悠闲积累"
+[
+  {
+    "shot_id": "EP21-S001",
+    "chapter_number": 21,
+    "scene_number": 1,
+    "duration": 12,
+    "shot_type": "全景",
+    "location": "青云宗后山",
+    "time_of_day": "午后",
+    "composition": {
+      "camera_position": "后山全景",
+      "camera_movement": "悠闲推近",
+      "framing": "悠闲构图",
+      "focus_type": "惬意清晰"
     },
-    {
-      "scene_number": 2,
-      "location": "天衍宗展示厅",
-      "time": "次日",
-      "characters": ["顾玄", "天衍宗宗主", "陆尘"],
-      "visual_effects": {
-        "environment": "展示厅内的科技风格金属碎片",
-        "special_effects": "水晶中的数据流闪烁，系统突然响应",
-        "lighting": "神秘科技光芒"
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "摇椅上",
+        "action": "享受退休生活",
+        "expression": "满足",
+        "costume": "青云宗道袍"
       },
-      "camera_angles": [
-        "特写：金属碎片的科技纹路",
-        "推进：顾玄接触水晶",
-        "反应镜头：系统响应瞬间"
-      ],
-      "system_interfaces": [
-        {
-          "type": "系统提示",
-          "content": "【检测到更新数据...开始下载...】\n【版本更新进度：1%...】",
-          "visual_style": "进度条显示，数据流动效果"
-        }
-      ],
-      "character_emotions": {
-        "顾玄": "好奇→震惊→兴奋",
-        "宗主": "紧张→期待"
-      },
-      "key_dialogue": [
-        "顾玄：系统碎片？什么意思？",
-        "宗主：说是发现了类似你那个...呃...'特殊法器'的残片"
-      ],
-      "plot_points": ["系统碎片发现", "版本更新希望", "东海遗迹线索"],
-      "satisfaction_level": "好奇积累"
+      {
+        "name": "陆尘",
+        "position": "旁边",
+        "action": "汇报工作",
+        "expression": "兴奋",
+        "costume": "青云宗弟子服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "阳光明媚，摇椅冰镇果汁，特效灵石制冷法阵",
+      "lighting": "温暖阳光",
+      "color_palette": "明亮悠闲",
+      "special_effects": "系统维护提示灰色界面"
     },
-    {
-      "scene_number": 3,
-      "location": "东海海底遗迹",
-      "time": "三天后",
-      "characters": ["顾玄", "天衍宗长老", "陆尘"],
-      "visual_effects": {
-        "environment": "充满科技感的控制中心，全息屏幕，机械臂",
-        "special_effects": "巨大容器中的顾玄复制品，银白色制服和徽章",
-        "lighting": "深海幽暗蓝光，科技设备闪烁"
-      },
-      "camera_angles": [
-        "环绕：遗迹控制中心全景",
-        "推近：容器中的顾玄身影",
-        "特写：胸口的徽章标志",
-        "反应镜头：顾玄目瞪口呆"
-      ],
-      "system_interfaces": [
+    "audio": {
+      "dialogues": [
         {
-          "type": "系统提示",
-          "content": "【检测到管理员生物样本...开始DNA验证...】\n【验证通过...欢迎回来，管理员顾玄】\n【版本更新继续...10%...20%...】",
-          "visual_style": "验证进度条，记忆碎片闪回特效"
+          "speaker": "顾玄",
+          "text": "这才是生活啊..."
+        },
+        {
+          "speaker": "陆尘",
+          "text": "灵能网络又扩容了！现在覆盖整个青州啦！"
         }
       ],
-      "character_emotions": {
-        "顾玄": "震惊→痛苦→恍然大悟",
-        "陆尘": "担忧→困惑"
-      },
-      "key_dialogue": [
-        "顾玄：这是...我？！",
-        "长老：这似乎是遗迹的守护者，但已经失去生命迹象"
-      ],
-      "plot_points": ["水下遗迹探索", "身份揭晓", "管理员记忆恢复"],
-      "satisfaction_level": "震撼积累"
+      "background_music": "轻松悠闲",
+      "sound_effects": ["冰块碰撞声"],
+      "volume_level": "对话突出"
     },
-    {
-      "scene_number": 4,
-      "location": "东海海底遗迹核心",
-      "time": "紧接着",
-      "characters": ["顾玄", "容器中的全息投影"],
-      "visual_effects": {
-        "environment": "记忆闪回-浩瀚星海、无数世界、天魔执法部",
-        "special_effects": "修为疯狂暴涨的能量爆发，海底遗迹剧烈震动",
-        "lighting": "能量光芒四射"
-      },
-      "camera_angles": [
-        "主观视角：记忆闪回片段",
-        "全景：能量爆发震撼场面",
-        "特写：修为境界变化"
-      ],
-      "system_interfaces": [
-        {
-          "type": "系统提示",
-          "content": "【版本更新完成：V2.0→V3.0】\n【欢迎使用天魔执法系统完整版】\n【管理员：顾玄（正式）】\n【权限等级：7级（解锁全部功能）】\n\n新功能：【封印解除程序】",
-          "visual_style": "升级完成动画，功能列表展开"
-        }
-      ],
-      "character_emotions": {
-        "顾玄": "痛苦→震撼→苦笑"
-      },
-      "key_dialogue": [
-        "投影：你终于回来了...另一个我",
-        "顾玄：我本身就是挂？"
-      ],
-      "plot_points": ["修为解封", "大乘期圆满", "天魔执法部记忆恢复"],
-      "satisfaction_level": "震撼+满足"
+    "editing": {
+      "transition_to_next": "流畅切",
+      "pacing": "舒缓",
+      "purpose": "退休生活展示"
     },
-    {
-      "scene_number": 5,
-      "location": "青云宗",
-      "time": "返回后",
-      "characters": ["顾玄", "陆尘", "李道玄", "众弟子"],
-      "visual_effects": {
-        "environment": "宗门大会场景，众人哗然",
-        "special_effects": "一丝气息释放，护山大阵过载崩溃",
-        "lighting": "威压的光芒效果"
-      },
-      "camera_angles": [
-        "全景：宗门大会场景",
-        "特写：顾玄释放气息",
-        "反应镜头：众人震惊表情",
-        "仰拍：护山大阵崩溃瞬间"
-      ],
-      "system_interfaces": [
-        {
-          "type": "系统提示",
-          "content": "【修为封印已解除】\n【当前境界：大乘期（圆满）】\n【实际战力：无法测量（权限限制）】",
-          "visual_style": "境界显示特效"
-        }
-      ],
-      "character_emotions": {
-        "顾玄": "淡定→尴尬",
-        "陆尘": "担忧→震惊",
-        "众弟子": "哗然→敬畏"
-      },
-      "key_dialogue": [
-        "顾玄：我要离开一段时间。去...另一个世界出差",
-        "顾玄：现在的我...很强的"
-      ],
-      "plot_points": ["实力展示", "准备离开", "跨世界冒险开始"],
-      "satisfaction_level": "满足"
-    },
-    {
-      "scene_number": 6,
-      "location": "青云宗后山",
-      "time": "出发前夜",
-      "characters": ["顾玄", "陆尘"],
-      "visual_effects": {
-        "environment": "星空下的后山，调试天魔剑",
-        "special_effects": "星光之门打开",
-        "lighting": "星光剑芒，夜空璀璨"
-      },
-      "camera_angles": [
-        "中景：顾玄调试天魔剑",
-        "对话：师兄弟二人",
-        "仰拍：星光之门打开",
-        "特写：踏入传送门瞬间"
-      ],
-      "system_interfaces": [
-        {
-          "type": "系统提示",
-          "content": "【警告：检测到未知干扰】\n【跳跃坐标被修改！】\n【新目的地：试验场Z-75（废弃）】\n【警告：该区域已标记为危险】",
-          "visual_style": "红色警报，坐标修改动画"
-        }
-      ],
-      "character_emotions": {
-        "顾玄": "认真→坚定→震惊",
-        "陆尘": "担忧→坚定"
-      },
-      "key_dialogue": [
-        "顾玄：这是我的职责。而且...我怀疑那个试验场的异常和之前的叛乱有关",
-        "陆尘：那我跟你一起去！"
-      ],
-      "plot_points": ["师兄弟对话", "世界跳跃启动", "坐标被修改"],
-      "satisfaction_level": "史诗"
-    },
-    {
-      "scene_number": 7,
-      "location": "时空隧道→试验场Z-75",
-      "time": "跳跃过程中",
-      "characters": ["顾玄"],
-      "visual_effects": {
-        "environment": "时空隧道扭曲，强制传送",
-        "special_effects": "坠落过程，废弃世界景象",
-        "lighting": "扭曲的光线"
-      },
-      "camera_angles": [
-        "主观视角：时空隧道扭曲",
-        "俯拍：废弃世界的荒凉",
-        "推进：坠落过程"
-      ],
-      "system_interfaces": [
-        {
-          "type": "系统提示",
-          "content": "【当前世界：试验场Z-75（废弃）】\n【毁灭时间：约3000年前】\n【文明等级：三级（已灭绝）】\n【异常能量：高度危险】\n【幸存者：？？？】",
-          "visual_style": "世界数据面板"
-        }
-      ],
-      "character_emotions": {
-        "顾玄": "震惊→警惕"
-      },
-      "key_dialogue": [
-        "声音：救救我们...它们要来了...时间不多了..."
-      ],
-      "plot_points": ["强制传送", "废弃世界到达", "神秘求救声"],
-      "satisfaction_level": "史诗+期待"
-    },
-    {
-      "scene_number": 8,
-      "location": "试验场Z-75废弃广场",
-      "time": "刚到达",
-      "characters": ["顾玄"],
-      "visual_effects": {
-        "environment": "断壁残垣，荒芜死寂，战斗痕迹",
-        "special_effects": "天魔系统微弱光芒，熟悉能量残留",
-        "lighting": "死寂的灰色调"
-      },
-      "camera_angles": [
-        "环绕：废墟全景",
-        "推进：顾玄落地",
-        "主观视角：环顾四周"
-      ],
-      "system_interfaces": [
-        {
-          "type": "秩序之眼扫描",
-          "content": "检测到天魔系统能量残留，比当前系统更高级",
-          "visual_style": "扫描界面，能量读数"
-        }
-      ],
-      "character_emotions": {
-        "顾玄": "警惕→明悟"
-      },
-      "key_dialogue": [
-        "顾玄：看来找对地方了...这里就是叛乱的源头？"
-      ],
-      "plot_points": ["废墟探索", "能量源感应", "第二卷开始"],
-      "satisfaction_level": "期待"
+    "notes": {
+      "production_note": "实景",
+      "reference_style": "悠闲惬意",
+      "difficulty_level": "简单"
     }
-  ],
-  "summary": "顾玄享受退休生活时发现系统碎片线索，前往东海遗迹恢复管理员记忆和修为，开启跨世界冒险但被强制传送到废弃试验场Z-75",
-  "key_satisfaction_points": [
-    "悠闲退休生活",
-    "系统碎片发现",
-    "身份揭晓震撼",
-    "修为解封大乘期",
-    "跨世界冒险开始"
-  ],
-  "emotional_curve": "悠闲→好奇→震撼→震撼升级→史诗"
-}
+  },
+  {
+    "shot_id": "EP21-S002",
+    "chapter_number": 21,
+    "scene_number": 2,
+    "duration": 10,
+    "shot_type": "中景+特写",
+    "location": "天衍宗展示厅",
+    "time_of_day": "次日",
+    "composition": {
+      "camera_position": "展示厅",
+      "camera_movement": "推进",
+      "framing": "展示构图",
+      "focus_type": "水晶清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "展示厅",
+        "action": "接触水晶",
+        "expression": "好奇→震惊",
+        "costume": "青云宗道袍"
+      },
+      {
+        "name": "天衍宗宗主",
+        "position": "陪同",
+        "action": "展示发现",
+        "expression": "紧张",
+        "costume": "天衍宗掌门服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "展示厅内的科技风格金属碎片",
+      "lighting": "神秘科技光芒",
+      "color_palette": "科技蓝",
+      "special_effects": "水晶中的数据流闪烁，系统突然响应，版本更新进度显示"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "系统碎片？什么意思？"
+        },
+        {
+          "speaker": "宗主",
+          "text": "说是发现了类似你那个...呃...'特殊法器'的残片"
+        },
+        {
+          "speaker": "系统音",
+          "text": "【检测到更新数据...开始下载...】【版本更新进度：1%...】"
+        }
+      ],
+      "background_music": "神秘科技",
+      "sound_effects": ["数据流动声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "中等",
+      "purpose": "系统碎片发现"
+    },
+    "notes": {
+      "production_note": "实景+CG",
+      "reference_style": "科技神秘",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP21-S003",
+    "chapter_number": 21,
+    "scene_number": 3,
+    "duration": 12,
+    "shot_type": "环绕+特写",
+    "location": "东海海底遗迹",
+    "time_of_day": "三天后",
+    "composition": {
+      "camera_position": "遗迹控制中心",
+      "camera_movement": "环绕推进",
+      "framing": "探索构图",
+      "focus_type": "容器清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "控制中心",
+        "action": "探索遗迹",
+        "expression": "震惊→痛苦",
+        "costume": "青云宗道袍"
+      },
+      {
+        "name": "容器中的顾玄复制品",
+        "position": "巨大容器中",
+        "action": "静止",
+        "expression": "无",
+        "costume": "银白色制服和徽章"
+      }
+    ],
+    "visual_effects": {
+      "environment": "充满科技感的控制中心，全息屏幕，机械臂",
+      "lighting": "深海幽暗蓝光",
+      "color_palette": "科技蓝",
+      "special_effects": "巨大容器中的顾玄复制品，DNA验证特效，记忆碎片闪回"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "这是...我？！"
+        },
+        {
+          "speaker": "长老",
+          "text": "这似乎是遗迹的守护者，但已经失去生命迹象"
+        },
+        {
+          "speaker": "系统音",
+          "text": "【检测到管理员生物样本...开始DNA验证...】【验证通过...欢迎回来，管理员顾玄】【版本更新继续...10%...20%...】"
+        }
+      ],
+      "background_music": "震撼神秘",
+      "sound_effects": ["验证提示音"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "流畅切",
+      "pacing": "缓慢",
+      "purpose": "身份揭晓"
+    },
+    "notes": {
+      "production_note": "大量CG特效",
+      "reference_style": "震撼神秘",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP21-S004",
+    "chapter_number": 21,
+    "scene_number": 4,
+    "duration": 15,
+    "shot_type": "主观+全景",
+    "location": "东海海底遗迹核心",
+    "time_of_day": "紧接着",
+    "composition": {
+      "camera_position": "记忆空间",
+      "camera_movement": "宏大运动",
+      "framing": "记忆构图",
+      "focus_type": "记忆清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "记忆空间",
+        "action": "接受记忆",
+        "expression": "痛苦→震撼",
+        "costume": "青云宗道袍"
+      },
+      {
+        "name": "全息投影",
+        "position": "容器投影",
+        "action": "传递信息",
+        "expression": "平静",
+        "costume": "光影形态"
+      }
+    ],
+    "visual_effects": {
+      "environment": "记忆闪回-浩瀚星海、无数世界、天魔执法部",
+      "lighting": "能量光芒",
+      "color_palette": "记忆色调",
+      "special_effects": "修为疯狂暴涨能量爆发，海底遗迹剧烈震动，升级完成动画"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "投影",
+          "text": "你终于回来了...另一个我"
+        },
+        {
+          "speaker": "顾玄",
+          "text": "我本身就是挂？"
+        },
+        {
+          "speaker": "系统音",
+          "text": "【版本更新完成：V2.0→V3.0】【欢迎使用天魔执法系统完整版】【管理员：顾玄（正式）】【权限等级：7级（解锁全部功能）】"
+        }
+      ],
+      "background_music": "史诗震撼",
+      "sound_effects": ["能量爆发声"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "流畅切",
+      "pacing": "宏大",
+      "purpose": "记忆恢复+升级"
+    },
+    "notes": {
+      "production_note": "大量CG特效",
+      "reference_style": "史诗震撼",
+      "difficulty_level": "非常复杂"
+    }
+  },
+  {
+    "shot_id": "EP21-S005",
+    "chapter_number": 21,
+    "scene_number": 5,
+    "duration": 10,
+    "shot_type": "全景+特写",
+    "location": "青云宗",
+    "time_of_day": "返回后",
+    "composition": {
+      "camera_position": "宗门大会",
+      "camera_movement": "推进",
+      "framing": "展示构图",
+      "focus_type": "威压清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "大会中央",
+        "action": "展示实力",
+        "expression": "淡定→尴尬",
+        "costume": "青云宗道袍"
+      },
+      {
+        "name": "众弟子",
+        "position": "周围",
+        "action": "感受威压",
+        "expression": "震惊",
+        "costume": "弟子服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "宗门大会场景",
+      "lighting": "威压光芒",
+      "color_palette": "威压色调",
+      "special_effects": "一丝气息释放，护山大阵过载崩溃"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "我要离开一段时间。去...另一个世界出差"
+        },
+        {
+          "speaker": "顾玄",
+          "text": "现在的我...很强的"
+        },
+        {
+          "speaker": "系统音",
+          "text": "【修为封印已解除】【当前境界：大乘期（圆满）】【实际战力：无法测量（权限限制）】"
+        }
+      ],
+      "background_music": "震撼转变",
+      "sound_effects": ["护山大阵崩溃声"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "中等",
+      "purpose": "实力展示"
+    },
+    "notes": {
+      "production_note": "实景+CG",
+      "reference_style": "震撼转变",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP21-S006",
+    "chapter_number": 21,
+    "scene_number": 6,
+    "duration": 12,
+    "shot_type": "中景+仰拍",
+    "location": "青云宗后山",
+    "time_of_day": "出发前夜",
+    "composition": {
+      "camera_position": "星空下",
+      "camera_movement": "仰望",
+      "framing": "传送构图",
+      "focus_type": "传送门清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "后山",
+        "action": "调试天魔剑",
+        "expression": "认真→震惊",
+        "costume": "青云宗道袍"
+      },
+      {
+        "name": "陆尘",
+        "position": "旁边",
+        "action": "对话",
+        "expression": "担忧",
+        "costume": "青云宗弟子服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "星空下的后山",
+      "lighting": "星光",
+      "color_palette": "夜空蓝",
+      "special_effects": "星光之门打开，红色警报"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "这是我的职责。而且...我怀疑那个试验场的异常和之前的叛乱有关"
+        },
+        {
+          "speaker": "陆尘",
+          "text": "那我跟你一起去！"
+        },
+        {
+          "speaker": "系统音",
+          "text": "【警告：检测到未知干扰】【跳跃坐标被修改！】【新目的地：试验场Z-75（废弃）】【警告：该区域已标记为危险】"
+        }
+      ],
+      "background_music": "紧张史诗",
+      "sound_effects": ["传送门开启声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "流畅切",
+      "pacing": "中等",
+      "purpose": "传送准备"
+    },
+    "notes": {
+      "production_note": "实景+CG",
+      "reference_style": "紧张史诗",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP21-S007",
+    "chapter_number": 21,
+    "scene_number": 7,
+    "duration": 10,
+    "shot_type": "主观+俯拍",
+    "location": "时空隧道→试验场Z-75",
+    "time_of_day": "跳跃过程中",
+    "composition": {
+      "camera_position": "时空隧道",
+      "camera_movement": "扭曲运动",
+      "framing": "传送构图",
+      "focus_type": "周围清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "传送中",
+        "action": "坠落",
+        "expression": "震惊→警惕",
+        "costume": "青云宗道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "时空隧道扭曲",
+      "lighting": "扭曲光线",
+      "color_palette": "混乱色调",
+      "special_effects": "强制传送，废弃世界景象，世界数据面板"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "声音",
+          "text": "救救我们...它们要来了...时间不多了..."
+        },
+        {
+          "speaker": "系统音",
+          "text": "【当前世界：试验场Z-75（废弃）】【毁灭时间：约3000年前】【文明等级：三级（已灭绝）】【异常能量：高度危险】【幸存者：？？？】"
+        }
+      ],
+      "background_music": "紧张悬疑",
+      "sound_effects": ["传送扭曲声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "极快",
+      "purpose": "强制传送"
+    },
+    "notes": {
+      "production_note": "大量CG特效",
+      "reference_style": "紧张悬疑",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP21-S008",
+    "chapter_number": 21,
+    "scene_number": 8,
+    "duration": 10,
+    "shot_type": "环绕+推进",
+    "location": "试验场Z-75废弃广场",
+    "time_of_day": "刚到达",
+    "composition": {
+      "camera_position": "废墟",
+      "camera_movement": "环绕推进",
+      "framing": "探索构图",
+      "focus_type": "周围清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "废墟广场",
+        "action": "落地观察",
+        "expression": "警惕→明悟",
+        "costume": "青云宗道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "断壁残垣，荒芜死寂",
+      "lighting": "死寂灰色",
+      "color_palette": "废墟色调",
+      "special_effects": "天魔系统微弱光芒，熟悉能量残留，秩序之眼扫描"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "看来找对地方了...这里就是叛乱的源头？"
+        },
+        {
+          "speaker": "系统音",
+          "text": "检测到天魔系统能量残留，比当前系统更高级"
+        }
+      ],
+      "background_music": "悬疑期待",
+      "sound_effects": ["废墟环境声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "缓慢淡出",
+      "pacing": "缓慢",
+      "purpose": "第二卷伏笔"
+    },
+    "notes": {
+      "production_note": "实景+CG",
+      "reference_style": "悬疑期待",
+      "difficulty_level": "中等"
+    }
+  }
+]
