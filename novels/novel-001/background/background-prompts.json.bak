@@ -9,10 +9,33 @@
       "main_prompt_cn": "中国仙侠风格,修仙宗门后院空地,长满杂草,练剑砸出来的坑,被雷劈过的老槐树,简陋练功场,下午光线,自然照明,温暖色调,简陋训练场氛围,下午,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素",
       "sub_scenes": [
         {
-          "name": "青云宗后院-正午",
-          "prompt": "Chinese xianxia style, backyard clearing of cultivation sect, overgrown with weeds, practice pit from sword training, old locust tree burned by lightning, simple training ground, bright noon sunlight, strong shadows, high contrast tone, humble training area atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
-          "prompt_cn": "中国仙侠风格,修仙宗门后院空地,长满杂草,练剑砸出来的坑,被雷劈过的老槐树,简陋练功场,明亮正午阳光,强烈阴影,高对比度色调,简陋训练场氛围,正午,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+          "name": "青云宗后院-夜晚",
+          "prompt": "Chinese xianxia style, backyard clearing of cultivation sect, overgrown with weeds, practice pit from sword training, old locust tree burned by lightning, simple training ground, moonlight, starlight, cool blue, mysterious tone, humble training area atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,修仙宗门后院空地,长满杂草,练剑砸出来的坑,被雷劈过的老槐树,简陋练功场,月光,星光,冷蓝色,神秘色调,简陋训练场氛围,夜晚,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
         },
+        {
+          "name": "青云宗后院-雨天",
+          "prompt": "Chinese xianxia style, backyard clearing of cultivation sect, overgrown with weeds, practice pit from sword training, old locust tree burned by lightning, simple training ground, rainy day, rain falling, wet surfaces, gloomy lighting, grey sky, humble training area atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,修仙宗门后院空地,长满杂草,练剑砸出来的坑,被雷劈过的老槐树,简陋练功场,雨天,下雨,湿润表面,阴郁光线,灰色天空,简陋训练场氛围,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+        }
+      ],
+      "tags": [
+        "室外",
+        "宗门",
+        "修仙",
+        "下午"
+      ],
+      "usage_count": 14,
+      "description": "青云宗后院的场景,简陋训练场氛围"
+    },
+    {
+      "id": "scene-002",
+      "name": "青云宗后院-午后",
+      "location_type": "室外",
+      "time_of_day": "午后",
+      "main_prompt": "Chinese xianxia style, backyard clearing of cultivation sect, overgrown with weeds, practice pit from sword training, old locust tree burned by lightning, simple training ground, afternoon sunlight, warm illumination, warm golden tone, humble training area atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "main_prompt_cn": "中国仙侠风格,修仙宗门后院空地,长满杂草,练剑砸出来的坑,被雷劈过的老槐树,简陋练功场,午后阳光,温暖照明,温暖金色色调,简陋训练场氛围,午后,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素",
+      "sub_scenes": [
         {
           "name": "青云宗后院-夜晚",
           "prompt": "Chinese xianxia style, backyard clearing of cultivation sect, overgrown with weeds, practice pit from sword training, old locust tree burned by lightning, simple training ground, moonlight, starlight, cool blue, mysterious tone, humble training area atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
@@ -22,39 +45,131 @@
           "name": "青云宗后院-雨天",
           "prompt": "Chinese xianxia style, backyard clearing of cultivation sect, overgrown with weeds, practice pit from sword training, old locust tree burned by lightning, simple training ground, rainy day, rain falling, wet surfaces, gloomy lighting, grey sky, humble training area atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "中国仙侠风格,修仙宗门后院空地,长满杂草,练剑砸出来的坑,被雷劈过的老槐树,简陋练功场,雨天,下雨,湿润表面,阴郁光线,灰色天空,简陋训练场氛围,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
-        },
-        {
-          "name": "青云宗后院-午后",
-          "prompt": "Chinese xianxia style, backyard clearing of cultivation sect, overgrown with weeds, practice pit from sword training, old locust tree burned by lightning, simple training ground, afternoon sunlight, warm illumination, warm golden tone, humble training area atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
-          "prompt_cn": "中国仙侠风格,修仙宗门后院空地,长满杂草,练剑砸出来的坑,被雷劈过的老槐树,简陋练功场,午后阳光,温暖照明,温暖金色色调,简陋训练场氛围,午后,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
-        },
-        {
-          "name": "青云宗后院-白天",
-          "prompt": "Chinese xianxia style, backyard clearing of cultivation sect, overgrown with weeds, practice pit from sword training, old locust tree burned by lightning, simple training ground, bright natural daylight, natural, balanced tone, humble training area atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
-          "prompt_cn": "中国仙侠风格,修仙宗门后院空地,长满杂草,练剑砸出来的坑,被雷劈过的老槐树,简陋练功场,明亮自然日光,自然,平衡色调,简陋训练场氛围,白天,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
-        },
-        {
-          "name": "青云宗后院-清晨",
-          "prompt": "Chinese xianxia style, backyard clearing of cultivation sect, overgrown with weeds, practice pit from sword training, old locust tree burned by lightning, simple training ground, morning sunlight, soft dawn light, golden sunrise, warm golden, soft tone, humble training area atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
-          "prompt_cn": "中国仙侠风格,修仙宗门后院空地,长满杂草,练剑砸出来的坑,被雷劈过的老槐树,简陋练功场,晨光,柔和曙光,金色日出,温暖金色,柔和色调,简陋训练场氛围,清晨,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
-        },
-        {
-          "name": "青云宗后院-黄昏",
-          "prompt": "Chinese xianxia style, backyard clearing of cultivation sect, overgrown with weeds, practice pit from sword training, old locust tree burned by lightning, simple training ground, sunset golden hour, warm orange glow, warm orange, golden tone, humble training area atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
-          "prompt_cn": "中国仙侠风格,修仙宗门后院空地,长满杂草,练剑砸出来的坑,被雷劈过的老槐树,简陋练功场,日落黄金时刻,温暖橙色光辉,温暖橙色,金色色调,简陋训练场氛围,黄昏,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
         }
       ],
       "tags": [
         "室外",
         "宗门",
         "修仙",
-        "下午"
+        "午后"
       ],
-      "usage_count": 33,
+      "usage_count": 3,
       "description": "青云宗后院的场景,简陋训练场氛围"
     },
     {
-      "id": "scene-002",
+      "id": "scene-003",
+      "name": "青云宗后院-正午",
+      "location_type": "室外",
+      "time_of_day": "正午",
+      "main_prompt": "Chinese xianxia style, backyard clearing of cultivation sect, overgrown with weeds, practice pit from sword training, old locust tree burned by lightning, simple training ground, bright noon sunlight, strong shadows, high contrast tone, humble training area atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "main_prompt_cn": "中国仙侠风格,修仙宗门后院空地,长满杂草,练剑砸出来的坑,被雷劈过的老槐树,简陋练功场,明亮正午阳光,强烈阴影,高对比度色调,简陋训练场氛围,正午,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素",
+      "sub_scenes": [
+        {
+          "name": "青云宗后院-夜晚",
+          "prompt": "Chinese xianxia style, backyard clearing of cultivation sect, overgrown with weeds, practice pit from sword training, old locust tree burned by lightning, simple training ground, moonlight, starlight, cool blue, mysterious tone, humble training area atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,修仙宗门后院空地,长满杂草,练剑砸出来的坑,被雷劈过的老槐树,简陋练功场,月光,星光,冷蓝色,神秘色调,简陋训练场氛围,夜晚,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+        },
+        {
+          "name": "青云宗后院-雨天",
+          "prompt": "Chinese xianxia style, backyard clearing of cultivation sect, overgrown with weeds, practice pit from sword training, old locust tree burned by lightning, simple training ground, rainy day, rain falling, wet surfaces, gloomy lighting, grey sky, humble training area atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,修仙宗门后院空地,长满杂草,练剑砸出来的坑,被雷劈过的老槐树,简陋练功场,雨天,下雨,湿润表面,阴郁光线,灰色天空,简陋训练场氛围,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+        }
+      ],
+      "tags": [
+        "室外",
+        "宗门",
+        "修仙",
+        "正午"
+      ],
+      "usage_count": 12,
+      "description": "青云宗后院的场景,简陋训练场氛围"
+    },
+    {
+      "id": "scene-004",
+      "name": "青云宗后院-清晨",
+      "location_type": "室外",
+      "time_of_day": "清晨",
+      "main_prompt": "Chinese xianxia style, backyard clearing of cultivation sect, overgrown with weeds, practice pit from sword training, old locust tree burned by lightning, simple training ground, morning sunlight, soft dawn light, golden sunrise, warm golden, soft tone, humble training area atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "main_prompt_cn": "中国仙侠风格,修仙宗门后院空地,长满杂草,练剑砸出来的坑,被雷劈过的老槐树,简陋练功场,晨光,柔和曙光,金色日出,温暖金色,柔和色调,简陋训练场氛围,清晨,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素",
+      "sub_scenes": [
+        {
+          "name": "青云宗后院-夜晚",
+          "prompt": "Chinese xianxia style, backyard clearing of cultivation sect, overgrown with weeds, practice pit from sword training, old locust tree burned by lightning, simple training ground, moonlight, starlight, cool blue, mysterious tone, humble training area atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,修仙宗门后院空地,长满杂草,练剑砸出来的坑,被雷劈过的老槐树,简陋练功场,月光,星光,冷蓝色,神秘色调,简陋训练场氛围,夜晚,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+        },
+        {
+          "name": "青云宗后院-雨天",
+          "prompt": "Chinese xianxia style, backyard clearing of cultivation sect, overgrown with weeds, practice pit from sword training, old locust tree burned by lightning, simple training ground, rainy day, rain falling, wet surfaces, gloomy lighting, grey sky, humble training area atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,修仙宗门后院空地,长满杂草,练剑砸出来的坑,被雷劈过的老槐树,简陋练功场,雨天,下雨,湿润表面,阴郁光线,灰色天空,简陋训练场氛围,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+        }
+      ],
+      "tags": [
+        "室外",
+        "宗门",
+        "修仙",
+        "清晨"
+      ],
+      "usage_count": 1,
+      "description": "青云宗后院的场景,简陋训练场氛围"
+    },
+    {
+      "id": "scene-005",
+      "name": "青云宗后院-白天",
+      "location_type": "室外",
+      "time_of_day": "白天",
+      "main_prompt": "Chinese xianxia style, backyard clearing of cultivation sect, overgrown with weeds, practice pit from sword training, old locust tree burned by lightning, simple training ground, bright natural daylight, natural, balanced tone, humble training area atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "main_prompt_cn": "中国仙侠风格,修仙宗门后院空地,长满杂草,练剑砸出来的坑,被雷劈过的老槐树,简陋练功场,明亮自然日光,自然,平衡色调,简陋训练场氛围,白天,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素",
+      "sub_scenes": [
+        {
+          "name": "青云宗后院-夜晚",
+          "prompt": "Chinese xianxia style, backyard clearing of cultivation sect, overgrown with weeds, practice pit from sword training, old locust tree burned by lightning, simple training ground, moonlight, starlight, cool blue, mysterious tone, humble training area atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,修仙宗门后院空地,长满杂草,练剑砸出来的坑,被雷劈过的老槐树,简陋练功场,月光,星光,冷蓝色,神秘色调,简陋训练场氛围,夜晚,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+        },
+        {
+          "name": "青云宗后院-雨天",
+          "prompt": "Chinese xianxia style, backyard clearing of cultivation sect, overgrown with weeds, practice pit from sword training, old locust tree burned by lightning, simple training ground, rainy day, rain falling, wet surfaces, gloomy lighting, grey sky, humble training area atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,修仙宗门后院空地,长满杂草,练剑砸出来的坑,被雷劈过的老槐树,简陋练功场,雨天,下雨,湿润表面,阴郁光线,灰色天空,简陋训练场氛围,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+        }
+      ],
+      "tags": [
+        "室外",
+        "宗门",
+        "修仙",
+        "白天"
+      ],
+      "usage_count": 2,
+      "description": "青云宗后院的场景,简陋训练场氛围"
+    },
+    {
+      "id": "scene-006",
+      "name": "青云宗后院-黄昏",
+      "location_type": "室外",
+      "time_of_day": "黄昏",
+      "main_prompt": "Chinese xianxia style, backyard clearing of cultivation sect, overgrown with weeds, practice pit from sword training, old locust tree burned by lightning, simple training ground, sunset golden hour, warm orange glow, warm orange, golden tone, humble training area atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "main_prompt_cn": "中国仙侠风格,修仙宗门后院空地,长满杂草,练剑砸出来的坑,被雷劈过的老槐树,简陋练功场,日落黄金时刻,温暖橙色光辉,温暖橙色,金色色调,简陋训练场氛围,黄昏,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素",
+      "sub_scenes": [
+        {
+          "name": "青云宗后院-夜晚",
+          "prompt": "Chinese xianxia style, backyard clearing of cultivation sect, overgrown with weeds, practice pit from sword training, old locust tree burned by lightning, simple training ground, moonlight, starlight, cool blue, mysterious tone, humble training area atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,修仙宗门后院空地,长满杂草,练剑砸出来的坑,被雷劈过的老槐树,简陋练功场,月光,星光,冷蓝色,神秘色调,简陋训练场氛围,夜晚,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+        },
+        {
+          "name": "青云宗后院-雨天",
+          "prompt": "Chinese xianxia style, backyard clearing of cultivation sect, overgrown with weeds, practice pit from sword training, old locust tree burned by lightning, simple training ground, rainy day, rain falling, wet surfaces, gloomy lighting, grey sky, humble training area atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,修仙宗门后院空地,长满杂草,练剑砸出来的坑,被雷劈过的老槐树,简陋练功场,雨天,下雨,湿润表面,阴郁光线,灰色天空,简陋训练场氛围,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+        }
+      ],
+      "tags": [
+        "室外",
+        "宗门",
+        "修仙",
+        "黄昏"
+      ],
+      "usage_count": 1,
+      "description": "青云宗后院的场景,简陋训练场氛围"
+    },
+    {
+      "id": "scene-007",
       "name": "珍宝斋内-上午",
       "location_type": "室内",
       "time_of_day": "上午",
@@ -80,18 +195,41 @@
       "description": "珍宝斋内的场景,繁荣市场氛围"
     },
     {
-      "id": "scene-003",
+      "id": "scene-008",
+      "name": "青云宗山门广场-正午",
+      "location_type": "室外",
+      "time_of_day": "正午",
+      "main_prompt": "Chinese xianxia style, cultivation sect mountain gate plaza, traditional Chinese architecture, stone pavement, several old red wooden tables as reception desk, mountain gate in background, misty mountains in distance, bright noon sunlight, strong shadows, high contrast tone, sect gathering place, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "main_prompt_cn": "中国仙侠风格,修仙宗门山门广场,中国传统建筑,石板路面,几张破旧红木桌拼成接待台,背景是山门,远处是云雾缭绕的群山,明亮正午阳光,强烈阴影,高对比度色调,宗门聚集场所,正午,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素",
+      "sub_scenes": [
+        {
+          "name": "青云宗山门广场-夜晚",
+          "prompt": "Chinese xianxia style, cultivation sect mountain gate plaza, traditional Chinese architecture, stone pavement, several old red wooden tables as reception desk, mountain gate in background, misty mountains in distance, moonlight, starlight, cool blue, mysterious tone, sect gathering place, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,修仙宗门山门广场,中国传统建筑,石板路面,几张破旧红木桌拼成接待台,背景是山门,远处是云雾缭绕的群山,月光,星光,冷蓝色,神秘色调,宗门聚集场所,夜晚,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+        },
+        {
+          "name": "青云宗山门广场-雨天",
+          "prompt": "Chinese xianxia style, cultivation sect mountain gate plaza, traditional Chinese architecture, stone pavement, several old red wooden tables as reception desk, mountain gate in background, misty mountains in distance, rainy day, rain falling, wet surfaces, gloomy lighting, grey sky, sect gathering place, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,修仙宗门山门广场,中国传统建筑,石板路面,几张破旧红木桌拼成接待台,背景是山门,远处是云雾缭绕的群山,雨天,下雨,湿润表面,阴郁光线,灰色天空,宗门聚集场所,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+        }
+      ],
+      "tags": [
+        "室外",
+        "宗门",
+        "修仙",
+        "正午"
+      ],
+      "usage_count": 4,
+      "description": "青云宗山门广场的场景,宗门聚集场所"
+    },
+    {
+      "id": "scene-009",
       "name": "青云宗山门广场-清晨",
       "location_type": "室外",
       "time_of_day": "清晨",
       "main_prompt": "Chinese xianxia style, cultivation sect mountain gate plaza, traditional Chinese architecture, stone pavement, several old red wooden tables as reception desk, mountain gate in background, misty mountains in distance, morning sunlight, soft dawn light, golden sunrise, warm golden, soft tone, sect gathering place, high quality, detailed, 8k resolution, no people, no text, no UI elements",
       "main_prompt_cn": "中国仙侠风格,修仙宗门山门广场,中国传统建筑,石板路面,几张破旧红木桌拼成接待台,背景是山门,远处是云雾缭绕的群山,晨光,柔和曙光,金色日出,温暖金色,柔和色调,宗门聚集场所,清晨,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素",
       "sub_scenes": [
-        {
-          "name": "青云宗山门广场-正午",
-          "prompt": "Chinese xianxia style, cultivation sect mountain gate plaza, traditional Chinese architecture, stone pavement, several old red wooden tables as reception desk, mountain gate in background, misty mountains in distance, bright noon sunlight, strong shadows, high contrast tone, sect gathering place, high quality, detailed, 8k resolution, no people, no text, no UI elements",
-          "prompt_cn": "中国仙侠风格,修仙宗门山门广场,中国传统建筑,石板路面,几张破旧红木桌拼成接待台,背景是山门,远处是云雾缭绕的群山,明亮正午阳光,强烈阴影,高对比度色调,宗门聚集场所,正午,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
-        },
         {
           "name": "青云宗山门广场-夜晚",
           "prompt": "Chinese xianxia style, cultivation sect mountain gate plaza, traditional Chinese architecture, stone pavement, several old red wooden tables as reception desk, mountain gate in background, misty mountains in distance, moonlight, starlight, cool blue, mysterious tone, sect gathering place, high quality, detailed, 8k resolution, no people, no text, no UI elements",
@@ -109,11 +247,11 @@
         "修仙",
         "清晨"
       ],
-      "usage_count": 23,
+      "usage_count": 19,
       "description": "青云宗山门广场的场景,宗门聚集场所"
     },
     {
-      "id": "scene-004",
+      "id": "scene-010",
       "name": "广场三号擂台-白天",
       "location_type": "室外",
       "time_of_day": "白天",
@@ -139,18 +277,13 @@
       "description": "广场三号擂台的场景,竞技氛围"
     },
     {
-      "id": "scene-005",
+      "id": "scene-011",
       "name": "青云宗主殿-清晨",
       "location_type": "室内",
       "time_of_day": "清晨",
       "main_prompt": "Chinese xianxia style, dilapidated main hall of cultivation sect, worn-out wooden pillars, damaged roof letting light through, old stone floor, cracked walls, holes in roof, morning sunlight, soft dawn light, golden sunrise, warm golden, soft tone, solemn but humble atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
       "main_prompt_cn": "中国仙侠风格,破败的修仙宗门主殿,腐朽的木柱,屋顶破损漏光,老旧石地板,墙壁开裂,屋顶有破洞,晨光,柔和曙光,金色日出,温暖金色,柔和色调,庄重但简陋的氛围,清晨,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素",
       "sub_scenes": [
-        {
-          "name": "青云宗主殿-白天",
-          "prompt": "Chinese xianxia style, dilapidated main hall of cultivation sect, worn-out wooden pillars, damaged roof letting light through, old stone floor, cracked walls, holes in roof, bright natural daylight, natural, balanced tone, solemn but humble atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
-          "prompt_cn": "中国仙侠风格,破败的修仙宗门主殿,腐朽的木柱,屋顶破损漏光,老旧石地板,墙壁开裂,屋顶有破洞,明亮自然日光,自然,平衡色调,庄重但简陋的氛围,白天,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
-        },
         {
           "name": "青云宗主殿-夜晚",
           "prompt": "Chinese xianxia style, dilapidated main hall of cultivation sect, worn-out wooden pillars, damaged roof letting light through, old stone floor, cracked walls, holes in roof, moonlight, starlight, cool blue, mysterious tone, solemn but humble atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
@@ -168,11 +301,39 @@
         "修仙",
         "清晨"
       ],
-      "usage_count": 19,
+      "usage_count": 14,
       "description": "青云宗主殿的场景,庄重但简陋的氛围"
     },
     {
-      "id": "scene-006",
+      "id": "scene-012",
+      "name": "青云宗主殿-白天",
+      "location_type": "室内",
+      "time_of_day": "白天",
+      "main_prompt": "Chinese xianxia style, dilapidated main hall of cultivation sect, worn-out wooden pillars, damaged roof letting light through, old stone floor, cracked walls, holes in roof, bright natural daylight, natural, balanced tone, solemn but humble atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "main_prompt_cn": "中国仙侠风格,破败的修仙宗门主殿,腐朽的木柱,屋顶破损漏光,老旧石地板,墙壁开裂,屋顶有破洞,明亮自然日光,自然,平衡色调,庄重但简陋的氛围,白天,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素",
+      "sub_scenes": [
+        {
+          "name": "青云宗主殿-夜晚",
+          "prompt": "Chinese xianxia style, dilapidated main hall of cultivation sect, worn-out wooden pillars, damaged roof letting light through, old stone floor, cracked walls, holes in roof, moonlight, starlight, cool blue, mysterious tone, solemn but humble atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,破败的修仙宗门主殿,腐朽的木柱,屋顶破损漏光,老旧石地板,墙壁开裂,屋顶有破洞,月光,星光,冷蓝色,神秘色调,庄重但简陋的氛围,夜晚,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+        },
+        {
+          "name": "青云宗主殿-雨天",
+          "prompt": "Chinese xianxia style, dilapidated main hall of cultivation sect, worn-out wooden pillars, damaged roof letting light through, old stone floor, cracked walls, holes in roof, rainy day, rain falling, wet surfaces, gloomy lighting, grey sky, solemn but humble atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,破败的修仙宗门主殿,腐朽的木柱,屋顶破损漏光,老旧石地板,墙壁开裂,屋顶有破洞,雨天,下雨,湿润表面,阴郁光线,灰色天空,庄重但简陋的氛围,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+        }
+      ],
+      "tags": [
+        "室内",
+        "宗门",
+        "修仙",
+        "白天"
+      ],
+      "usage_count": 5,
+      "description": "青云宗主殿的场景,庄重但简陋的氛围"
+    },
+    {
+      "id": "scene-013",
       "name": "宴会厅-傍晚",
       "location_type": "室内",
       "time_of_day": "傍晚",
@@ -198,7 +359,7 @@
       "description": "宴会厅的场景,宏伟喜庆氛围"
     },
     {
-      "id": "scene-007",
+      "id": "scene-014",
       "name": "青云宗-夜晚",
       "location_type": "室外",
       "time_of_day": "夜晚",
@@ -206,10 +367,28 @@
       "main_prompt_cn": "中国仙侠风格,青云宗全景,山地宗门建筑,中国传统建筑群,坐落在群山中的宗门,月光,星光,冷蓝色,神秘色调,修仙宗门氛围,夜晚,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素",
       "sub_scenes": [
         {
-          "name": "青云宗-白天",
-          "prompt": "Chinese xianxia style, Qingyun Sect overview, mountain sect buildings, traditional Chinese architecture complex, sect nestled in mountains, bright natural daylight, natural, balanced tone, cultivation sect atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
-          "prompt_cn": "中国仙侠风格,青云宗全景,山地宗门建筑,中国传统建筑群,坐落在群山中的宗门,明亮自然日光,自然,平衡色调,修仙宗门氛围,白天,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
-        },
+          "name": "青云宗-雨天",
+          "prompt": "Chinese xianxia style, Qingyun Sect overview, mountain sect buildings, traditional Chinese architecture complex, sect nestled in mountains, rainy day, rain falling, wet surfaces, gloomy lighting, grey sky, cultivation sect atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,青云宗全景,山地宗门建筑,中国传统建筑群,坐落在群山中的宗门,雨天,下雨,湿润表面,阴郁光线,灰色天空,修仙宗门氛围,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+        }
+      ],
+      "tags": [
+        "室外",
+        "宗门",
+        "修仙",
+        "夜晚"
+      ],
+      "usage_count": 12,
+      "description": "青云宗的场景,修仙宗门氛围"
+    },
+    {
+      "id": "scene-015",
+      "name": "青云宗-次日白天",
+      "location_type": "室外",
+      "time_of_day": "次日白天",
+      "main_prompt": "Chinese xianxia style, Qingyun Sect overview, mountain sect buildings, traditional Chinese architecture complex, sect nestled in mountains, neutral lighting, neutral tone, cultivation sect atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "main_prompt_cn": "中国仙侠风格,青云宗全景,山地宗门建筑,中国传统建筑群,坐落在群山中的宗门,中性光线,中性色调,修仙宗门氛围,次日白天,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素",
+      "sub_scenes": [
         {
           "name": "青云宗-夜晚",
           "prompt": "Chinese xianxia style, Qingyun Sect overview, mountain sect buildings, traditional Chinese architecture complex, sect nestled in mountains, moonlight, starlight, cool blue, mysterious tone, cultivation sect atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
@@ -219,34 +398,103 @@
           "name": "青云宗-雨天",
           "prompt": "Chinese xianxia style, Qingyun Sect overview, mountain sect buildings, traditional Chinese architecture complex, sect nestled in mountains, rainy day, rain falling, wet surfaces, gloomy lighting, grey sky, cultivation sect atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "中国仙侠风格,青云宗全景,山地宗门建筑,中国传统建筑群,坐落在群山中的宗门,雨天,下雨,湿润表面,阴郁光线,灰色天空,修仙宗门氛围,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
-        },
-        {
-          "name": "青云宗-次日白天",
-          "prompt": "Chinese xianxia style, Qingyun Sect overview, mountain sect buildings, traditional Chinese architecture complex, sect nestled in mountains, neutral lighting, neutral tone, cultivation sect atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
-          "prompt_cn": "中国仙侠风格,青云宗全景,山地宗门建筑,中国传统建筑群,坐落在群山中的宗门,中性光线,中性色调,修仙宗门氛围,次日白天,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
-        },
-        {
-          "name": "青云宗-返回后",
-          "prompt": "Chinese xianxia style, Qingyun Sect overview, mountain sect buildings, traditional Chinese architecture complex, sect nestled in mountains, neutral lighting, neutral tone, cultivation sect atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
-          "prompt_cn": "中国仙侠风格,青云宗全景,山地宗门建筑,中国传统建筑群,坐落在群山中的宗门,中性光线,中性色调,修仙宗门氛围,返回后,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
-        },
-        {
-          "name": "青云宗-黄昏",
-          "prompt": "Chinese xianxia style, Qingyun Sect overview, mountain sect buildings, traditional Chinese architecture complex, sect nestled in mountains, sunset golden hour, warm orange glow, warm orange, golden tone, cultivation sect atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
-          "prompt_cn": "中国仙侠风格,青云宗全景,山地宗门建筑,中国传统建筑群,坐落在群山中的宗门,日落黄金时刻,温暖橙色光辉,温暖橙色,金色色调,修仙宗门氛围,黄昏,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
         }
       ],
       "tags": [
         "室外",
         "宗门",
         "修仙",
-        "夜晚"
+        "次日白天"
       ],
-      "usage_count": 18,
+      "usage_count": 1,
       "description": "青云宗的场景,修仙宗门氛围"
     },
     {
-      "id": "scene-008",
+      "id": "scene-016",
+      "name": "青云宗-白天",
+      "location_type": "室外",
+      "time_of_day": "白天",
+      "main_prompt": "Chinese xianxia style, Qingyun Sect overview, mountain sect buildings, traditional Chinese architecture complex, sect nestled in mountains, bright natural daylight, natural, balanced tone, cultivation sect atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "main_prompt_cn": "中国仙侠风格,青云宗全景,山地宗门建筑,中国传统建筑群,坐落在群山中的宗门,明亮自然日光,自然,平衡色调,修仙宗门氛围,白天,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素",
+      "sub_scenes": [
+        {
+          "name": "青云宗-夜晚",
+          "prompt": "Chinese xianxia style, Qingyun Sect overview, mountain sect buildings, traditional Chinese architecture complex, sect nestled in mountains, moonlight, starlight, cool blue, mysterious tone, cultivation sect atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,青云宗全景,山地宗门建筑,中国传统建筑群,坐落在群山中的宗门,月光,星光,冷蓝色,神秘色调,修仙宗门氛围,夜晚,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+        },
+        {
+          "name": "青云宗-雨天",
+          "prompt": "Chinese xianxia style, Qingyun Sect overview, mountain sect buildings, traditional Chinese architecture complex, sect nestled in mountains, rainy day, rain falling, wet surfaces, gloomy lighting, grey sky, cultivation sect atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,青云宗全景,山地宗门建筑,中国传统建筑群,坐落在群山中的宗门,雨天,下雨,湿润表面,阴郁光线,灰色天空,修仙宗门氛围,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+        }
+      ],
+      "tags": [
+        "室外",
+        "宗门",
+        "修仙",
+        "白天"
+      ],
+      "usage_count": 3,
+      "description": "青云宗的场景,修仙宗门氛围"
+    },
+    {
+      "id": "scene-017",
+      "name": "青云宗-返回后",
+      "location_type": "室外",
+      "time_of_day": "返回后",
+      "main_prompt": "Chinese xianxia style, Qingyun Sect overview, mountain sect buildings, traditional Chinese architecture complex, sect nestled in mountains, neutral lighting, neutral tone, cultivation sect atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "main_prompt_cn": "中国仙侠风格,青云宗全景,山地宗门建筑,中国传统建筑群,坐落在群山中的宗门,中性光线,中性色调,修仙宗门氛围,返回后,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素",
+      "sub_scenes": [
+        {
+          "name": "青云宗-夜晚",
+          "prompt": "Chinese xianxia style, Qingyun Sect overview, mountain sect buildings, traditional Chinese architecture complex, sect nestled in mountains, moonlight, starlight, cool blue, mysterious tone, cultivation sect atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,青云宗全景,山地宗门建筑,中国传统建筑群,坐落在群山中的宗门,月光,星光,冷蓝色,神秘色调,修仙宗门氛围,夜晚,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+        },
+        {
+          "name": "青云宗-雨天",
+          "prompt": "Chinese xianxia style, Qingyun Sect overview, mountain sect buildings, traditional Chinese architecture complex, sect nestled in mountains, rainy day, rain falling, wet surfaces, gloomy lighting, grey sky, cultivation sect atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,青云宗全景,山地宗门建筑,中国传统建筑群,坐落在群山中的宗门,雨天,下雨,湿润表面,阴郁光线,灰色天空,修仙宗门氛围,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+        }
+      ],
+      "tags": [
+        "室外",
+        "宗门",
+        "修仙",
+        "返回后"
+      ],
+      "usage_count": 1,
+      "description": "青云宗的场景,修仙宗门氛围"
+    },
+    {
+      "id": "scene-018",
+      "name": "青云宗-黄昏",
+      "location_type": "室外",
+      "time_of_day": "黄昏",
+      "main_prompt": "Chinese xianxia style, Qingyun Sect overview, mountain sect buildings, traditional Chinese architecture complex, sect nestled in mountains, sunset golden hour, warm orange glow, warm orange, golden tone, cultivation sect atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "main_prompt_cn": "中国仙侠风格,青云宗全景,山地宗门建筑,中国传统建筑群,坐落在群山中的宗门,日落黄金时刻,温暖橙色光辉,温暖橙色,金色色调,修仙宗门氛围,黄昏,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素",
+      "sub_scenes": [
+        {
+          "name": "青云宗-夜晚",
+          "prompt": "Chinese xianxia style, Qingyun Sect overview, mountain sect buildings, traditional Chinese architecture complex, sect nestled in mountains, moonlight, starlight, cool blue, mysterious tone, cultivation sect atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,青云宗全景,山地宗门建筑,中国传统建筑群,坐落在群山中的宗门,月光,星光,冷蓝色,神秘色调,修仙宗门氛围,夜晚,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+        },
+        {
+          "name": "青云宗-雨天",
+          "prompt": "Chinese xianxia style, Qingyun Sect overview, mountain sect buildings, traditional Chinese architecture complex, sect nestled in mountains, rainy day, rain falling, wet surfaces, gloomy lighting, grey sky, cultivation sect atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,青云宗全景,山地宗门建筑,中国传统建筑群,坐落在群山中的宗门,雨天,下雨,湿润表面,阴郁光线,灰色天空,修仙宗门氛围,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+        }
+      ],
+      "tags": [
+        "室外",
+        "宗门",
+        "修仙",
+        "黄昏"
+      ],
+      "usage_count": 1,
+      "description": "青云宗的场景,修仙宗门氛围"
+    },
+    {
+      "id": "scene-019",
       "name": "后山密林-夜晚",
       "location_type": "室外",
       "time_of_day": "夜晚",
@@ -267,7 +515,7 @@
       "description": "后山密林的场景,神秘森林氛围"
     },
     {
-      "id": "scene-009",
+      "id": "scene-020",
       "name": "青云宗后院空地-上午",
       "location_type": "室外",
       "time_of_day": "上午",
@@ -295,7 +543,7 @@
       "description": "青云宗后院空地的场景,宁静练功场氛围"
     },
     {
-      "id": "scene-010",
+      "id": "scene-021",
       "name": "顾玄房间-夜晚",
       "location_type": "室内",
       "time_of_day": "夜晚",
@@ -303,10 +551,26 @@
       "main_prompt_cn": "中国仙侠风格,修炼者房间,木床和木桌,冥想空间,简单住宿,宗门弟子住所,月光,星光,冷蓝色,神秘色调,宁静修炼氛围,夜晚,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素",
       "sub_scenes": [
         {
-          "name": "顾玄房间-次日白天",
-          "prompt": "Chinese xianxia style, cultivator's room, wooden bed and table, meditation space, simple accommodations, cultivation sect quarters, neutral lighting, neutral tone, peaceful cultivation atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
-          "prompt_cn": "中国仙侠风格,修炼者房间,木床和木桌,冥想空间,简单住宿,宗门弟子住所,中性光线,中性色调,宁静修炼氛围,次日白天,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
-        },
+          "name": "顾玄房间-雨天",
+          "prompt": "Chinese xianxia style, cultivator's room, wooden bed and table, meditation space, simple accommodations, cultivation sect quarters, rainy day, rain falling, wet surfaces, gloomy lighting, grey sky, peaceful cultivation atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,修炼者房间,木床和木桌,冥想空间,简单住宿,宗门弟子住所,雨天,下雨,湿润表面,阴郁光线,灰色天空,宁静修炼氛围,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+        }
+      ],
+      "tags": [
+        "室内",
+        "夜晚"
+      ],
+      "usage_count": 6,
+      "description": "顾玄房间的场景,宁静修炼氛围"
+    },
+    {
+      "id": "scene-022",
+      "name": "顾玄房间-次日白天",
+      "location_type": "室内",
+      "time_of_day": "次日白天",
+      "main_prompt": "Chinese xianxia style, cultivator's room, wooden bed and table, meditation space, simple accommodations, cultivation sect quarters, neutral lighting, neutral tone, peaceful cultivation atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "main_prompt_cn": "中国仙侠风格,修炼者房间,木床和木桌,冥想空间,简单住宿,宗门弟子住所,中性光线,中性色调,宁静修炼氛围,次日白天,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素",
+      "sub_scenes": [
         {
           "name": "顾玄房间-夜晚",
           "prompt": "Chinese xianxia style, cultivator's room, wooden bed and table, meditation space, simple accommodations, cultivation sect quarters, moonlight, starlight, cool blue, mysterious tone, peaceful cultivation atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
@@ -316,22 +580,43 @@
           "name": "顾玄房间-雨天",
           "prompt": "Chinese xianxia style, cultivator's room, wooden bed and table, meditation space, simple accommodations, cultivation sect quarters, rainy day, rain falling, wet surfaces, gloomy lighting, grey sky, peaceful cultivation atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "中国仙侠风格,修炼者房间,木床和木桌,冥想空间,简单住宿,宗门弟子住所,雨天,下雨,湿润表面,阴郁光线,灰色天空,宁静修炼氛围,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
-        },
-        {
-          "name": "顾玄房间-白天",
-          "prompt": "Chinese xianxia style, cultivator's room, wooden bed and table, meditation space, simple accommodations, cultivation sect quarters, bright natural daylight, natural, balanced tone, peaceful cultivation atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
-          "prompt_cn": "中国仙侠风格,修炼者房间,木床和木桌,冥想空间,简单住宿,宗门弟子住所,明亮自然日光,自然,平衡色调,宁静修炼氛围,白天,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
         }
       ],
       "tags": [
         "室内",
-        "夜晚"
+        "次日白天"
       ],
-      "usage_count": 11,
+      "usage_count": 3,
       "description": "顾玄房间的场景,宁静修炼氛围"
     },
     {
-      "id": "scene-011",
+      "id": "scene-023",
+      "name": "顾玄房间-白天",
+      "location_type": "室内",
+      "time_of_day": "白天",
+      "main_prompt": "Chinese xianxia style, cultivator's room, wooden bed and table, meditation space, simple accommodations, cultivation sect quarters, bright natural daylight, natural, balanced tone, peaceful cultivation atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "main_prompt_cn": "中国仙侠风格,修炼者房间,木床和木桌,冥想空间,简单住宿,宗门弟子住所,明亮自然日光,自然,平衡色调,宁静修炼氛围,白天,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素",
+      "sub_scenes": [
+        {
+          "name": "顾玄房间-夜晚",
+          "prompt": "Chinese xianxia style, cultivator's room, wooden bed and table, meditation space, simple accommodations, cultivation sect quarters, moonlight, starlight, cool blue, mysterious tone, peaceful cultivation atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,修炼者房间,木床和木桌,冥想空间,简单住宿,宗门弟子住所,月光,星光,冷蓝色,神秘色调,宁静修炼氛围,夜晚,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+        },
+        {
+          "name": "顾玄房间-雨天",
+          "prompt": "Chinese xianxia style, cultivator's room, wooden bed and table, meditation space, simple accommodations, cultivation sect quarters, rainy day, rain falling, wet surfaces, gloomy lighting, grey sky, peaceful cultivation atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,修炼者房间,木床和木桌,冥想空间,简单住宿,宗门弟子住所,雨天,下雨,湿润表面,阴郁光线,灰色天空,宁静修炼氛围,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+        }
+      ],
+      "tags": [
+        "室内",
+        "白天"
+      ],
+      "usage_count": 2,
+      "description": "顾玄房间的场景,宁静修炼氛围"
+    },
+    {
+      "id": "scene-024",
       "name": "青云宗-顾玄房中-白天",
       "location_type": "室内",
       "time_of_day": "白天",
@@ -359,8 +644,8 @@
       "description": "青云宗-顾玄房中的场景,宁静修炼氛围"
     },
     {
-      "id": "scene-012",
-      "name": "地下石室-无",
+      "id": "scene-025",
+      "name": "地下石室",
       "location_type": "特殊空间",
       "time_of_day": "无",
       "main_prompt": "Chinese xianxia style, underground stone chamber, ancient walls, mysterious altar, cultivation secret chamber, dim space, neutral lighting, neutral tone, ancient mysterious atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
@@ -385,7 +670,7 @@
       "description": "地下石室的场景,古老神秘氛围"
     },
     {
-      "id": "scene-013",
+      "id": "scene-026",
       "name": "广场-白天",
       "location_type": "室外",
       "time_of_day": "白天",
@@ -411,7 +696,7 @@
       "description": "广场的场景,繁华氛围"
     },
     {
-      "id": "scene-014",
+      "id": "scene-027",
       "name": "密室-夜晚",
       "location_type": "室内",
       "time_of_day": "夜晚",
@@ -432,7 +717,7 @@
       "description": "密室的场景,神秘修炼氛围"
     },
     {
-      "id": "scene-015",
+      "id": "scene-028",
       "name": "青云宗院落-深夜",
       "location_type": "室外",
       "time_of_day": "深夜",
@@ -455,8 +740,8 @@
       "description": "青云宗院落的场景,宁静宗门氛围"
     },
     {
-      "id": "scene-016",
-      "name": "临州市-街道-晚上-晚上",
+      "id": "scene-029",
+      "name": "临州市-街道-晚上",
       "location_type": "室外",
       "time_of_day": "晚上",
       "main_prompt": "Chinese xianxia style, city streets in Linzhou, modern urban roads, contemporary buildings, city life, neutral lighting, neutral tone, modern city atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
@@ -481,7 +766,7 @@
       "description": "临州市-街道的场景,现代城市氛围"
     },
     {
-      "id": "scene-017",
+      "id": "scene-030",
       "name": "青云宗主殿角落-清晨",
       "location_type": "室内",
       "time_of_day": "清晨",
@@ -509,7 +794,7 @@
       "description": "青云宗主殿角落的场景,简陋破败的氛围"
     },
     {
-      "id": "scene-018",
+      "id": "scene-031",
       "name": "青云宗-顾玄房门口-清晨",
       "location_type": "室外",
       "time_of_day": "清晨",
@@ -537,7 +822,7 @@
       "description": "青云宗-顾玄房门口的场景,宁静宗门氛围"
     },
     {
-      "id": "scene-019",
+      "id": "scene-032",
       "name": "青州城中心广场-次日白天",
       "location_type": "室外",
       "time_of_day": "次日白天",
@@ -563,7 +848,28 @@
       "description": "青州城中心广场的场景,繁华城市氛围"
     },
     {
-      "id": "scene-020",
+      "id": "scene-033",
+      "name": "顾玄房中-夜晚",
+      "location_type": "室内",
+      "time_of_day": "夜晚",
+      "main_prompt": "Chinese xianxia style, disciple's room, simple wooden furniture, cultivation practice space, humble dwelling, paper windows, moonlight, starlight, cool blue, mysterious tone, quiet cultivation atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "main_prompt_cn": "中国仙侠风格,弟子房间,简单木制家具,修炼练习空间,简陋住所,纸窗,月光,星光,冷蓝色,神秘色调,宁静修炼氛围,夜晚,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素",
+      "sub_scenes": [
+        {
+          "name": "顾玄房中-雨天",
+          "prompt": "Chinese xianxia style, disciple's room, simple wooden furniture, cultivation practice space, humble dwelling, paper windows, rainy day, rain falling, wet surfaces, gloomy lighting, grey sky, quiet cultivation atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,弟子房间,简单木制家具,修炼练习空间,简陋住所,纸窗,雨天,下雨,湿润表面,阴郁光线,灰色天空,宁静修炼氛围,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+        }
+      ],
+      "tags": [
+        "室内",
+        "夜晚"
+      ],
+      "usage_count": 1,
+      "description": "顾玄房中的场景,宁静修炼氛围"
+    },
+    {
+      "id": "scene-034",
       "name": "顾玄房中-深夜",
       "location_type": "室内",
       "time_of_day": "深夜",
@@ -571,10 +877,26 @@
       "main_prompt_cn": "中国仙侠风格,弟子房间,简单木制家具,修炼练习空间,简陋住所,纸窗,昏暗月光,黑暗,深蓝,神秘色调,宁静修炼氛围,深夜,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素",
       "sub_scenes": [
         {
-          "name": "顾玄房中-白天",
-          "prompt": "Chinese xianxia style, disciple's room, simple wooden furniture, cultivation practice space, humble dwelling, paper windows, bright natural daylight, natural, balanced tone, quiet cultivation atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
-          "prompt_cn": "中国仙侠风格,弟子房间,简单木制家具,修炼练习空间,简陋住所,纸窗,明亮自然日光,自然,平衡色调,宁静修炼氛围,白天,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
-        },
+          "name": "顾玄房中-雨天",
+          "prompt": "Chinese xianxia style, disciple's room, simple wooden furniture, cultivation practice space, humble dwelling, paper windows, rainy day, rain falling, wet surfaces, gloomy lighting, grey sky, quiet cultivation atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,弟子房间,简单木制家具,修炼练习空间,简陋住所,纸窗,雨天,下雨,湿润表面,阴郁光线,灰色天空,宁静修炼氛围,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+        }
+      ],
+      "tags": [
+        "室内",
+        "深夜"
+      ],
+      "usage_count": 2,
+      "description": "顾玄房中的场景,宁静修炼氛围"
+    },
+    {
+      "id": "scene-035",
+      "name": "顾玄房中-白天",
+      "location_type": "室内",
+      "time_of_day": "白天",
+      "main_prompt": "Chinese xianxia style, disciple's room, simple wooden furniture, cultivation practice space, humble dwelling, paper windows, bright natural daylight, natural, balanced tone, quiet cultivation atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "main_prompt_cn": "中国仙侠风格,弟子房间,简单木制家具,修炼练习空间,简陋住所,纸窗,明亮自然日光,自然,平衡色调,宁静修炼氛围,白天,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素",
+      "sub_scenes": [
         {
           "name": "顾玄房中-夜晚",
           "prompt": "Chinese xianxia style, disciple's room, simple wooden furniture, cultivation practice space, humble dwelling, paper windows, moonlight, starlight, cool blue, mysterious tone, quiet cultivation atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
@@ -584,22 +906,17 @@
           "name": "顾玄房中-雨天",
           "prompt": "Chinese xianxia style, disciple's room, simple wooden furniture, cultivation practice space, humble dwelling, paper windows, rainy day, rain falling, wet surfaces, gloomy lighting, grey sky, quiet cultivation atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "中国仙侠风格,弟子房间,简单木制家具,修炼练习空间,简陋住所,纸窗,雨天,下雨,湿润表面,阴郁光线,灰色天空,宁静修炼氛围,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
-        },
-        {
-          "name": "顾玄房中-夜晚",
-          "prompt": "Chinese xianxia style, disciple's room, simple wooden furniture, cultivation practice space, humble dwelling, paper windows, moonlight, starlight, cool blue, mysterious tone, quiet cultivation atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
-          "prompt_cn": "中国仙侠风格,弟子房间,简单木制家具,修炼练习空间,简陋住所,纸窗,月光,星光,冷蓝色,神秘色调,宁静修炼氛围,夜晚,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
         }
       ],
       "tags": [
         "室内",
-        "深夜"
+        "白天"
       ],
-      "usage_count": 5,
+      "usage_count": 2,
       "description": "顾玄房中的场景,宁静修炼氛围"
     },
     {
-      "id": "scene-021",
+      "id": "scene-036",
       "name": "地球-各地-白天",
       "location_type": "室外",
       "time_of_day": "白天",
@@ -625,7 +942,7 @@
       "description": "地球-各地的场景,危机氛围"
     },
     {
-      "id": "scene-022",
+      "id": "scene-037",
       "name": "后山-平地处-白天",
       "location_type": "室外",
       "time_of_day": "白天",
@@ -651,7 +968,7 @@
       "description": "后山-平地处的场景,荒凉破败氛围"
     },
     {
-      "id": "scene-023",
+      "id": "scene-038",
       "name": "青云宗山门-深夜",
       "location_type": "室外",
       "time_of_day": "深夜",
@@ -659,10 +976,28 @@
       "main_prompt_cn": "中国仙侠风格,修仙宗门山门,中国传统大门,石阶,宗门入口,宏伟但风化,昏暗月光,黑暗,深蓝,神秘色调,宗门入口氛围,深夜,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素",
       "sub_scenes": [
         {
-          "name": "青云宗山门-白天",
-          "prompt": "Chinese xianxia style, cultivation sect mountain gate, traditional Chinese gate, stone steps, sect entrance, grand but weathered, bright natural daylight, natural, balanced tone, sect entrance atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
-          "prompt_cn": "中国仙侠风格,修仙宗门山门,中国传统大门,石阶,宗门入口,宏伟但风化,明亮自然日光,自然,平衡色调,宗门入口氛围,白天,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
-        },
+          "name": "青云宗山门-雨天",
+          "prompt": "Chinese xianxia style, cultivation sect mountain gate, traditional Chinese gate, stone steps, sect entrance, grand but weathered, rainy day, rain falling, wet surfaces, gloomy lighting, grey sky, sect entrance atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,修仙宗门山门,中国传统大门,石阶,宗门入口,宏伟但风化,雨天,下雨,湿润表面,阴郁光线,灰色天空,宗门入口氛围,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+        }
+      ],
+      "tags": [
+        "室外",
+        "宗门",
+        "修仙",
+        "深夜"
+      ],
+      "usage_count": 2,
+      "description": "青云宗山门的场景,宗门入口氛围"
+    },
+    {
+      "id": "scene-039",
+      "name": "青云宗山门-白天",
+      "location_type": "室外",
+      "time_of_day": "白天",
+      "main_prompt": "Chinese xianxia style, cultivation sect mountain gate, traditional Chinese gate, stone steps, sect entrance, grand but weathered, bright natural daylight, natural, balanced tone, sect entrance atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "main_prompt_cn": "中国仙侠风格,修仙宗门山门,中国传统大门,石阶,宗门入口,宏伟但风化,明亮自然日光,自然,平衡色调,宗门入口氛围,白天,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素",
+      "sub_scenes": [
         {
           "name": "青云宗山门-夜晚",
           "prompt": "Chinese xianxia style, cultivation sect mountain gate, traditional Chinese gate, stone steps, sect entrance, grand but weathered, moonlight, starlight, cool blue, mysterious tone, sect entrance atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
@@ -678,24 +1013,19 @@
         "室外",
         "宗门",
         "修仙",
-        "深夜"
+        "白天"
       ],
-      "usage_count": 4,
+      "usage_count": 2,
       "description": "青云宗山门的场景,宗门入口氛围"
     },
     {
-      "id": "scene-024",
+      "id": "scene-040",
       "name": "青州城各处-白天",
       "location_type": "室外",
       "time_of_day": "白天",
       "main_prompt": "Chinese xianxia style, various locations in Qingzhou City, bustling streets, city scenes, cultivation city life, bright natural daylight, natural, balanced tone, prosperous city atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
       "main_prompt_cn": "中国仙侠风格,青州城各处,繁华街道,城市景象,修仙城市生活,明亮自然日光,自然,平衡色调,繁荣城市氛围,白天,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素",
       "sub_scenes": [
-        {
-          "name": "青州城各处-第二天白天",
-          "prompt": "Chinese xianxia style, various locations in Qingzhou City, bustling streets, city scenes, cultivation city life, neutral lighting, neutral tone, prosperous city atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
-          "prompt_cn": "中国仙侠风格,青州城各处,繁华街道,城市景象,修仙城市生活,中性光线,中性色调,繁荣城市氛围,第二天白天,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
-        },
         {
           "name": "青州城各处-夜晚",
           "prompt": "Chinese xianxia style, various locations in Qingzhou City, bustling streets, city scenes, cultivation city life, moonlight, starlight, cool blue, mysterious tone, prosperous city atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
@@ -711,11 +1041,37 @@
         "室外",
         "白天"
       ],
-      "usage_count": 4,
+      "usage_count": 3,
       "description": "青州城各处的场景,繁荣城市氛围"
     },
     {
-      "id": "scene-025",
+      "id": "scene-041",
+      "name": "青州城各处-第二天白天",
+      "location_type": "室外",
+      "time_of_day": "第二天白天",
+      "main_prompt": "Chinese xianxia style, various locations in Qingzhou City, bustling streets, city scenes, cultivation city life, neutral lighting, neutral tone, prosperous city atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "main_prompt_cn": "中国仙侠风格,青州城各处,繁华街道,城市景象,修仙城市生活,中性光线,中性色调,繁荣城市氛围,第二天白天,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素",
+      "sub_scenes": [
+        {
+          "name": "青州城各处-夜晚",
+          "prompt": "Chinese xianxia style, various locations in Qingzhou City, bustling streets, city scenes, cultivation city life, moonlight, starlight, cool blue, mysterious tone, prosperous city atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,青州城各处,繁华街道,城市景象,修仙城市生活,月光,星光,冷蓝色,神秘色调,繁荣城市氛围,夜晚,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+        },
+        {
+          "name": "青州城各处-雨天",
+          "prompt": "Chinese xianxia style, various locations in Qingzhou City, bustling streets, city scenes, cultivation city life, rainy day, rain falling, wet surfaces, gloomy lighting, grey sky, prosperous city atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,青州城各处,繁华街道,城市景象,修仙城市生活,雨天,下雨,湿润表面,阴郁光线,灰色天空,繁荣城市氛围,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+        }
+      ],
+      "tags": [
+        "室外",
+        "第二天白天"
+      ],
+      "usage_count": 1,
+      "description": "青州城各处的场景,繁荣城市氛围"
+    },
+    {
+      "id": "scene-042",
       "name": "青州商会大厦-宴会厅-傍晚",
       "location_type": "室内",
       "time_of_day": "傍晚",
@@ -741,7 +1097,7 @@
       "description": "青州商会大厦-宴会厅的场景,宏伟庆典氛围"
     },
     {
-      "id": "scene-026",
+      "id": "scene-043",
       "name": "地球-各处-白天",
       "location_type": "室外",
       "time_of_day": "白天",
@@ -767,7 +1123,7 @@
       "description": "地球-各处的场景,现代世界氛围"
     },
     {
-      "id": "scene-027",
+      "id": "scene-044",
       "name": "地球-大学计算机实验室-白天",
       "location_type": "室内",
       "time_of_day": "白天",
@@ -793,7 +1149,7 @@
       "description": "地球-大学计算机实验室的场景,现代学术氛围"
     },
     {
-      "id": "scene-028",
+      "id": "scene-045",
       "name": "青云宗上空-正午",
       "location_type": "室外",
       "time_of_day": "正午",
@@ -801,24 +1157,14 @@
       "main_prompt_cn": "中国仙侠风格,修仙宗门上空,云海,下方的山峰,御剑飞行视角,从上方的缥缈景色,明亮正午阳光,强烈阴影,高对比度色调,缥缈修仙氛围,正午,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素",
       "sub_scenes": [
         {
-          "name": "青云宗上空-深夜",
-          "prompt": "Chinese xianxia style, sky above cultivation sect, sea of clouds, mountain peaks below, flying sword perspective, ethereal view from above, dim moonlight, darkness, dark blue, mysterious tone, ethereal cultivation atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
-          "prompt_cn": "中国仙侠风格,修仙宗门上空,云海,下方的山峰,御剑飞行视角,从上方的缥缈景色,昏暗月光,黑暗,深蓝,神秘色调,缥缈修仙氛围,深夜,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+          "name": "青云宗上空-夜晚",
+          "prompt": "Chinese xianxia style, sky above cultivation sect, sea of clouds, mountain peaks below, flying sword perspective, ethereal view from above, moonlight, starlight, cool blue, mysterious tone, ethereal cultivation atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,修仙宗门上空,云海,下方的山峰,御剑飞行视角,从上方的缥缈景色,月光,星光,冷蓝色,神秘色调,缥缈修仙氛围,夜晚,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
         },
         {
           "name": "青云宗上空-雨天",
           "prompt": "Chinese xianxia style, sky above cultivation sect, sea of clouds, mountain peaks below, flying sword perspective, ethereal view from above, rainy day, rain falling, wet surfaces, gloomy lighting, grey sky, ethereal cultivation atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "中国仙侠风格,修仙宗门上空,云海,下方的山峰,御剑飞行视角,从上方的缥缈景色,雨天,下雨,湿润表面,阴郁光线,灰色天空,缥缈修仙氛围,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
-        },
-        {
-          "name": "青云宗上空-清晨",
-          "prompt": "Chinese xianxia style, sky above cultivation sect, sea of clouds, mountain peaks below, flying sword perspective, ethereal view from above, morning sunlight, soft dawn light, golden sunrise, warm golden, soft tone, ethereal cultivation atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
-          "prompt_cn": "中国仙侠风格,修仙宗门上空,云海,下方的山峰,御剑飞行视角,从上方的缥缈景色,晨光,柔和曙光,金色日出,温暖金色,柔和色调,缥缈修仙氛围,清晨,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
-        },
-        {
-          "name": "青云宗上空-夜晚",
-          "prompt": "Chinese xianxia style, sky above cultivation sect, sea of clouds, mountain peaks below, flying sword perspective, ethereal view from above, moonlight, starlight, cool blue, mysterious tone, ethereal cultivation atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
-          "prompt_cn": "中国仙侠风格,修仙宗门上空,云海,下方的山峰,御剑飞行视角,从上方的缥缈景色,月光,星光,冷蓝色,神秘色调,缥缈修仙氛围,夜晚,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
         }
       ],
       "tags": [
@@ -827,11 +1173,62 @@
         "修仙",
         "正午"
       ],
-      "usage_count": 3,
+      "usage_count": 1,
       "description": "青云宗上空的场景,缥缈修仙氛围"
     },
     {
-      "id": "scene-029",
+      "id": "scene-046",
+      "name": "青云宗上空-深夜",
+      "location_type": "室外",
+      "time_of_day": "深夜",
+      "main_prompt": "Chinese xianxia style, sky above cultivation sect, sea of clouds, mountain peaks below, flying sword perspective, ethereal view from above, dim moonlight, darkness, dark blue, mysterious tone, ethereal cultivation atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "main_prompt_cn": "中国仙侠风格,修仙宗门上空,云海,下方的山峰,御剑飞行视角,从上方的缥缈景色,昏暗月光,黑暗,深蓝,神秘色调,缥缈修仙氛围,深夜,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素",
+      "sub_scenes": [
+        {
+          "name": "青云宗上空-雨天",
+          "prompt": "Chinese xianxia style, sky above cultivation sect, sea of clouds, mountain peaks below, flying sword perspective, ethereal view from above, rainy day, rain falling, wet surfaces, gloomy lighting, grey sky, ethereal cultivation atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,修仙宗门上空,云海,下方的山峰,御剑飞行视角,从上方的缥缈景色,雨天,下雨,湿润表面,阴郁光线,灰色天空,缥缈修仙氛围,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+        }
+      ],
+      "tags": [
+        "室外",
+        "宗门",
+        "修仙",
+        "深夜"
+      ],
+      "usage_count": 1,
+      "description": "青云宗上空的场景,缥缈修仙氛围"
+    },
+    {
+      "id": "scene-047",
+      "name": "青云宗上空-清晨",
+      "location_type": "室外",
+      "time_of_day": "清晨",
+      "main_prompt": "Chinese xianxia style, sky above cultivation sect, sea of clouds, mountain peaks below, flying sword perspective, ethereal view from above, morning sunlight, soft dawn light, golden sunrise, warm golden, soft tone, ethereal cultivation atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "main_prompt_cn": "中国仙侠风格,修仙宗门上空,云海,下方的山峰,御剑飞行视角,从上方的缥缈景色,晨光,柔和曙光,金色日出,温暖金色,柔和色调,缥缈修仙氛围,清晨,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素",
+      "sub_scenes": [
+        {
+          "name": "青云宗上空-夜晚",
+          "prompt": "Chinese xianxia style, sky above cultivation sect, sea of clouds, mountain peaks below, flying sword perspective, ethereal view from above, moonlight, starlight, cool blue, mysterious tone, ethereal cultivation atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,修仙宗门上空,云海,下方的山峰,御剑飞行视角,从上方的缥缈景色,月光,星光,冷蓝色,神秘色调,缥缈修仙氛围,夜晚,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+        },
+        {
+          "name": "青云宗上空-雨天",
+          "prompt": "Chinese xianxia style, sky above cultivation sect, sea of clouds, mountain peaks below, flying sword perspective, ethereal view from above, rainy day, rain falling, wet surfaces, gloomy lighting, grey sky, ethereal cultivation atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,修仙宗门上空,云海,下方的山峰,御剑飞行视角,从上方的缥缈景色,雨天,下雨,湿润表面,阴郁光线,灰色天空,缥缈修仙氛围,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+        }
+      ],
+      "tags": [
+        "室外",
+        "宗门",
+        "修仙",
+        "清晨"
+      ],
+      "usage_count": 1,
+      "description": "青云宗上空的场景,缥缈修仙氛围"
+    },
+    {
+      "id": "scene-048",
       "name": "歪脖子树下-白天",
       "location_type": "室外",
       "time_of_day": "白天",
@@ -857,7 +1254,7 @@
       "description": "歪脖子树下的场景,神秘氛围"
     },
     {
-      "id": "scene-030",
+      "id": "scene-049",
       "name": "树下挖掘处-白天",
       "location_type": "室外",
       "time_of_day": "白天",
@@ -883,8 +1280,8 @@
       "description": "树下挖掘处的场景,悬疑氛围"
     },
     {
-      "id": "scene-031",
-      "name": "地下石室出口-无",
+      "id": "scene-050",
+      "name": "地下石室出口",
       "location_type": "特殊空间",
       "time_of_day": "无",
       "main_prompt": "Chinese xianxia style, exit of underground stone chamber, passage opening, murals on walls, ancient artwork, neutral lighting, neutral tone, mysterious transition atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
@@ -909,7 +1306,7 @@
       "description": "地下石室出口的场景,神秘过渡氛围"
     },
     {
-      "id": "scene-032",
+      "id": "scene-051",
       "name": "回青云宗的山路-白天",
       "location_type": "室外",
       "time_of_day": "白天",
@@ -937,7 +1334,7 @@
       "description": "回青云宗的山路的场景,宁静旅程氛围"
     },
     {
-      "id": "scene-033",
+      "id": "scene-052",
       "name": "青云宗住处-夜晚",
       "location_type": "室内",
       "time_of_day": "夜晚",
@@ -960,7 +1357,7 @@
       "description": "青云宗住处的场景,简单修炼氛围"
     },
     {
-      "id": "scene-034",
+      "id": "scene-053",
       "name": "密室内（顾玄房间）-夜晚",
       "location_type": "室内",
       "time_of_day": "夜晚",
@@ -981,7 +1378,7 @@
       "description": "密室内（顾玄房间）的场景,神秘修炼氛围"
     },
     {
-      "id": "scene-035",
+      "id": "scene-054",
       "name": "枯井阵盘-深夜",
       "location_type": "特殊空间",
       "time_of_day": "深夜",
@@ -1002,7 +1399,7 @@
       "description": "枯井阵盘的场景,古老力量氛围"
     },
     {
-      "id": "scene-036",
+      "id": "scene-055",
       "name": "枯井边-深夜",
       "location_type": "室外",
       "time_of_day": "深夜",
@@ -1023,7 +1420,7 @@
       "description": "枯井边的场景,神秘氛围"
     },
     {
-      "id": "scene-037",
+      "id": "scene-056",
       "name": "宴会厅-阵法前-傍晚",
       "location_type": "室内",
       "time_of_day": "傍晚",
@@ -1049,7 +1446,7 @@
       "description": "宴会厅-阵法前的场景,神秘氛围"
     },
     {
-      "id": "scene-038",
+      "id": "scene-057",
       "name": "地球-临州市大学城-白天",
       "location_type": "室外",
       "time_of_day": "白天",
@@ -1075,7 +1472,7 @@
       "description": "地球-临州市大学城的场景,现代奇幻氛围"
     },
     {
-      "id": "scene-039",
+      "id": "scene-058",
       "name": "青云宗外门弟子房-清晨",
       "location_type": "室内",
       "time_of_day": "清晨",
@@ -1103,18 +1500,39 @@
       "description": "青云宗外门弟子房的场景,宁静修炼氛围"
     },
     {
-      "id": "scene-040",
+      "id": "scene-059",
+      "name": "顾玄脑海/眼前-午后",
+      "location_type": "特殊空间",
+      "time_of_day": "午后",
+      "main_prompt": "Chinese xianxia style, translucent blue system interface floating in vision, holographic panels, technological elements, system menu, afternoon sunlight, warm illumination, warm golden tone, technological interface atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "main_prompt_cn": "中国仙侠风格,视野中浮动的半透明蓝色系统界面,全息面板,科技元素,系统菜单,午后阳光,温暖照明,温暖金色色调,科技界面氛围,午后,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素",
+      "sub_scenes": [
+        {
+          "name": "顾玄脑海/眼前-夜晚",
+          "prompt": "Chinese xianxia style, translucent blue system interface floating in vision, holographic panels, technological elements, system menu, moonlight, starlight, cool blue, mysterious tone, technological interface atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,视野中浮动的半透明蓝色系统界面,全息面板,科技元素,系统菜单,月光,星光,冷蓝色,神秘色调,科技界面氛围,夜晚,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+        },
+        {
+          "name": "顾玄脑海/眼前-雨天",
+          "prompt": "Chinese xianxia style, translucent blue system interface floating in vision, holographic panels, technological elements, system menu, rainy day, rain falling, wet surfaces, gloomy lighting, grey sky, technological interface atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格,视野中浮动的半透明蓝色系统界面,全息面板,科技元素,系统菜单,雨天,下雨,湿润表面,阴郁光线,灰色天空,科技界面氛围,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
+        }
+      ],
+      "tags": [
+        "特殊空间",
+        "午后"
+      ],
+      "usage_count": 1,
+      "description": "顾玄脑海/眼前的场景,科技界面氛围"
+    },
+    {
+      "id": "scene-060",
       "name": "顾玄脑海/眼前-清晨",
       "location_type": "特殊空间",
       "time_of_day": "清晨",
       "main_prompt": "Chinese xianxia style, translucent blue system interface floating in vision, holographic panels, technological elements, system menu, morning sunlight, soft dawn light, golden sunrise, warm golden, soft tone, technological interface atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
       "main_prompt_cn": "中国仙侠风格,视野中浮动的半透明蓝色系统界面,全息面板,科技元素,系统菜单,晨光,柔和曙光,金色日出,温暖金色,柔和色调,科技界面氛围,清晨,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素",
       "sub_scenes": [
-        {
-          "name": "顾玄脑海/眼前-午后",
-          "prompt": "Chinese xianxia style, translucent blue system interface floating in vision, holographic panels, technological elements, system menu, afternoon sunlight, warm illumination, warm golden tone, technological interface atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
-          "prompt_cn": "中国仙侠风格,视野中浮动的半透明蓝色系统界面,全息面板,科技元素,系统菜单,午后阳光,温暖照明,温暖金色色调,科技界面氛围,午后,高质量,细节丰富,8k分辨率,无人物,无文字,无UI元素"
-        },
         {
           "name": "顾玄脑海/眼前-夜晚",
           "prompt": "Chinese xianxia style, translucent blue system interface floating in vision, holographic panels, technological elements, system menu, moonlight, starlight, cool blue, mysterious tone, technological interface atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
@@ -1130,11 +1548,11 @@
         "特殊空间",
         "清晨"
       ],
-      "usage_count": 3,
+      "usage_count": 2,
       "description": "顾玄脑海/眼前的场景,科技界面氛围"
     },
     {
-      "id": "scene-041",
+      "id": "scene-061",
       "name": "青州城-珍宝斋门前-上午",
       "location_type": "室外",
       "time_of_day": "上午",
@@ -1160,8 +1578,8 @@
       "description": "青州城-珍宝斋门前的场景,繁荣城市氛围"
     },
     {
-      "id": "scene-042",
-      "name": "地下通道-无",
+      "id": "scene-062",
+      "name": "地下通道",
       "location_type": "特殊空间",
       "time_of_day": "无",
       "main_prompt": "Chinese xianxia style, underground passage, stone walls, dim lighting, secret tunnel, ancient construction, neutral lighting, neutral tone, mysterious underground atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
@@ -1186,7 +1604,7 @@
       "description": "地下通道的场景,神秘地下氛围"
     },
     {
-      "id": "scene-043",
+      "id": "scene-063",
       "name": "广场擂台边-白天",
       "location_type": "室外",
       "time_of_day": "白天",
@@ -1212,7 +1630,7 @@
       "description": "广场擂台边的场景,激动竞技氛围"
     },
     {
-      "id": "scene-044",
+      "id": "scene-064",
       "name": "广场高台-白天",
       "location_type": "室外",
       "time_of_day": "白天",
@@ -1238,7 +1656,7 @@
       "description": "广场高台的场景,宏伟氛围"
     },
     {
-      "id": "scene-045",
+      "id": "scene-065",
       "name": "后院枯井-深夜",
       "location_type": "室外",
       "time_of_day": "深夜",
@@ -1259,7 +1677,7 @@
       "description": "后院枯井的场景,荒凉神秘氛围"
     },
     {
-      "id": "scene-046",
+      "id": "scene-066",
       "name": "顾玄脑海/密室-夜晚",
       "location_type": "特殊空间",
       "time_of_day": "夜晚",
@@ -1280,8 +1698,8 @@
       "description": "顾玄脑海/密室的场景,科技神秘氛围"
     },
     {
-      "id": "scene-047",
-      "name": "记忆战场-古代-古代",
+      "id": "scene-067",
+      "name": "记忆战场-古代",
       "location_type": "特殊空间",
       "time_of_day": "古代",
       "main_prompt": "Chinese xianxia style, ancient battlefield from memory, vast scene, countless worlds, cultivation war remains, historical battlefield, neutral lighting, neutral tone, epic historical atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
@@ -1306,7 +1724,7 @@
       "description": "记忆战场的场景,史诗历史氛围"
     },
     {
-      "id": "scene-048",
+      "id": "scene-068",
       "name": "青云宗-院落-白天",
       "location_type": "室外",
       "time_of_day": "白天",
@@ -1334,7 +1752,7 @@
       "description": "青云宗-院落的场景,简陋宗门氛围"
     },
     {
-      "id": "scene-049",
+      "id": "scene-069",
       "name": "青云宗-深夜-深夜",
       "location_type": "室外",
       "time_of_day": "深夜",
@@ -1357,7 +1775,7 @@
       "description": "青云宗-深夜的场景,不祥氛围"
     },
     {
-      "id": "scene-050",
+      "id": "scene-070",
       "name": "山下-青云宗上空-深夜",
       "location_type": "室外",
       "time_of_day": "深夜",
@@ -1380,7 +1798,7 @@
       "description": "山下-青云宗上空的场景,紧张对峙氛围"
     },
     {
-      "id": "scene-051",
+      "id": "scene-071",
       "name": "山下-深夜",
       "location_type": "室外",
       "time_of_day": "深夜",
@@ -1401,7 +1819,7 @@
       "description": "山下的场景,毁灭氛围"
     },
     {
-      "id": "scene-052",
+      "id": "scene-072",
       "name": "青州商会大厦-宴会厅角落-傍晚",
       "location_type": "室内",
       "time_of_day": "傍晚",
@@ -1427,7 +1845,7 @@
       "description": "青州商会大厦-宴会厅角落的场景,安静庆典氛围"
     },
     {
-      "id": "scene-053",
+      "id": "scene-073",
       "name": "宴会厅-光柱中-傍晚",
       "location_type": "室内",
       "time_of_day": "傍晚",
@@ -1453,7 +1871,7 @@
       "description": "宴会厅-光柱中的场景,神秘魔法氛围"
     },
     {
-      "id": "scene-054",
+      "id": "scene-074",
       "name": "后山-夜晚",
       "location_type": "室外",
       "time_of_day": "夜晚",
@@ -1474,7 +1892,7 @@
       "description": "后山的场景,荒凉偏僻氛围"
     },
     {
-      "id": "scene-055",
+      "id": "scene-075",
       "name": "地球-临州市-白天",
       "location_type": "室外",
       "time_of_day": "白天",
@@ -1499,5 +1917,14 @@
       "usage_count": 1,
       "description": "地球-临州市的场景,现代城市氛围"
     }
-  ]
+  ],
+  "metadata": {
+    "version": "2.0",
+    "created_date": "2025-01-20",
+    "total_scenes": 75,
+    "description": "Optimized background scene prompts for cultivation novel, generated from comprehensive storyboard analysis. All scenes follow Chinese xianxia style with clean backgrounds (no people, no text, no UI elements).",
+    "prompt_style": "Chinese xianxia cultivation style, detailed visual descriptions, 8k resolution quality, optimized for AI image generation",
+    "usage_guideline": "All prompts specify 'no people, no text, no UI elements' to ensure clean background images suitable for character composition",
+    "data_source": "Generated from storyboard-chapter-01.json through storyboard-chapter-36.json"
+  }
 }
